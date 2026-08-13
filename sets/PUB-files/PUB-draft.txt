@@ -1,0 +1,5414 @@
+﻿[CustomCards]
+	[	{
+			"name": "Miyabi, Void Hunter",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Fox Warrior ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/290_Miyabi, Void Hunter.png"
+			}
+		},
+		{
+			"name": "Rampaging Gigalith",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/132_Rampaging Gigalith.png"
+			}
+		},
+		{
+			"name": "Lucy, the Baroness",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/124_Lucy, the Baroness.png"
+			}
+		},
+		{
+			"name": "Burnice, Blazing Mixologist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/111_Burnice, Blazing Mixologist.png"
+			}
+		},
+		{
+			"name": "Billy, Heroic Android",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{W}",
+			"type": "Legendary Artifact Creature — Robot Rogue ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/185_Billy, Heroic Android.png"
+			}
+		},
+		{
+			"name": "Anby, Hollow Specialist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/29_Anby, Hollow Specialist.png"
+			}
+		},
+		{
+			"name": "Rina, Head Housemaid",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/328_Rina, Head Housemaid.png"
+			}
+		},
+		{
+			"name": "Lycaon, Refined Housekeeper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Wolf ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/281_Lycaon, Refined Housekeeper.png"
+			}
+		},
+		{
+			"name": "Piper, Retirement Bound",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/311_Piper, Retirement Bound.png"
+			}
+		},
+		{
+			"name": "Jane, Cunning Infiltrator",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Rat Rogue ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/266_Jane, Cunning Infiltrator.png"
+			}
+		},
+		{
+			"name": "Caesar, Outer Ring Overlord",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/201_Caesar, Outer Ring Overlord.png"
+			}
+		},
+		{
+			"name": "Soldier 11, Loyalist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/345_Soldier 11, Loyalist.png"
+			}
+		},
+		{
+			"name": "Minos, Regretful King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Spirit ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/48_Minos, Regretful King.png"
+			}
+		},
+		{
+			"name": "Foreboding Aegislash",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/235_Foreboding Aegislash.png"
+			}
+		},
+		{
+			"name": "Deoxys, Mysterious Invader",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Alien Shapeshifter ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/214_Deoxys, Mysterious Invader.png"
+			}
+		},
+		{
+			"name": "Zhu Yuan, Best in Class",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Officer ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/59_Zhu Yuan, Best in Class.png"
+			}
+		},
+		{
+			"name": "Ben, the Greathearted",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Bear ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/184_Ben, the Greathearted.png"
+			}
+		},
+		{
+			"name": "Ellen, the Shark Bite",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Shark Warrior ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/224_Ellen, the Shark Bite.png"
+			}
+		},
+		{
+			"name": "Corin, Ever-Shy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/64_Corin, Ever-Shy.png"
+			}
+		},
+		{
+			"name": "Nekomata, Cunning Feline",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Cat ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/50_Nekomata, Cunning Feline.png"
+			}
+		},
+		{
+			"name": "Nicole, Cunning Hare",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/296_Nicole, Cunning Hare.png"
+			}
+		},
+		{
+			"name": "Koleda, Passionate Leader",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/123_Koleda, Passionate Leader.png"
+			}
+		},
+		{
+			"name": "Qingyi, Old Soul",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Artifact Creature — Robot Officer ",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/316_Qingyi, Old Soul.png"
+			}
+		},
+		{
+			"name": "Pecharunt, Poison Puppeteer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Spirit Beast ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/308_Pecharunt, Poison Puppeteer.png"
+			}
+		},
+		{
+			"name": "Dialga, Master of Time",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Legendary Creature — Dragon Avatar ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/216_Dialga, Master of Time.png"
+			}
+		},
+		{
+			"name": "Giratina, Dark Distortion",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Dragon Shade ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/240_Giratina, Dark Distortion.png"
+			}
+		},
+		{
+			"name": "Palkia, Master of Space",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{U}{U}",
+			"type": "Legendary Creature — Dragon Avatar ",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/306_Palkia, Master of Space.png"
+			}
+		},
+		{
+			"name": "Koraidon, Winged King",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/273_Koraidon, Winged King.png"
+			}
+		},
+		{
+			"name": "Miraidon, Iron Serpent",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Artifact Creature — Dragon ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/288_Miraidon, Iron Serpent.png"
+			}
+		},
+		{
+			"name": "Jirachi, the Granter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Alien ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/267_Jirachi, the Granter.png"
+			}
+		},
+		{
+			"name": "Terapagos, the Indigo Disk",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental Turtle ",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/356_Terapagos, the Indigo Disk.png"
+			}
+		},
+		{
+			"name": "Genesect, Mechanized Ancient",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Artifact Creature — Insect ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/143_Genesect, Mechanized Ancient.png"
+			}
+		},
+		{
+			"name": "Sisyphus, the Unstoppable",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Creature — Spirit ",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/341_Sisyphus, the Unstoppable.png"
+			}
+		},
+		{
+			"name": "Dialga, Usurper of Time",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W/U}{W/U}{W/U}",
+			"type": "Legendary Creature — Dragon Demigod ",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/391_Dialga, Usurper of Time.png"
+			}
+		},
+		{
+			"name": "Mox Lazotep",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/421_Mox Lazotep.png"
+			}
+		},
+		{
+			"name": "Gabriel, Judge of Hell",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R/W}{W}",
+			"type": "Legendary Creature — Angel Warrior ",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/393_Gabriel, Judge of Hell.png"
+			}
+		},
+		{
+			"name": "Qenari, Flameborn",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/131_Qenari, Flameborn.png"
+			}
+		},
+		{
+			"name": "V1, Merciless Machine",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Artifact Creature — Robot ",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/368_V1, Merciless Machine.png"
+			}
+		},
+		{
+			"name": "Palkia, Usurper of Space",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G/U}{G/U}{G/U}",
+			"type": "Legendary Creature — Dragon Demigod ",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/398_Palkia, Usurper of Space.png"
+			}
+		},
+		{
+			"name": "Mera, Youthful Explorer",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Kor Scout ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/287_Mera, Youthful Explorer.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/77_Sol Ring.png"
+			}
+		},
+		{
+			"name": "Rayquaza, Delta Wind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}{R}",
+			"type": "Legendary Creature — Elemental Dragon ",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/321_Rayquaza, Delta Wind.png"
+			}
+		},
+		{
+			"name": "1000-THR Earthmover",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Robot ",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/405_1000-THR Earthmover.png"
+			}
+		},
+		{
+			"name": "Groudon, Primal Earth",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Legendary Creature — Elemental Beast ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/119_Groudon, Primal Earth.png"
+			}
+		},
+		{
+			"name": "Kyogre, Primal Sea",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Creature — Elemental Whale ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/71_Kyogre, Primal Sea.png"
+			}
+		},
+		{
+			"name": "Wo-Chien, Treasure of Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/377_Wo-Chien, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Corpse of King Minos",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Creature — Zombie Giant ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/84_Corpse of King Minos.png"
+			}
+		},
+		{
+			"name": "Ultrakill",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{R}",
+			"type": "Instant",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/364_Ultrakill.png"
+			}
+		},
+		{
+			"name": "Yanagi, Blood Bound",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/379_Yanagi, Blood Bound.png"
+			}
+		},
+		{
+			"name": "Lighter, the Red Scarf",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/278_Lighter, the Red Scarf.png"
+			}
+		},
+		{
+			"name": "Birth of the Titans",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/186_Birth of the Titans.png"
+			}
+		},
+		{
+			"name": "Something Wicked",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Legendary Creature — Horror ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/102_Something Wicked.png"
+			}
+		},
+		{
+			"name": "Chien-Pao, Treasure of Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/204_Chien-Pao, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Pepsiman, Carbonated Hero",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Artifact Creature — Pepsi Hero ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/309_Pepsiman, Carbonated Hero.png"
+			}
+		},
+		{
+			"name": "Ting-Lu, Treasure of Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/360_Ting-Lu, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Chi-Yu, Treasure of Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/203_Chi-Yu, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Pepsi",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/1_Pepsi.png"
+			}
+		},
+		{
+			"name": "Sea Emperor Leviathan",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Leviathan ",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/331_Sea Emperor Leviathan.png"
+			}
+		},
+		{
+			"name": "Deer Lord",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Demon Horror ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/213_Deer Lord.png"
+			}
+		},
+		{
+			"name": "Ink-Treader Nephilim",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Legendary Creature — Nephilim ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/262_Ink-Treader Nephilim.png"
+			}
+		},
+		{
+			"name": "Grace, Master Mechanic",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/245_Grace, Master Mechanic.png"
+			}
+		},
+		{
+			"name": "Tezzeret, Corrupted Artificer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{H/U}/B{B}",
+			"type": "Legendary Planeswalker — Tezzeret ",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/400_Tezzeret, Corrupted Artificer.png"
+			}
+		},
+		{
+			"name": "Anton, Best Bro",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/171_Anton, Best Bro.png"
+			}
+		},
+		{
+			"name": "Roaring Moon",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Dragon Bird ",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/329_Roaring Moon.png"
+			}
+		},
+		{
+			"name": "Ho-Oh, Hope Bringer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Bird ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/256_Ho-Oh, Hope Bringer.png"
+			}
+		},
+		{
+			"name": "Iron Valiant",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Artifact Creature — Construct Warrior ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/264_Iron Valiant.png"
+			}
+		},
+		{
+			"name": "Glint-Eye Nephilim",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Legendary Creature — Nephilim  ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/241_Glint-Eye Nephilim.png"
+			}
+		},
+		{
+			"name": "Dune-Brood Nephilim",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Legendary Creature — Nephilim  ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/219_Dune-Brood Nephilim.png"
+			}
+		},
+		{
+			"name": "Yore-Tiller Nephilim",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Legendary Creature — Nephilim  ",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/383_Yore-Tiller Nephilim.png"
+			}
+		},
+		{
+			"name": "Witch-Maw Nephilim",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Legendary Creature — Nephilim  ",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/376_Witch-Maw Nephilim.png"
+			}
+		},
+		{
+			"name": "Arceus, Alpha Pokémon",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — God ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/3_Arceus, Alpha Pokémon.png"
+			}
+		},
+		{
+			"name": "Eternatus, the Darkest Day",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Dragon Skeleton ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/89_Eternatus, the Darkest Day.png"
+			}
+		},
+		{
+			"name": "Zacian and Zamazenta",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Dog Warrior ",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/386_Zacian and Zamazenta.png"
+			}
+		},
+		{
+			"name": "Subject Delta, Caretaker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Artifact Creature — Human Mutant ",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/349_Subject Delta, Caretaker.png"
+			}
+		},
+		{
+			"name": "Xerneas, Lifebringer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Elk Avatar ",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/378_Xerneas, Lifebringer.png"
+			}
+		},
+		{
+			"name": "Soukaku, Gluttonous Oni",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/346_Soukaku, Gluttonous Oni.png"
+			}
+		},
+		{
+			"name": "Yveltal, Deathbringer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Bird Avatar ",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/385_Yveltal, Deathbringer.png"
+			}
+		},
+		{
+			"name": "Combine Advisor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Artifact Creature — Alien Synth Advisor ",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/411_Combine Advisor.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/450_Island.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/454_Forest.png"
+			}
+		},
+		{
+			"name": "The Fiery Rebirth",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Enchantment  — Saga ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/233_The Fiery Rebirth.png"
+			}
+		},
+		{
+			"name": "Altered Creation",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/168_Altered Creation.png"
+			}
+		},
+		{
+			"name": "Devastating Strider",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}{R}{G}",
+			"type": "Artifact Creature — Alien Synth ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/215_Devastating Strider.png"
+			}
+		},
+		{
+			"name": "Combine Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}{G}",
+			"type": "Artifact Creature — Alien Synth Scout ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/139_Combine Hunter.png"
+			}
+		},
+		{
+			"name": "Johnny Silverhand, Engram",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Artifact Creature — Construct Equipment ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/269_Johnny Silverhand, Engram.png"
+			}
+		},
+		{
+			"name": "V, Rising Legend",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Mercenary ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/138_V, Rising Legend.png"
+			}
+		},
+		{
+			"name": "Harding, the Beast",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/252_Harding, the Beast.png"
+			}
+		},
+		{
+			"name": "Darksteel Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Artifact Creature — Phyrexian Hydra ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/210_Darksteel Hydra.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/453_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/447_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/452_Swamp.png"
+			}
+		},
+		{
+			"name": "Combine APC",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/412_Combine APC.png"
+			}
+		},
+		{
+			"name": "Raven",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/76_Raven.png"
+			}
+		},
+		{
+			"name": "Alien Elite",
+			"rarity": "rare",
+			"mana_cost": "{2}{C}{G}{W}",
+			"type": "Artifact Creature — Alien Synth Soldier ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/167_Alien Elite.png"
+			}
+		},
+		{
+			"name": "One of Multitudes",
+			"rarity": "rare",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/21_One of Multitudes.png"
+			}
+		},
+		{
+			"name": "Combine Gunner",
+			"rarity": "rare",
+			"mana_cost": "{C}{R}",
+			"type": "Artifact Creature — Human Synth Soldier ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/113_Combine Gunner.png"
+			}
+		},
+		{
+			"name": "Dusk Stalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Eldrazi  ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/220_Dusk Stalker.png"
+			}
+		},
+		{
+			"name": "Shishilan Pasalan",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{W}",
+			"type": "Legendary Creature — Giant Cat ",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/338_Shishilan Pasalan.png"
+			}
+		},
+		{
+			"name": "Ancient Relicanth",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elder Fish ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/61_Ancient Relicanth.png"
+			}
+		},
+		{
+			"name": "Dread Coast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/435_Dread Coast.png"
+			}
+		},
+		{
+			"name": "Super Synth",
+			"rarity": "mythic",
+			"mana_cost": "{3}{C}{R}{R}",
+			"type": "Artifact Creature — Alien Synth ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/136_Super Synth.png"
+			}
+		},
+		{
+			"name": "Overwatch Stabilizers",
+			"rarity": "rare",
+			"mana_cost": "{1}{C}{R}{W}",
+			"type": "Artifact Creature — Human Synth Soldier ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/304_Overwatch Stabilizers.png"
+			}
+		},
+		{
+			"name": "Elder Kingambit",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Elder Noble ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/222_Elder Kingambit.png"
+			}
+		},
+		{
+			"name": "Tireless Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{C}{W}",
+			"type": "Artifact Creature — Human Synth Soldier ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/57_Tireless Lookout.png"
+			}
+		},
+		{
+			"name": "Harumasa, Master Marksman",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Archer ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/253_Harumasa, Master Marksman.png"
+			}
+		},
+		{
+			"name": "Marauder",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/126_Marauder.png"
+			}
+		},
+		{
+			"name": "Skullbriar, Undying Menace",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{G}",
+			"type": "Legendary Creature — Zombie Elemental ",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/342_Skullbriar, Undying Menace.png"
+			}
+		},
+		{
+			"name": "Restava, Honor Bound",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Dragon Knight ",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/327_Restava, Honor Bound.png"
+			}
+		},
+		{
+			"name": "False Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Hydra Horror ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/230_False Hydra.png"
+			}
+		},
+		{
+			"name": "Ammo Explosion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/105_Ammo Explosion.png"
+			}
+		},
+		{
+			"name": "Nineveh, Flower of Corruption",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}{G}",
+			"type": "Legendary Creature — Mutant Plant ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/298_Nineveh, Flower of Corruption.png"
+			}
+		},
+		{
+			"name": "Bull Shark",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/199_Bull Shark.png"
+			}
+		},
+		{
+			"name": "Hatchetman",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact  — Vehicle ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/144_Hatchetman.png"
+			}
+		},
+		{
+			"name": "Timber Wolf",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/359_Timber Wolf.png"
+			}
+		},
+		{
+			"name": "MAD-4X",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/283_MAD-4X.png"
+			}
+		},
+		{
+			"name": "Hunchback",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/418_Hunchback.png"
+			}
+		},
+		{
+			"name": "Phoenix Hawk",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/310_Phoenix Hawk.png"
+			}
+		},
+		{
+			"name": "Annihilator",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/170_Annihilator.png"
+			}
+		},
+		{
+			"name": "Griffin",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/69_Griffin.png"
+			}
+		},
+		{
+			"name": "Ares Command 'Mech",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/173_Ares Command 'Mech.png"
+			}
+		},
+		{
+			"name": "Urbanmech",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/429_Urbanmech.png"
+			}
+		},
+		{
+			"name": "Bringer of Creation",
+			"rarity": "mythic",
+			"mana_cost": "{7}{C}{C}",
+			"type": "Creature — Eldrazi Bringer ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/4_Bringer of Creation.png"
+			}
+		},
+		{
+			"name": "The Lich, Gungeon Master",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Skeleton Slinger ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/277_The Lich, Gungeon Master.png"
+			}
+		},
+		{
+			"name": "Hermaeus Mora, Fate Keeper",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Daedra ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/254_Hermaeus Mora, Fate Keeper.png"
+			}
+		},
+		{
+			"name": "Thunder Fox",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/358_Thunder Fox.png"
+			}
+		},
+		{
+			"name": "Ajani, Defender of the Weak",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Ajani ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/164_Ajani, Defender of the Weak.png"
+			}
+		},
+		{
+			"name": "Loyal Dragonite",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dragon ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/45_Loyal Dragonite.png"
+			}
+		},
+		{
+			"name": "Joyful Clodsire",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Salamander ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/147_Joyful Clodsire.png"
+			}
+		},
+		{
+			"name": "Orion",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/423_Orion.png"
+			}
+		},
+		{
+			"name": "Ultra Emergence",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/363_Ultra Emergence.png"
+			}
+		},
+		{
+			"name": "Ratchet and Clank, Heroes",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Artifact Creature — Cat Robot ",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/320_Ratchet and Clank, Heroes.png"
+			}
+		},
+		{
+			"name": "Seth, Naive Protector",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Cat Officer  ",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/335_Seth, Naive Protector.png"
+			}
+		},
+		{
+			"name": "Astra, Inspiring Idol",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/177_Astra, Inspiring Idol.png"
+			}
+		},
+		{
+			"name": "Hellspawn",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/121_Hellspawn.png"
+			}
+		},
+		{
+			"name": "Evelyn, Loyal Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/39_Evelyn, Loyal Guardian.png"
+			}
+		},
+		{
+			"name": "Empowered Celesteela",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Alien Plant ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/225_Empowered Celesteela.png"
+			}
+		},
+		{
+			"name": "Black Knight Clanbuster",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/30_Black Knight Clanbuster.png"
+			}
+		},
+		{
+			"name": "Shadowhawk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/336_Shadowhawk.png"
+			}
+		},
+		{
+			"name": "Mech Hangar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/440_Mech Hangar.png"
+			}
+		},
+		{
+			"name": "Hellstar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/122_Hellstar.png"
+			}
+		},
+		{
+			"name": "King Crab",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/148_King Crab.png"
+			}
+		},
+		{
+			"name": "Vindicate",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/372_Vindicate.png"
+			}
+		},
+		{
+			"name": "Anby, Soldier 0",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/169_Anby, Soldier 0.png"
+			}
+		},
+		{
+			"name": "Burrock",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/31_Burrock.png"
+			}
+		},
+		{
+			"name": "The Argo",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact — Spacecraft ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/174_The Argo.png"
+			}
+		},
+		{
+			"name": "Warhammer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/159_Warhammer.png"
+			}
+		},
+		{
+			"name": "Vivian, Unwilling Prophet",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Elf Rogue ",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/373_Vivian, Unwilling Prophet.png"
+			}
+		},
+		{
+			"name": "Safe Shallows",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/445_Safe Shallows.png"
+			}
+		},
+		{
+			"name": "Eous, Hollow Guide",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Bangboo ",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/416_Eous, Hollow Guide.png"
+			}
+		},
+		{
+			"name": "Belle and Wise, Phaethon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/183_Belle and Wise, Phaethon.png"
+			}
+		},
+		{
+			"name": "Astra, Inspiring Idol",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/18_Astra, Inspiring Idol.png"
+			}
+		},
+		{
+			"name": "Ellen, the Shark Bite",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Shark Warrior ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/30_Ellen, the Shark Bite.png"
+			}
+		},
+		{
+			"name": "Miyabi, Void Hunter",
+			"rarity": "masterpiece",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Fox Warrior ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/44_Miyabi, Void Hunter.png"
+			}
+		},
+		{
+			"name": "Yanagi, Blood Bound",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/66_Yanagi, Blood Bound.png"
+			}
+		},
+		{
+			"name": "Burnice, Blazing Mixologist",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/10_Burnice, Blazing Mixologist.png"
+			}
+		},
+		{
+			"name": "Soukaku, Gluttonous Oni",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/57_Soukaku, Gluttonous Oni.png"
+			}
+		},
+		{
+			"name": "Trigger, Electric Deadshot",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/361_Trigger, Electric Deadshot.png"
+			}
+		},
+		{
+			"name": "Lycaon, Refined Housekeeper",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W/U}{R}",
+			"type": "Legendary Creature — Wolf ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/74_Lycaon, Refined Housekeeper.png"
+			}
+		},
+		{
+			"name": "Jane, Cunning Infiltrator",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Rat Rogue ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/39_Jane, Cunning Infiltrator.png"
+			}
+		},
+		{
+			"name": "Evelyn, Loyal Guardian",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/4_Evelyn, Loyal Guardian.png"
+			}
+		},
+		{
+			"name": "Caesar, Outer Ring Overlord",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/24_Caesar, Outer Ring Overlord.png"
+			}
+		},
+		{
+			"name": "Nicole, Cunning Hare",
+			"rarity": "masterpiece",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/46_Nicole, Cunning Hare.png"
+			}
+		},
+		{
+			"name": "Containment Team",
+			"rarity": "rare",
+			"mana_cost": "{C}{W}{B}",
+			"type": "Artifact Creature — Human Synth Soldier ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/208_Containment Team.png"
+			}
+		},
+		{
+			"name": "Tool Gun",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/427_Tool Gun.png"
+			}
+		},
+		{
+			"name": "Summoner",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/156_Summoner.png"
+			}
+		},
+		{
+			"name": "Sturdy Stakataka",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Alien Wall ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/55_Sturdy Stakataka.png"
+			}
+		},
+		{
+			"name": "Prideful Buzzwole",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Alien Insect ",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/313_Prideful Buzzwole.png"
+			}
+		},
+		{
+			"name": "Agile Kartana",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Alien Samurai ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/163_Agile Kartana.png"
+			}
+		},
+		{
+			"name": "Graceful Pheromosa",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Alien Insect ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/246_Graceful Pheromosa.png"
+			}
+		},
+		{
+			"name": "Gluttonous Guzzlord",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Creature — Alien Beast ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/243_Gluttonous Guzzlord.png"
+			}
+		},
+		{
+			"name": "Stalking Xurkitree",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Alien Elemental Plant ",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/347_Stalking Xurkitree.png"
+			}
+		},
+		{
+			"name": "Alluring Nihilego",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Alien Jellyfish ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/60_Alluring Nihilego.png"
+			}
+		},
+		{
+			"name": "Pulchra, Mercenary For Hire",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Cat Mercenary ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/130_Pulchra, Mercenary For Hire.png"
+			}
+		},
+		{
+			"name": "Lighter, the Red Scarf",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/41_Lighter, the Red Scarf.png"
+			}
+		},
+		{
+			"name": "Soldier 11, Loyalist",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/56_Soldier 11, Loyalist.png"
+			}
+		},
+		{
+			"name": "Nekomata, Cunning Feline",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Cat ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/6_Nekomata, Cunning Feline.png"
+			}
+		},
+		{
+			"name": "Harumasa, Master Marksman",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Archer ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/35_Harumasa, Master Marksman.png"
+			}
+		},
+		{
+			"name": "Blazing Ceruledge",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Elemental Warrior ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/191_Blazing Ceruledge.png"
+			}
+		},
+		{
+			"name": "The Runious Sealing",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/99_The Runious Sealing.png"
+			}
+		},
+		{
+			"name": "Blade of Many Battles",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/409_Blade of Many Battles.png"
+			}
+		},
+		{
+			"name": "Sword of Stolen Souls",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/354_Sword of Stolen Souls.png"
+			}
+		},
+		{
+			"name": "Fathom Feeder",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Eldrazi Drone ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/231_Fathom Feeder.png"
+			}
+		},
+		{
+			"name": "Atlas",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/407_Atlas.png"
+			}
+		},
+		{
+			"name": "Blasting Armarouge",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Elemental Warrior ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/190_Blasting Armarouge.png"
+			}
+		},
+		{
+			"name": "Malice",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/284_Malice.png"
+			}
+		},
+		{
+			"name": "Hestia, Nature's Truth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Elemental Angel ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/145_Hestia, Nature's Truth.png"
+			}
+		},
+		{
+			"name": "The Burned Man",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/200_The Burned Man.png"
+			}
+		},
+		{
+			"name": "Rockin' Toxtricity",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard Bard ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/133_Rockin' Toxtricity.png"
+			}
+		},
+		{
+			"name": "Basilica Skykeeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Phyrexian Dragon ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/180_Basilica Skykeeper.png"
+			}
+		},
+		{
+			"name": "Grotesque Mass",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Eldrazi Processor ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/250_Grotesque Mass.png"
+			}
+		},
+		{
+			"name": "Dutiful Streetcleaner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Robot ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/221_Dutiful Streetcleaner.png"
+			}
+		},
+		{
+			"name": "Arc-Slogger",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Beast ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/106_Arc-Slogger.png"
+			}
+		},
+		{
+			"name": "Hermaeus Mora, Fate Keeper",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Daedra ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/36_Hermaeus Mora, Fate Keeper.png"
+			}
+		},
+		{
+			"name": "Doom Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}{B}",
+			"type": "Legendary Creature — Demigod Warrior ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/218_Doom Slayer.png"
+			}
+		},
+		{
+			"name": "Articuno, Paralyzing Gaze",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Creature — Elemental Bird ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/62_Articuno, Paralyzing Gaze.png"
+			}
+		},
+		{
+			"name": "Moltres, Wings of Flame",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Legendary Creature — Elemental Bird ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/128_Moltres, Wings of Flame.png"
+			}
+		},
+		{
+			"name": "Treachery",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/24_Treachery.png"
+			}
+		},
+		{
+			"name": "Gates of Hell",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/10_Gates of Hell.png"
+			}
+		},
+		{
+			"name": "V1, Merciless Machine",
+			"rarity": "masterpiece",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Artifact Creature — Robot ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/62_V1, Merciless Machine.png"
+			}
+		},
+		{
+			"name": "T-1000",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/426_T-1000.png"
+			}
+		},
+		{
+			"name": "V2, Vengeful Machine",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Artifact Creature — Robot ",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/369_V2, Vengeful Machine.png"
+			}
+		},
+		{
+			"name": "Kassiak, the Tattered Dream",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/R}{U/R}",
+			"type": "Legendary Artifact Creature — Scarecrow Drake ",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/396_Kassiak, the Tattered Dream.png"
+			}
+		},
+		{
+			"name": "Anby, Soldier 0",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/16_Anby, Soldier 0.png"
+			}
+		},
+		{
+			"name": "Zapdos, Kicks of Fury",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R/G}{G}",
+			"type": "Legendary Creature — Elemental Bird ",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/403_Zapdos, Kicks of Fury.png"
+			}
+		},
+		{
+			"name": "Moltres, Wings of Malice",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Elemental Bird ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/96_Moltres, Wings of Malice.png"
+			}
+		},
+		{
+			"name": "Zapdos, Wings of Thunder",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U/R}{R}",
+			"type": "Legendary Creature — Elemental Bird ",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/404_Zapdos, Wings of Thunder.png"
+			}
+		},
+		{
+			"name": "Articuno, Wings of Frost",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Creature — Elemental Bird ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/63_Articuno, Wings of Frost.png"
+			}
+		},
+		{
+			"name": "Ju Fufu, Yunkui Disciple",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G/W}",
+			"type": "Legendary Creature — Cat Monk ",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/395_Ju Fufu, Yunkui Disciple.png"
+			}
+		},
+		{
+			"name": "Slaanesh, the Indulgence",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/343_Slaanesh, the Indulgence.png"
+			}
+		},
+		{
+			"name": "Tzeentch, Bringer of Change",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/362_Tzeentch, Bringer of Change.png"
+			}
+		},
+		{
+			"name": "Khorne, the Blood God",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/272_Khorne, the Blood God.png"
+			}
+		},
+		{
+			"name": "Nurgle, Lord of Decay",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/300_Nurgle, Lord of Decay.png"
+			}
+		},
+		{
+			"name": "Hugo, Son of Hate",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Vampire Rogue ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/259_Hugo, Son of Hate.png"
+			}
+		},
+		{
+			"name": "Fern the Hidden",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/232_Fern the Hidden.png"
+			}
+		},
+		{
+			"name": "Frieren the Mage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Elf Wizard ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/236_Frieren the Mage.png"
+			}
+		},
+		{
+			"name": "Frostmorne, the Render",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/238_Frostmorne, the Render.png"
+			}
+		},
+		{
+			"name": "Orphie and Magus, Binary Souls",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Artifact Creature — Elf Construct ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/303_Orphie and Magus, Binary Souls.png"
+			}
+		},
+		{
+			"name": "Etheric Dullahan",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Mutant Knight ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/228_Etheric Dullahan.png"
+			}
+		},
+		{
+			"name": "Manaphy, Heartbound",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Elemental ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/46_Manaphy, Heartbound.png"
+			}
+		},
+		{
+			"name": "Valakut, the Molten Pinnacle",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain ",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/446_Valakut, the Molten Pinnacle.png"
+			}
+		},
+		{
+			"name": "Yixuan, High Preceptor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Human Monk ",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/382_Yixuan, High Preceptor.png"
+			}
+		},
+		{
+			"name": "Geppetto, Puppeted Puppeteer",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}{U}",
+			"type": "Legendary Creature — Mutant ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/239_Geppetto, Puppeted Puppeteer.png"
+			}
+		},
+		{
+			"name": "Beholder Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact Creature — Mutant ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/182_Beholder Engine.png"
+			}
+		},
+		{
+			"name": "Zygarde, Land's Wrath",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Elemental Snake ",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/388_Zygarde, Land's Wrath_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/388_Zygarde, Land's Wrath_back.png"
+				}
+			}
+		},
+		{
+			"name": "Zygarde, Land's Resilience",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Elemental Dog ",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/387_Zygarde, Land's Resilience.png"
+			}
+		},
+		{
+			"name": "Glory Kill",
+			"rarity": "uncommon",
+			"mana_cost": "{W/B}{B}{B/R}",
+			"type": "Instant",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/394_Glory Kill.png"
+			}
+		},
+		{
+			"name": "Necrozma, Dusk Mane",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Alien Cat ",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/295_Necrozma, Dusk Mane_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/295_Necrozma, Dusk Mane_back.png"
+				}
+			}
+		},
+		{
+			"name": "Necrozma, Dawn Wings",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Alien Bat ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/294_Necrozma, Dawn Wings_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/294_Necrozma, Dawn Wings_back.png"
+				}
+			}
+		},
+		{
+			"name": "Slither Wing",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Insect Beast ",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/344_Slither Wing.png"
+			}
+		},
+		{
+			"name": "Adamant Basculegion",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Fish Spirit ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/162_Adamant Basculegion.png"
+			}
+		},
+		{
+			"name": "Pact Keeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit Samurai ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/305_Pact Keeper.png"
+			}
+		},
+		{
+			"name": "Alcatraz, Ensouled Machine",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Robot ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/165_Alcatraz, Ensouled Machine.png"
+			}
+		},
+		{
+			"name": "Master Chief, Spartan",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/286_Master Chief, Spartan.png"
+			}
+		},
+		{
+			"name": "Abandoned Bunker",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/430_Abandoned Bunker.png"
+			}
+		},
+		{
+			"name": "Arceus, Alpha Pokémon",
+			"rarity": "masterpiece",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — God ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/1_Arceus, Alpha Pokémon.png"
+			}
+		},
+		{
+			"name": "Vivian, Unwilling Prophet",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Elf Rogue ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/63_Vivian, Unwilling Prophet.png"
+			}
+		},
+		{
+			"name": "Slither Wing",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Insect Beast ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/55_Slither Wing.png"
+			}
+		},
+		{
+			"name": "Crypt of Agadeem",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp ",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/433_Crypt of Agadeem.png"
+			}
+		},
+		{
+			"name": "Emeria, the Sky Ruin",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains ",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/436_Emeria, the Sky Ruin.png"
+			}
+		},
+		{
+			"name": "Magosi, the Waterveil",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Island ",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/439_Magosi, the Waterveil.png"
+			}
+		},
+		{
+			"name": "Raiden, God of Thunder",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Demigod ",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/319_Raiden, God of Thunder.png"
+			}
+		},
+		{
+			"name": "Gluttonous Cacodemon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/242_Gluttonous Cacodemon.png"
+			}
+		},
+		{
+			"name": "Oran-Rief, the Vastwood",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest ",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/442_Oran-Rief, the Vastwood.png"
+			}
+		},
+		{
+			"name": "Alex Murphy, Robocop",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/28_Alex Murphy, Robocop.png"
+			}
+		},
+		{
+			"name": "Rip and Tear",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/22_Rip and Tear.png"
+			}
+		},
+		{
+			"name": "Ben, the Greathearted",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Bear ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/22_Ben, the Greathearted.png"
+			}
+		},
+		{
+			"name": "Qingyi, Old Soul",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Artifact Creature — Robot Officer  ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/53_Qingyi, Old Soul.png"
+			}
+		},
+		{
+			"name": "Yixuan, High Preceptor",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Human Monk ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/69_Yixuan, High Preceptor.png"
+			}
+		},
+		{
+			"name": "Watchful Overseer",
+			"rarity": "rare",
+			"mana_cost": "{4}{C}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/26_Watchful Overseer.png"
+			}
+		},
+		{
+			"name": "Iron Moth",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Artifact Creature — Insect Construct ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/263_Iron Moth.png"
+			}
+		},
+		{
+			"name": "Ether Corruption",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}{U}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/227_Ether Corruption.png"
+			}
+		},
+		{
+			"name": "Brion Stoutarm",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Giant Warrior ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/197_Brion Stoutarm.png"
+			}
+		},
+		{
+			"name": "Adam Smasher, Merciless",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{R}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/161_Adam Smasher, Merciless.png"
+			}
+		},
+		{
+			"name": "Beski, Steel Mystic",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Construct Shaman ",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/408_Beski, Steel Mystic.png"
+			}
+		},
+		{
+			"name": "Yuzuha, Masterful Trickster",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/384_Yuzuha, Masterful Trickster.png"
+			}
+		},
+		{
+			"name": "Mantis God",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Insect God ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/125_Mantis God.png"
+			}
+		},
+		{
+			"name": "Alice, Champion of Symmetry",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Rabbit Warrior ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/166_Alice, Champion of Symmetry.png"
+			}
+		},
+		{
+			"name": "Banshee",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/178_Banshee.png"
+			}
+		},
+		{
+			"name": "Lively Bulbasaur",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Plant Dinosaur ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/151_Lively Bulbasaur.png"
+			}
+		},
+		{
+			"name": "Sire of Damnation",
+			"rarity": "mythic",
+			"mana_cost": "{5}{C}{B}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/101_Sire of Damnation.png"
+			}
+		},
+		{
+			"name": "Pepsiman, Carbonated Hero",
+			"rarity": "masterpiece",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Artifact Creature — Pepsi Hero ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/50_Pepsiman, Carbonated Hero.png"
+			}
+		},
+		{
+			"name": "Flora, the Lost",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Pilot ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/234_Flora, the Lost_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/234_Flora, the Lost_back.png"
+				}
+			}
+		},
+		{
+			"name": "Scamamental",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Creature — Elemental ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/23_Scamamental.png"
+			}
+		},
+		{
+			"name": "Brutal Smashing",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/198_Brutal Smashing.png"
+			}
+		},
+		{
+			"name": "Tyrfing Aggressor",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Mutant Warrior ",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/402_Tyrfing Aggressor.png"
+			}
+		},
+		{
+			"name": "Enraged Farbauti",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Mutant Beast ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/226_Enraged Farbauti.png"
+			}
+		},
+		{
+			"name": "Walking Wake",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Dinosaur Dragon ",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/375_Walking Wake.png"
+			}
+		},
+		{
+			"name": "Trigger, Electric Deadshot",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/61_Trigger, Electric Deadshot.png"
+			}
+		},
+		{
+			"name": "Gnostro, Voice of the Crags",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Chimera ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/244_Gnostro, Voice of the Crags.png"
+			}
+		},
+		{
+			"name": "Nightmare, Dark Host",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Nightmare Knight ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/97_Nightmare, Dark Host.png"
+			}
+		},
+		{
+			"name": "Paliano, the High City",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/443_Paliano, the High City.png"
+			}
+		},
+		{
+			"name": "Anby, Hollow Specialist",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/2_Anby, Hollow Specialist.png"
+			}
+		},
+		{
+			"name": "Yuzuha, Masterful Trickster",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/70_Yuzuha, Masterful Trickster.png"
+			}
+		},
+		{
+			"name": "Alice, Champion of Symmetry",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Rabbit Warrior ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/15_Alice, Champion of Symmetry.png"
+			}
+		},
+		{
+			"name": "アダム・スマッシャー、容赦ない",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{B}{B}{R}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/72_アダム・スマッシャー、容赦ない.png"
+			}
+		},
+		{
+			"name": "Jirachi, the Granter",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Alien ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/40_Jirachi, the Granter.png"
+			}
+		},
+		{
+			"name": "Pecharunt, Poison Puppeteer",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Spirit Beast ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/49_Pecharunt, Poison Puppeteer.png"
+			}
+		},
+		{
+			"name": "Gloomy Bog",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/437_Gloomy Bog.png"
+			}
+		},
+		{
+			"name": "Night City",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Earth ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/19_Night City.png"
+			}
+		},
+		{
+			"name": "Great Canaranix",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Elder Bird ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/249_Great Canaranix.png"
+			}
+		},
+		{
+			"name": "Broken Land",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/432_Broken Land.png"
+			}
+		},
+		{
+			"name": "Peculiar Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/444_Peculiar Vista.png"
+			}
+		},
+		{
+			"name": "Golden Coast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/438_Golden Coast.png"
+			}
+		},
+		{
+			"name": "Darkest Pits",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/434_Darkest Pits.png"
+			}
+		},
+		{
+			"name": "Phyrexian Negator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Phyrexian Horror ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/98_Phyrexian Negator.png"
+			}
+		},
+		{
+			"name": "Elfy, Musical Connoisseur",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/R}",
+			"type": "Legendary Artifact Creature — Robot ",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/392_Elfy, Musical Connoisseur.png"
+			}
+		},
+		{
+			"name": "Eldrazi Obligator",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/115_Eldrazi Obligator.png"
+			}
+		},
+		{
+			"name": "Axman Hodag",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/109_Axman Hodag.png"
+			}
+		},
+		{
+			"name": "Seething Skitter-Priest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Phyrexian Cleric ",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/332_Seething Skitter-Priest.png"
+			}
+		},
+		{
+			"name": "Hoopa, Unbound Trickster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{R}",
+			"type": "Legendary Creature — Djinn ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/257_Hoopa, Unbound Trickster.png"
+			}
+		},
+		{
+			"name": "Dread Defiler",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/86_Dread Defiler.png"
+			}
+		},
+		{
+			"name": "Dimensional Infiltrator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Eldrazi Drone ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/65_Dimensional Infiltrator.png"
+			}
+		},
+		{
+			"name": "Cheziak, Last Arcotech",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Artifact Creature — Avatar ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/202_Cheziak, Last Arcotech.png"
+			}
+		},
+		{
+			"name": "Susie, Clueless Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/351_Susie, Clueless Tinkerer.png"
+			}
+		},
+		{
+			"name": "Sweety, Elegant Server",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/353_Sweety, Elegant Server.png"
+			}
+		},
+		{
+			"name": "Coco, Teamilk Aficionado",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/33_Coco, Teamilk Aficionado.png"
+			}
+		},
+		{
+			"name": "Venus, Proxy Broker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/371_Venus, Proxy Broker.png"
+			}
+		},
+		{
+			"name": "Electrostatic Pummeler",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/415_Electrostatic Pummeler.png"
+			}
+		},
+		{
+			"name": "Ju Fufu, Yunkui Disciple",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{R}{G/W}",
+			"type": "Legendary Creature — Cat Monk ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/73_Ju Fufu, Yunkui Disciple.png"
+			}
+		},
+		{
+			"name": "Shattering Spree",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/134_Shattering Spree.png"
+			}
+		},
+		{
+			"name": "Yidhari, Dark Dreamer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Octopus Warrior ",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/381_Yidhari, Dark Dreamer.png"
+			}
+		},
+		{
+			"name": "Nineveh, Flower of Corruption",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{W}{B}{G}",
+			"type": "Legendary Creature — Mutant Plant ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/47_Nineveh, Flower of Corruption.png"
+			}
+		},
+		{
+			"name": "Battlemaster",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/181_Battlemaster.png"
+			}
+		},
+		{
+			"name": "Kudeshi, One of Wonder",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Elemental Crab ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/70_Kudeshi, One of Wonder.png"
+			}
+		},
+		{
+			"name": "Locust",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/419_Locust.png"
+			}
+		},
+		{
+			"name": "The Black Lady",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/187_The Black Lady.png"
+			}
+		},
+		{
+			"name": "Centurion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/389_Centurion.png"
+			}
+		},
+		{
+			"name": "Lugia, Heart of The Sea",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Bird ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/280_Lugia, Heart of The Sea.png"
+			}
+		},
+		{
+			"name": "Corrosive Dragalge",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Dragon Fish ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/209_Corrosive Dragalge.png"
+			}
+		},
+		{
+			"name": "Realm Thresher",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/424_Realm Thresher.png"
+			}
+		},
+		{
+			"name": "Cretan Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hollow ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/7_Cretan Hollow.png"
+			}
+		},
+		{
+			"name": "Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/333_Sentinel.png"
+			}
+		},
+		{
+			"name": "Lasaunder, Exiled Founder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Artifact Creature — Artificer ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/275_Lasaunder, Exiled Founder.png"
+			}
+		},
+		{
+			"name": "Erupting Typhlosion",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Beast ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/116_Erupting Typhlosion.png"
+			}
+		},
+		{
+			"name": "Artificial Black Hole",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/176_Artificial Black Hole.png"
+			}
+		},
+		{
+			"name": "Mu Yanling, Balance Keeper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Yanling ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/74_Mu Yanling, Balance Keeper.png"
+			}
+		},
+		{
+			"name": "Scheming Gengar",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/100_Scheming Gengar.png"
+			}
+		},
+		{
+			"name": "Mad Dog",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/95_Mad Dog.png"
+			}
+		},
+		{
+			"name": "For Managed Democracy!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/41_For Managed Democracy!.png"
+			}
+		},
+		{
+			"name": "Majestic Milotic",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/72_Majestic Milotic.png"
+			}
+		},
+		{
+			"name": "Phyrexian Harvester",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Creature — Phyrexian Horror ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/129_Phyrexian Harvester.png"
+			}
+		},
+		{
+			"name": "Orbs of Warding",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/422_Orbs of Warding.png"
+			}
+		},
+		{
+			"name": "Orphie and Magus, Binary Souls",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Artifact Creature — Elf Construct ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/48_Orphie and Magus, Binary Souls.png"
+			}
+		},
+		{
+			"name": "Bringer, Creator's Devotee",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Mutant ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/196_Bringer, Creator's Devotee.png"
+			}
+		},
+		{
+			"name": "Pompey, Corrupted Overlord",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Mutant Warrior ",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/312_Pompey, Corrupted Overlord.png"
+			}
+		},
+		{
+			"name": "Twin Marionettes",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W/B}{B}",
+			"type": "Legendary Creature — Mutant Performer ",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/401_Twin Marionettes.png"
+			}
+		},
+		{
+			"name": "Lucia, Ethereal Conjurer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Goat Wizard ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/279_Lucia, Ethereal Conjurer.png"
+			}
+		},
+		{
+			"name": "Regieleki, Living Conduit",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Elemental Golem ",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/324_Regieleki, Living Conduit.png"
+			}
+		},
+		{
+			"name": "Lotus Guardian",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Dragon ",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/420_Lotus Guardian.png"
+			}
+		},
+		{
+			"name": "The Walking Scarecrow",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{R}",
+			"type": "Legendary Artifact Creature — Scarecrow Rogue ",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/374_The Walking Scarecrow.png"
+			}
+		},
+		{
+			"name": "Regidrago, Dragon's Maw",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Dragon Golem ",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/323_Regidrago, Dragon's Maw.png"
+			}
+		},
+		{
+			"name": "Regice, Frost Walker",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Elemental Golem ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/78_Regice, Frost Walker.png"
+			}
+		},
+		{
+			"name": "Registeel, Infallible Titan",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Elemental Golem ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/53_Registeel, Infallible Titan.png"
+			}
+		},
+		{
+			"name": "Regirock, Eternal Formation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elemental Golem ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/153_Regirock, Eternal Formation.png"
+			}
+		},
+		{
+			"name": "Civil Protection",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/83_Civil Protection.png"
+			}
+		},
+		{
+			"name": "Raging Houndoom",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Dog ",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/318_Raging Houndoom.png"
+			}
+		},
+		{
+			"name": "The Dead End Butcher",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Mutant ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/211_The Dead End Butcher.png"
+			}
+		},
+		{
+			"name": "Regigigas, World Shaper",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Legendary Creature — Elder Golem ",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/325_Regigigas, World Shaper.png"
+			}
+		},
+		{
+			"name": "Imposing Tyranitar",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Lizard Beast ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/260_Imposing Tyranitar.png"
+			}
+		},
+		{
+			"name": "Lucia, Ethereal Conjurer",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Goat Wizard ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/42_Lucia, Ethereal Conjurer.png"
+			}
+		},
+		{
+			"name": "Yidhari, Dark Dreamer",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Octopus Warrior ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/68_Yidhari, Dark Dreamer.png"
+			}
+		},
+		{
+			"name": "Xerneas, Lifebringer",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Elk Avatar ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/65_Xerneas, Lifebringer.png"
+			}
+		},
+		{
+			"name": "Yveltal, Deathbringer",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Bird Avatar ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/71_Yveltal, Deathbringer.png"
+			}
+		},
+		{
+			"name": "Terapagos, the Indigo Disk",
+			"rarity": "masterpiece",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental Turtle ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/59_Terapagos, the Indigo Disk.png"
+			}
+		},
+		{
+			"name": "Tornadus, Storm's Rage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Djinn ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/80_Tornadus, Storm's Rage_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/80_Tornadus, Storm's Rage_back.png"
+				}
+			}
+		},
+		{
+			"name": "Thundurus, Thunder's Promise",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Djinn ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/137_Thundurus, Thunder's Promise_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/137_Thundurus, Thunder's Promise_back.png"
+				}
+			}
+		},
+		{
+			"name": "Landorus, Land's Wrath",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Djinn ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/149_Landorus, Land's Wrath_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/149_Landorus, Land's Wrath_back.png"
+				}
+			}
+		},
+		{
+			"name": "Mischievous Polteageist",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/289_Mischievous Polteageist.png"
+			}
+		},
+		{
+			"name": "Enamorus, Love's Embrace",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Djinn ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/38_Enamorus, Love's Embrace_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/38_Enamorus, Love's Embrace_back.png"
+				}
+			}
+		},
+		{
+			"name": "Rayquaza, Delta Wind",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{G}{U}{R}",
+			"type": "Legendary Creature — Elemental Dragon ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/54_Rayquaza, Delta Wind.png"
+			}
+		},
+		{
+			"name": "Majestic Milotic",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/8_Majestic Milotic.png"
+			}
+		},
+		{
+			"name": "Foreboding Aegislash",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/32_Foreboding Aegislash.png"
+			}
+		},
+		{
+			"name": "Banyue, Repentant Master",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/179_Banyue, Repentant Master.png"
+			}
+		},
+		{
+			"name": "Kethasuki, Destiny's Herald",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Elder Serpent ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/271_Kethasuki, Destiny's Herald.png"
+			}
+		},
+		{
+			"name": "Dialyn, Krampus Judge",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/217_Dialyn, Krampus Judge.png"
+			}
+		},
+		{
+			"name": "Flygon of the Sandstorm",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Insect Dragon ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/118_Flygon of the Sandstorm.png"
+			}
+		},
+		{
+			"name": "Frieren the Mage",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Elf Wizard ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/33_Frieren the Mage.png"
+			}
+		},
+		{
+			"name": "Deoxys, Mysterious Invader",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Alien Shapeshifter ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/28_Deoxys, Mysterious Invader.png"
+			}
+		},
+		{
+			"name": "Joyful Clodsire",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Salamander ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/12_Joyful Clodsire.png"
+			}
+		},
+		{
+			"name": "Flygon of the Sandstorm",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Insect Dragon ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/11_Flygon of the Sandstorm.png"
+			}
+		},
+		{
+			"name": "Loyal Dragonite",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dragon ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/5_Loyal Dragonite.png"
+			}
+		},
+		{
+			"name": "Imposing Tyranitar",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Lizard Beast ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/38_Imposing Tyranitar.png"
+			}
+		},
+		{
+			"name": "Blood Asp",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/192_Blood Asp.png"
+			}
+		},
+		{
+			"name": "Uziel",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/367_Uziel.png"
+			}
+		},
+		{
+			"name": "Awesome",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/108_Awesome.png"
+			}
+		},
+		{
+			"name": "Stalker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/79_Stalker.png"
+			}
+		},
+		{
+			"name": "Zhao, Krampus Chief",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Rabbit Advisor ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/58_Zhao, Krampus Chief.png"
+			}
+		},
+		{
+			"name": "Ethachan's Gift",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/90_Ethachan's Gift.png"
+			}
+		},
+		{
+			"name": "Lazy Toedscruel",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/150_Lazy Toedscruel.png"
+			}
+		},
+		{
+			"name": "Shrike",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/339_Shrike.png"
+			}
+		},
+		{
+			"name": "Patriotic Helldivers",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/51_Patriotic Helldivers.png"
+			}
+		},
+		{
+			"name": "The Black Marauder",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Artifact — Vehicle  ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/81_The Black Marauder.png"
+			}
+		},
+		{
+			"name": "Contagious Crystal",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/413_Contagious Crystal.png"
+			}
+		},
+		{
+			"name": "Fall of the Star League",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/229_Fall of the Star League_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/229_Fall of the Star League_back.png"
+				}
+			}
+		},
+		{
+			"name": "Manato, the Stalwart",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Dog Warrior ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/285_Manato, the Stalwart.png"
+			}
+		},
+		{
+			"name": "Grand Titan",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/248_Grand Titan.png"
+			}
+		},
+		{
+			"name": "Kerensky's Exodus",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/270_Kerensky's Exodus.png"
+			}
+		},
+		{
+			"name": "Spirit of the Hunt",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Wolf Spirit ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/155_Spirit of the Hunt.png"
+			}
+		},
+		{
+			"name": "Battlemaster",
+			"rarity": "masterpiece",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/20_Battlemaster.png"
+			}
+		},
+		{
+			"name": "Clan Elemental",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{G}",
+			"type": "Creature — Human Mutant Soldier ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/206_Clan Elemental.png"
+			}
+		},
+		{
+			"name": "Ye Shunguang, Sword Arbiter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Horse Warrior ",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/380_Ye Shunguang, Sword Arbiter.png"
+			}
+		},
+		{
+			"name": "Commando",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/34_Commando.png"
+			}
+		},
+		{
+			"name": "Archer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/172_Archer.png"
+			}
+		},
+		{
+			"name": "Noble Blazehorn",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Rhino ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/152_Noble Blazehorn.png"
+			}
+		},
+		{
+			"name": "Cyclops",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W/U}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/390_Cyclops.png"
+			}
+		},
+		{
+			"name": "Grand Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/247_Grand Dragon.png"
+			}
+		},
+		{
+			"name": "Catapult",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/410_Catapult.png"
+			}
+		},
+		{
+			"name": "Jenner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/146_Jenner.png"
+			}
+		},
+		{
+			"name": "Mesmerizing Bedari",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/73_Mesmerizing Bedari.png"
+			}
+		},
+		{
+			"name": "Longbow",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/44_Longbow.png"
+			}
+		},
+		{
+			"name": "Sun-kissed Cacnea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/157_Sun-kissed Cacnea.png"
+			}
+		},
+		{
+			"name": "Cicada",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/112_Cicada.png"
+			}
+		},
+		{
+			"name": "Trebuchet",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/428_Trebuchet.png"
+			}
+		},
+		{
+			"name": "Sun-kissed Cacnea",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/13_Sun-kissed Cacnea.png"
+			}
+		},
+		{
+			"name": "The Clan Invasion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/207_The Clan Invasion.png"
+			}
+		},
+		{
+			"name": "Blakist's Last Word",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/189_Blakist's Last Word.png"
+			}
+		},
+		{
+			"name": "Regenerator Colossus",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Leviathan ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/77_Regenerator Colossus.png"
+			}
+		},
+		{
+			"name": "Kasatrix Watchman",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Spirit Soldier ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/43_Kasatrix Watchman.png"
+			}
+		},
+		{
+			"name": "Rifleman",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/154_Rifleman.png"
+			}
+		},
+		{
+			"name": "Firestarter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/117_Firestarter.png"
+			}
+		},
+		{
+			"name": "Crusader",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/35_Crusader.png"
+			}
+		},
+		{
+			"name": "Hexing Chandelure",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/255_Hexing Chandelure.png"
+			}
+		},
+		{
+			"name": "Titanic Clash",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/158_Titanic Clash.png"
+			}
+		},
+		{
+			"name": "Elemental Swarming",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{R}{G}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/223_Elemental Swarming.png"
+			}
+		},
+		{
+			"name": "Flea",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/417_Flea.png"
+			}
+		},
+		{
+			"name": "Nightstar",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/297_Nightstar.png"
+			}
+		},
+		{
+			"name": "Tear Apart",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/103_Tear Apart.png"
+			}
+		},
+		{
+			"name": "Executioner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/91_Executioner.png"
+			}
+		},
+		{
+			"name": "Ye Shunguang, Sword Arbiter",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Horse Warrior ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/67_Ye Shunguang, Sword Arbiter.png"
+			}
+		},
+		{
+			"name": "Close Encounter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/6_Close Encounter.png"
+			}
+		},
+		{
+			"name": "No-Dachi",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/20_No-Dachi.png"
+			}
+		},
+		{
+			"name": "Locust",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/75_Locust.png"
+			}
+		},
+		{
+			"name": "Orion",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/76_Orion.png"
+			}
+		},
+		{
+			"name": "Phoenix Hawk",
+			"rarity": "masterpiece",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/51_Phoenix Hawk.png"
+			}
+		},
+		{
+			"name": "Mad Dog",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/9_Mad Dog.png"
+			}
+		},
+		{
+			"name": "Gunslinger",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/251_Gunslinger.png"
+			}
+		},
+		{
+			"name": "Final Reunion",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/40_Final Reunion.png"
+			}
+		},
+		{
+			"name": "Delta Awakening",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Enchantment — Saga ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/8_Delta Awakening.png"
+			}
+		},
+		{
+			"name": "Latios and Latias",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/276_Latios and Latias.png"
+			}
+		},
+		{
+			"name": "Molten Magcargo",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Elemental Snail ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/127_Molten Magcargo.png"
+			}
+		},
+		{
+			"name": "Dreamborn Buck",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment Creature — Elk ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/37_Dreamborn Buck.png"
+			}
+		},
+		{
+			"name": "Arcotech Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/406_Arcotech Sentinel.png"
+			}
+		},
+		{
+			"name": "Aria, Star of The Show",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact Creature — Robot Bard ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/175_Aria, Star of The Show.png"
+			}
+		},
+		{
+			"name": "Sunna, Softspoken Songwriter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{W}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/350_Sunna, Softspoken Songwriter.png"
+			}
+		},
+		{
+			"name": "Blissful Tinkaton",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Ouphe Warrior ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/110_Blissful Tinkaton.png"
+			}
+		},
+		{
+			"name": "Davion Thunderbolt",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/114_Davion Thunderbolt.png"
+			}
+		},
+		{
+			"name": "Natasha Kerensky",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Pilot ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/293_Natasha Kerensky.png"
+			}
+		},
+		{
+			"name": "Frantic Search",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/68_Frantic Search.png"
+			}
+		},
+		{
+			"name": "Blackjack",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/188_Blackjack.png"
+			}
+		},
+		{
+			"name": "Farseeing Moth",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/67_Farseeing Moth.png"
+			}
+		},
+		{
+			"name": "Royal Swarmleader",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/330_Royal Swarmleader.png"
+			}
+		},
+		{
+			"name": "Mega Skarmory",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/47_Mega Skarmory.png"
+			}
+		},
+		{
+			"name": "Warhammer",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/14_Warhammer.png"
+			}
+		},
+		{
+			"name": "Urbanmech",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/78_Urbanmech.png"
+			}
+		},
+		{
+			"name": "Commando",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/3_Commando.png"
+			}
+		},
+		{
+			"name": "Blood Asp",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/23_Blood Asp.png"
+			}
+		},
+		{
+			"name": "Infested Fountain",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/261_Infested Fountain.png"
+			}
+		},
+		{
+			"name": "Brambleghast",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Plant Spirit ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/195_Brambleghast.png"
+			}
+		},
+		{
+			"name": "Machinery of Oppression",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/282_Machinery of Oppression.png"
+			}
+		},
+		{
+			"name": "Sweetberry Alcremie",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Elemental ",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/352_Sweetberry Alcremie.png"
+			}
+		},
+		{
+			"name": "Kintaro",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/94_Kintaro.png"
+			}
+		},
+		{
+			"name": "Scytheslinger Apprentice",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Kor Warrior ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/54_Scytheslinger Apprentice.png"
+			}
+		},
+		{
+			"name": "Providence",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Creature — Angel Eye ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/52_Providence.png"
+			}
+		},
+		{
+			"name": "Divine Virtue",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Eye ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/36_Divine Virtue.png"
+			}
+		},
+		{
+			"name": "Greed",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/13_Greed.png"
+			}
+		},
+		{
+			"name": "The Royal Conductor",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Advisor ",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/425_The Royal Conductor.png"
+			}
+		},
+		{
+			"name": "Limbo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/17_Limbo.png"
+			}
+		},
+		{
+			"name": "Wrath",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/27_Wrath.png"
+			}
+		},
+		{
+			"name": "Gluttony",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/12_Gluttony.png"
+			}
+		},
+		{
+			"name": "Withering Skeleton",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Skeleton ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/104_Withering Skeleton.png"
+			}
+		},
+		{
+			"name": "Nangong, Angel of Delusion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Angel Bard ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/292_Nangong, Angel of Delusion.png"
+			}
+		},
+		{
+			"name": "Grand Knight of Qesix",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Centaur Knight ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/42_Grand Knight of Qesix.png"
+			}
+		},
+		{
+			"name": "Thoughtseeker",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Fractal Horror ",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/357_Thoughtseeker.png"
+			}
+		},
+		{
+			"name": "Charming Eevee",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Beast ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/32_Charming Eevee.png"
+			}
+		},
+		{
+			"name": "Foreseeing Absol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/93_Foreseeing Absol.png"
+			}
+		},
+		{
+			"name": "Lust",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/18_Lust.png"
+			}
+		},
+		{
+			"name": "Heresy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/15_Heresy.png"
+			}
+		},
+		{
+			"name": "Violence",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/25_Violence.png"
+			}
+		},
+		{
+			"name": "Fraudulence",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hell ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/9_Fraudulence.png"
+			}
+		},
+		{
+			"name": "Aria, Star of The Show",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact Creature — Robot Bard ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/17_Aria, Star of The Show.png"
+			}
+		},
+		{
+			"name": "End City Shulkers",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Beast ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/66_End City Shulkers.png"
+			}
+		},
+		{
+			"name": "Glowing Squid",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Squid ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/11_Glowing Squid.png"
+			}
+		},
+		{
+			"name": "Dungeon Dwellers",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/88_Dungeon Dwellers.png"
+			}
+		},
+		{
+			"name": "Eliban the Delightful",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/141_Eliban the Delightful.png"
+			}
+		},
+		{
+			"name": "Arteris, the Passion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/107_Arteris, the Passion.png"
+			}
+		},
+		{
+			"name": "Boreas, Northern Fury",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Snow Creature — Dragon ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/194_Boreas, Northern Fury.png"
+			}
+		},
+		{
+			"name": "Bodom, the Osiris Engine",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Artifact Creature — Dragon ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/193_Bodom, the Osiris Engine.png"
+			}
+		},
+		{
+			"name": "Opeth, the Osiris Beam",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Artifact Creature — Dragon  ",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/302_Opeth, the Osiris Beam.png"
+			}
+		},
+		{
+			"name": "Bloodweaver",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Fractal Horror ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/82_Bloodweaver.png"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/142_Explore.png"
+			}
+		},
+		{
+			"name": "Diligent Agrihand",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/140_Diligent Agrihand.png"
+			}
+		},
+		{
+			"name": "Deadly Scyther",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/414_Deadly Scyther.png"
+			}
+		},
+		{
+			"name": "Belle and Wise, Phaethon",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/21_Belle and Wise, Phaethon.png"
+			}
+		},
+		{
+			"name": "Hugo, Son of Hate",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Vampire Rogue ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/37_Hugo, Son of Hate.png"
+			}
+		},
+		{
+			"name": "Qesiax, Fate Bound",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W/B}{B}",
+			"type": "Legendary Planeswalker — Qesiax ",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/399_Qesiax, Fate Bound.png"
+			}
+		},
+		{
+			"name": "Giratina, Dark Distortion",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Dragon Shade ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/34_Giratina, Dark Distortion.png"
+			}
+		},
+		{
+			"name": "Urshifu, Fluid Striker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Bear Warrior ",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/365_Urshifu, Fluid Striker.png"
+			}
+		},
+		{
+			"name": "Dreadful Mass",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/87_Dreadful Mass.png"
+			}
+		},
+		{
+			"name": "Urshifu, One and Done",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Bear Warrior ",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/366_Urshifu, One and Done.png"
+			}
+		},
+		{
+			"name": "Meloetta, Delightful Aria",
+			"rarity": "mythic",
+			"mana_cost": "{G/W}",
+			"type": "Legendary Creature — Fairy ",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/397_Meloetta, Delightful Aria_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/PUB-files/img/397_Meloetta, Delightful Aria_back.png"
+				}
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/448_Plains.png"
+			}
+		},
+		{
+			"name": "Seshi and Quena, Lifekeepers",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/334_Seshi and Quena, Lifekeepers.png"
+			}
+		},
+		{
+			"name": "Cissia, Impish Menace",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature — Snake Warrior ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/205_Cissia, Impish Menace.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/449_Island.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/455_Forest.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/451_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/441_Mountain.png"
+			}
+		},
+		{
+			"name": "Hollow Zero",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Plane — Hollow ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/16_Hollow Zero.png"
+			}
+		},
+		{
+			"name": "Frostfire Slash",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/237_Frostfire Slash.png"
+			}
+		},
+		{
+			"name": "Stormscale Anarch",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Lizard Shaman ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/135_Stormscale Anarch.png"
+			}
+		},
+		{
+			"name": "Empowered Celesteela",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Alien Plant ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/31_Empowered Celesteela.png"
+			}
+		},
+		{
+			"name": "Regent",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/322_Regent.png"
+			}
+		},
+		{
+			"name": "Promeia, Merciless Judge",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Assassin ",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/314_Promeia, Merciless Judge.png"
+			}
+		},
+		{
+			"name": "Deafening Noivern",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Bat Dragon ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/212_Deafening Noivern.png"
+			}
+		},
+		{
+			"name": "Chi-Yu, Treasure of Ruin",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/25_Chi-Yu, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Chien-Pao, Treasure of Ruin",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/26_Chien-Pao, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Ting-Lu, Treasure of Ruin",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/60_Ting-Lu, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Wo-Chien, Treasure of Ruin",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Incarnation ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/64_Wo-Chien, Treasure of Ruin.png"
+			}
+		},
+		{
+			"name": "Gridox, Final Calamity",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Horror ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/14_Gridox, Final Calamity.png"
+			}
+		},
+		{
+			"name": "Ancient Arcs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/431_Ancient Arcs.png"
+			}
+		},
+		{
+			"name": "Starlight Billy",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{W}",
+			"type": "Legendary Artifact Creature — Robot Hero ",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/348_Starlight Billy.png"
+			}
+		},
+		{
+			"name": "Zhu Yuan, Best in Class",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Officer  ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/7_Zhu Yuan, Best in Class.png"
+			}
+		},
+		{
+			"name": "Pyrois, Etheric Other",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar Knight ",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/315_Pyrois, Etheric Other.png"
+			}
+		},
+		{
+			"name": "Fadia, Dark",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/92_Fadia, Dark.png"
+			}
+		},
+		{
+			"name": "Hotori,",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/258_Hotori,.png"
+			}
+		},
+		{
+			"name": "Nanally, the Ichi-Daime",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Cat Warrior ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/291_Nanally, the Ichi-Daime.png"
+			}
+		},
+		{
+			"name": "Dialyn, Krampus Judge",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{W}{U}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/29_Dialyn, Krampus Judge.png"
+			}
+		},
+		{
+			"name": "Cissia, Impish Menace",
+			"rarity": "masterpiece",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature — Snake Warrior ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/27_Cissia, Impish Menace.png"
+			}
+		},
+		{
+			"name": "Norma, Bangboo Technician",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/299_Norma, Bangboo Technician.png"
+			}
+		},
+		{
+			"name": "Jiuyuan",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/268_Jiuyuan.png"
+			}
+		},
+		{
+			"name": "Lacrimosa",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Bat ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/274_Lacrimosa.png"
+			}
+		},
+		{
+			"name": "Haniel,",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Bard ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/120_Haniel,.png"
+			}
+		},
+		{
+			"name": "Velina, Dedicated Director",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Elf Advisor ",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/370_Velina, Dedicated Director.png"
+			}
+		},
+		{
+			"name": "Pan Yinhu, Temple Chef",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Bear Monk ",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/307_Pan Yinhu, Temple Chef.png"
+			}
+		},
+		{
+			"name": "Mint,",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Cat Warrior ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/49_Mint,.png"
+			}
+		},
+		{
+			"name": "Manato, the Stalwart",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Dog Warrior ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/43_Manato, the Stalwart.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/2_.png"
+			}
+		},
+		{
+			"name": "Swift Reconfiguration",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/56_Swift Reconfiguration.png"
+			}
+		},
+		{
+			"name": "Operation Klondike",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/301_Operation Klondike.png"
+			}
+		},
+		{
+			"name": "Race to Terra",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/317_Race to Terra.png"
+			}
+		},
+		{
+			"name": "Ostscout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/75_Ostscout.png"
+			}
+		},
+		{
+			"name": "Sigrid, Airspace Protector",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Horse Soldier ",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/340_Sigrid, Airspace Protector.png"
+			}
+		},
+		{
+			"name": "Remielle, Luminous Warden",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Angel Warrior ",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/326_Remielle, Luminous Warden.png"
+			}
+		},
+		{
+			"name": "Technological Terror",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Artifact Creature — Robot Dinosaur ",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/355_Technological Terror.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/1_.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Demon ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/160_.png"
+			}
+		},
+		{
+			"name": "Istenia, Future's Dream",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Sphinx ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/265_Istenia, Future's Dream.png"
+			}
+		},
+		{
+			"name": "Chiz",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/5_Chiz.png"
+			}
+		},
+		{
+			"name": "Croag, Dark Evincar",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Advisor ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/85_Croag, Dark Evincar.png"
+			}
+		},
+		{
+			"name": "Banyue, Repentant Master",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/19_Banyue, Repentant Master.png"
+			}
+		},
+		{
+			"name": "Pyrois, Etheric Other",
+			"rarity": "masterpiece",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar Knight ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/52_Pyrois, Etheric Other.png"
+			}
+		},
+		{
+			"name": "Starlight Billy",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{W}{W}",
+			"type": "Legendary Artifact Creature — Robot Hero ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/58_Starlight Billy.png"
+			}
+		},
+		{
+			"name": "Shinku",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Dragon Warrior ",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/337_Shinku.png"
+			}
+		},
+		{
+			"name": "Nangong, Angel of Delusion",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Angel Bard ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https:///sets/PUB-files/img/45_Nangong, Angel of Delusion.png"
+			}
+		},
+		]
+	[LandSlot(1)]
+	

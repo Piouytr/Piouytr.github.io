@@ -1,0 +1,740 @@
+28_Alex Murphy, Robocop
+71_Kyogre, Primal Sea
+81_The Black Marauder
+107_Arteris, the Passion
+148_King Crab
+38_Enamorus, Love's Embrace
+74_Mu Yanling, Balance Keeper
+84_Corpse of King Minos
+108_Awesome
+149_Landorus, Land's Wrath
+39_Evelyn, Loyal Guardian
+79_Stalker
+89_Eternatus, the Darkest Day
+111_Burnice, Blazing Mixologist
+139_Combine Hunter
+44_Longbow
+80_Tornadus, Storm's Rage
+91_Executioner
+119_Groudon, Primal Earth
+141_Eliban the Delightful
+46_Manaphy, Heartbound
+60_Alluring Nihilego
+92_Fadia, Dark
+122_Hellstar
+143_Genesect, Mechanized Ancient
+47_Mega Skarmory
+61_Ancient Relicanth
+97_Nightmare, Dark Host
+123_Koleda, Passionate Leader
+144_Hatchetman
+48_Minos, Regretful King
+62_Articuno, Paralyzing Gaze
+99_The Runious Sealing
+125_Mantis God
+145_Hestia, Nature's Truth
+50_Nekomata, Cunning Feline
+63_Articuno, Wings of Frost
+102_Something Wicked
+129_Phyrexian Harvester
+147_Joyful Clodsire
+58_Zhao, Krampus Chief
+64_Corin, Ever-Shy
+82_Bloodweaver
+136_Super Synth
+150_Lazy Toedscruel
+59_Zhu Yuan, Best in Class
+66_End City Shulkers
+85_Croag, Dark Evincar
+137_Thundurus, Thunder's Promise
+152_Noble Blazehorn
+29_Anby, Hollow Specialist
+67_Farseeing Moth
+87_Dreadful Mass
+138_V, Rising Legend
+153_Regirock, Eternal Formation
+30_Black Knight Clanbuster
+69_Griffin
+90_Ethachan's Gift
+106_Arc-Slogger
+154_Rifleman
+31_Burrock
+70_Kudeshi, One of Wonder
+94_Kintaro
+109_Axman Hodag
+155_Spirit of the Hunt
+32_Charming Eevee
+72_Majestic Milotic
+95_Mad Dog
+110_Blissful Tinkaton
+156_Summoner
+35_Crusader
+73_Mesmerizing Bedari
+96_Moltres, Wings of Malice
+113_Combine Gunner
+158_Titanic Clash
+40_Final Reunion
+76_Raven
+98_Phyrexian Negator
+114_Davion Thunderbolt
+159_Warhammer
+42_Grand Knight of Qesix
+77_Regenerator Colossus
+100_Scheming Gengar
+116_Erupting Typhlosion
+146_Jenner
+45_Loyal Dragonite
+78_Regice, Frost Walker
+103_Tear Apart
+118_Flygon of the Sandstorm
+157_Sun-kissed Cacnea
+49_Mint,
+68_Frantic Search
+88_Dungeon Dwellers
+120_Haniel,
+140_Diligent Agrihand
+51_Patriotic Helldivers
+75_Ostscout
+93_Foreseeing Absol
+121_Hellspawn
+142_Explore
+52_Providence
+8_Majestic Milotic
+104_Withering Skeleton
+124_Lucy, the Baroness
+151_Lively Bulbasaur
+53_Registeel, Infallible Titan
+e
+83_Civil Protection
+126_Marauder
+12_Joyful Clodsire
+54_Scytheslinger Apprentice
+e
+9_Mad Dog
+127_Molten Magcargo
+13_Sun-kissed Cacnea
+55_Sturdy Stakataka
+e
+e
+128_Moltres, Wings of Flame
+14_Warhammer
+56_Swift Reconfiguration
+e
+e
+130_Pulchra, Mercenary For Hire
+e
+33_Coco, Teamilk Aficionado
+e
+e
+131_Qenari, Flameborn
+e
+34_Commando
+e
+e
+132_Rampaging Gigalith
+e
+36_Divine Virtue
+e
+e
+133_Rockin' Toxtricity
+e
+37_Dreamborn Buck
+e
+e
+135_Stormscale Anarch
+e
+41_For Managed Democracy!
+e
+e
+105_Ammo Explosion
+e
+43_Kasatrix Watchman
+e
+e
+112_Cicada
+e
+57_Tireless Lookout
+e
+e
+117_Firestarter
+e
+2_Anby, Hollow Specialist
+e
+e
+134_Shattering Spree
+e
+3_Commando
+e
+e
+10_Burnice, Blazing Mixologist
+e
+4_Evelyn, Loyal Guardian
+e
+e
+11_Flygon of the Sandstorm
+e
+5_Loyal Dragonite
+e
+e
+e
+e
+6_Nekomata, Cunning Feline
+e
+e
+e
+e
+7_Zhu Yuan, Best in Class
+e
+e
+e
+e
+er
+er
+er
+er
+er
+173_Ares Command 'Mech
+193_Bodom, the Osiris Engine
+160_
+192_Blood Asp
+166_Alice, Champion of Symmetry
+174_The Argo
+230_False Hydra
+161_Adam Smasher, Merciless
+210_Darksteel Hydra
+253_Harumasa, Master Marksman
+175_Aria, Star of The Show
+238_Frostmorne, the Render
+170_Annihilator
+273_Koraidon, Winged King
+338_Shishilan Pasalan
+178_Banshee
+254_Hermaeus Mora, Fate Keeper
+187_The Black Lady
+312_Pompey, Corrupted Overlord
+349_Subject Delta, Caretaker
+194_Boreas, Northern Fury
+266_Jane, Cunning Infiltrator
+203_Chi-Yu, Treasure of Ruin
+337_Shinku
+350_Sunna, Softspoken Songwriter
+216_Dialga, Master of Time
+314_Promeia, Merciless Judge
+257_Hoopa, Unbound Trickster
+366_Urshifu, One and Done
+378_Xerneas, Lifebringer
+217_Dialyn, Krampus Judge
+360_Ting-Lu, Treasure of Ruin
+272_Khorne, the Blood God
+190_Blasting Armarouge
+387_Zygarde, Land's Resilience
+232_Fern the Hidden
+362_Tzeentch, Bringer of Change
+284_Malice
+206_Clan Elemental
+388_Zygarde, Land's Wrath
+258_Hotori,
+400_Tezzeret, Corrupted Artificer
+368_V1, Merciless Machine
+215_Devastating Strider
+397_Meloetta, Delightful Aria
+265_Istenia, Future's Dream
+162_Adamant Basculegion
+369_V2, Vengeful Machine
+223_Elemental Swarming
+164_Ajani, Defender of the Weak
+270_Kerensky's Exodus
+255_Hexing Chandelure
+191_Blazing Ceruledge
+225_Empowered Celesteela
+167_Alien Elite
+280_Lugia, Heart of The Sea
+354_Sword of Stolen Souls
+242_Gluttonous Cacodemon
+226_Enraged Farbauti
+180_Basilica Skykeeper
+286_Master Chief, Spartan
+36_Hermaeus Mora, Fate Keeper
+283_MAD-4X
+246_Graceful Pheromosa
+184_Ben, the Greathearted
+297_Nightstar
+39_Jane, Cunning Infiltrator
+318_Raging Houndoom
+260_Imposing Tyranitar
+228_Etheric Dullahan
+328_Rina, Head Housemaid
+60_Ting-Lu, Treasure of Ruin
+329_Roaring Moon
+323_Regidrago, Dragon's Maw
+307_Pan Yinhu, Temple Chef
+361_Trigger, Electric Deadshot
+e
+364_Ultrakill
+344_Slither Wing
+311_Piper, Retirement Bound
+370_Velina, Dedicated Director
+e
+374_The Walking Scarecrow
+346_Soukaku, Gluttonous Oni
+352_Sweetberry Alcremie
+373_Vivian, Unwilling Prophet
+e
+25_Chi-Yu, Treasure of Ruin
+355_Technological Terror
+371_Venus, Proxy Broker
+379_Yanagi, Blood Bound
+e
+62_V1, Merciless Machine
+403_Zapdos, Kicks of Fury
+353_Sweety, Elegant Server
+390_Cyclops
+e
+72_アダム・スマッシャー�容赦��
+198_Brutal Smashing
+402_Tyrfing Aggressor
+391_Dialga, Usurper of Time
+e
+e
+23_Blood Asp
+15_Alice, Champion of Symmetry
+264_Iron Valiant
+e
+e
+31_Empowered Celesteela
+22_Ben, the Greathearted
+335_Seth, Naive Protector
+e
+e
+38_Imposing Tyranitar
+35_Harumasa, Master Marksman
+339_Shrike
+e
+e
+55_Slither Wing
+65_Xerneas, Lifebringer
+357_Thoughtseeker
+e
+e
+57_Soukaku, Gluttonous Oni
+e
+188_Blackjack
+e
+e
+e
+e
+17_Aria, Star of The Show
+e
+e
+e
+e
+29_Dialyn, Krampus Judge
+e
+e
+e
+e
+61_Trigger, Electric Deadshot
+e
+e
+e
+e
+63_Vivian, Unwilling Prophet
+e
+e
+e
+e
+66_Yanagi, Blood Bound
+e
+e
+e
+e
+er
+er
+er
+er
+er
+189_Blakist's Last Word
+211_The Dead End Butcher
+306_Palkia, Master of Space
+214_Deoxys, Mysterious Invader
+169_Anby, Soldier 0
+204_Chien-Pao, Treasure of Ruin
+213_Deer Lord
+316_Qingyi, Old Soul
+224_Ellen, the Shark Bite
+177_Astra, Inspiring Idol
+222_Elder Kingambit
+300_Nurgle, Lord of Decay
+398_Palkia, Usurper of Space
+245_Grace, Master Mechanic
+199_Bull Shark
+259_Hugo, Son of Hate
+377_Wo-Chien, Treasure of Ruin
+227_Ether Corruption
+276_Latios and Latias
+256_Ho-Oh, Hope Bringer
+268_Jiuyuan
+195_Brambleghast
+333_Sentinel
+288_Miraidon, Iron Serpent
+267_Jirachi, the Granter
+269_Johnny Silverhand, Engram
+209_Corrosive Dragalge
+367_Uziel
+291_Nanally, the Ichi-Daime
+278_Lighter, the Red Scarf
+322_Regent
+243_Gluttonous Guzzlord
+375_Walking Wake
+302_Opeth, the Osiris Beam
+303_Orphie and Magus, Binary Souls
+343_Slaanesh, the Indulgence
+261_Infested Fountain
+53_Qingyi, Old Soul
+363_Ultra Emergence
+340_Sigrid, Airspace Protector
+345_Soldier 11, Loyalist
+313_Prideful Buzzwole
+e
+365_Urshifu, Fluid Striker
+348_Starlight Billy
+385_Yveltal, Deathbringer
+330_Royal Swarmleader
+e
+237_Frostfire Slash
+393_Gabriel, Judge of Hell
+399_Qesiax, Fate Bound
+342_Skullbriar, Undying Menace
+e
+263_Iron Moth
+163_Agile Kartana
+401_Twin Marionettes
+182_Beholder Engine
+e
+324_Regieleki, Living Conduit
+171_Anton, Best Bro
+208_Containment Team
+64_Wo-Chien, Treasure of Ruin
+e
+347_Stalking Xurkitree
+172_Archer
+235_Foreboding Aegislash
+e
+e
+358_Thunder Fox
+185_Billy, Heroic Android
+282_Machinery of Oppression
+e
+e
+392_Elfy, Musical Connoisseur
+197_Brion Stoutarm
+289_Mischievous Polteageist
+e
+e
+396_Kassiak, the Tattered Dream
+212_Deafening Noivern
+305_Pact Keeper
+e
+e
+404_Zapdos, Wings of Thunder
+247_Grand Dragon
+372_Vindicate
+e
+e
+351_Susie, Clueless Tinkerer
+287_Mera, Youthful Explorer
+332_Seething Skitter-Priest
+e
+e
+28_Deoxys, Mysterious Invader
+304_Overwatch Stabilizers
+26_Chien-Pao, Treasure of Ruin
+e
+e
+30_Ellen, the Shark Bite
+310_Phoenix Hawk
+32_Foreboding Aegislash
+e
+e
+e
+327_Restava, Honor Bound
+37_Hugo, Son of Hate
+e
+e
+e
+389_Centurion
+56_Soldier 11, Loyalist
+e
+e
+e
+221_Dutiful Streetcleaner
+71_Yveltal, Deathbringer
+e
+e
+e
+336_Shadowhawk
+e
+e
+e
+e
+16_Anby, Soldier 0
+e
+e
+e
+e
+18_Astra, Inspiring Idol
+e
+e
+e
+e
+40_Jirachi, the Granter
+e
+e
+e
+e
+41_Lighter, the Red Scarf
+e
+e
+e
+e
+48_Orphie and Magus, Binary Souls
+e
+e
+e
+e
+51_Phoenix Hawk
+e
+e
+e
+e
+58_Starlight Billy
+er
+er
+er
+er
+er
+165_Alcatraz, Ensouled Machine
+168_Altered Creation
+179_Banyue, Repentant Master
+181_Battlemaster
+183_Belle and Wise, Phaethon
+186_Birth of the Titans
+196_Bringer, Creator's Devotee
+200_The Burned Man
+201_Caesar, Outer Ring Overlord
+202_Cheziak, Last Arcotech
+205_Cissia, Impish Menace
+207_The Clan Invasion
+218_Doom Slayer
+219_Dune-Brood Nephilim
+229_Fall of the Star League
+233_The Fiery Rebirth
+234_Flora, the Lost
+236_Frieren the Mage
+239_Geppetto, Puppeted Puppeteer
+240_Giratina, Dark Distortion
+241_Glint-Eye Nephilim
+248_Grand Titan
+251_Gunslinger
+252_Harding, the Beast
+262_Ink-Treader Nephilim
+271_Kethasuki, Destiny's Herald
+274_Lacrimosa
+275_Lasaunder, Exiled Founder
+277_The Lich, Gungeon Master
+279_Lucia, Ethereal Conjurer
+281_Lycaon, Refined Housekeeper
+290_﻿Miyabi, Void Hunter
+292_Nangong, Angel of Delusion
+293_Natasha Kerensky
+294_Necrozma, Dawn Wings
+295_Necrozma, Dusk Mane
+298_Nineveh, Flower of Corruption
+299_Norma, Bangboo Technician
+301_Operation Klondike
+308_Pecharunt, Poison Puppeteer
+309_Pepsiman, Carbonated Hero
+315_Pyrois, Etheric Other
+317_Race to Terra
+319_Raiden, God of Thunder
+320_Ratchet and Clank, Heroes
+321_Rayquaza, Delta Wind
+325_Regigigas, World Shaper
+326_Remielle, Luminous Warden
+331_Sea Emperor Leviathan
+334_Seshi and Quena, Lifekeepers
+341_Sisyphus, the Unstoppable
+359_Timber Wolf
+376_Witch-Maw Nephilim
+380_Ye Shunguang, Sword Arbiter
+381_Yidhari, Dark Dreamer
+382_Yixuan, High Preceptor
+383_Yore-Tiller Nephilim
+384_Yuzuha, Masterful Trickster
+386_Zacian and Zamazenta
+395_Ju Fufu, Yunkui Disciple
+176_Artificial Black Hole
+244_Gnostro, Voice of the Crags
+249_Great Canaranix
+285_Manato, the Stalwart
+296_Nicole, Cunning Hare
+394_Glory Kill
+19_Banyue, Repentant Master
+20_Battlemaster
+21_Belle and Wise, Phaethon
+24_Caesar, Outer Ring Overlord
+27_Cissia, Impish Menace
+33_Frieren the Mage
+34_Giratina, Dark Distortion
+42_Lucia, Ethereal Conjurer
+43_Manato, the Stalwart
+44_Miyabi, Void Hunter
+45_Nangong, Angel of Delusion
+46_Nicole, Cunning Hare
+47_Nineveh, Flower of Corruption
+49_Pecharunt, Poison Puppeteer
+50_Pepsiman, Carbonated Hero
+52_Pyrois, Etheric Other
+54_Rayquaza, Delta Wind
+67_Ye Shunguang, Sword Arbiter
+68_Yidhari, Dark Dreamer
+69_Yixuan, High Preceptor
+70_Yuzuha, Masterful Trickster
+73_Ju Fufu, Yunkui Disciple
+74_Lycaon, Refined Housekeeper
+e
+er
+er
+er
+er
+er
+3_Arceus, Alpha Pokémon
+4_Bringer of Creation
+5_Chiz
+8_Delta Awakening
+14_Gridox, Final Calamity
+22_Rip and Tear
+101_Sire of Damnation
+356_Terapagos, the Indigo Disk
+405_1000-THR Earthmover
+407_Atlas
+408_Beski, Steel Mystic
+411_Combine Advisor
+421_Mox Lazotep
+426_T-1000
+427_Tool Gun
+20_No-Dachi
+21_One of Multitudes
+23_Scamamental
+26_Watchful Overseer
+65_Dimensional Infiltrator
+86_Dread Defiler
+115_Eldrazi Obligator
+220_Dusk Stalker
+231_Fathom Feeder
+250_Grotesque Mass
+409_Blade of Many Battles
+410_Catapult
+412_Combine APC
+413_Contagious Crystal
+415_Electrostatic Pummeler
+416_Eous, Hollow Guide
+420_Lotus Guardian
+422_Orbs of Warding
+423_Orion
+424_Realm Thresher
+425_The Royal Conductor
+406_Arcotech Sentinel
+414_Deadly Scyther
+418_Hunchback
+428_Trebuchet
+1_
+6_Close Encounter
+7_Cretan Hollow
+9_Fraudulence
+10_Gates of Hell
+11_Glowing Squid
+12_Gluttony
+13_Greed
+15_Heresy
+16_Hollow Zero
+17_Limbo
+18_Lust
+19_Night City
+24_Treachery
+25_Violence
+27_Wrath
+417_Flea
+419_Locust
+429_Urbanmech
+1_Arceus, Alpha Pokémon
+59_Terapagos, the Indigo Disk
+75_Locust
+76_Orion
+77_Sol Ring
+78_Urbanmech
+er
+er
+er
+er
+er
+e
+e
+433_Crypt of Agadeem
+e
+442_Oran-Rief, the Vastwood
+438_Golden Coast
+435_Dread Coast
+434_Darkest Pits
+432_Broken Land
+444_Peculiar Vista
+e
+437_Gloomy Bog
+e
+e
+e
+430_Abandoned Bunker
+e
+e
+e
+e
+er
+er
+er
+er
+er
+436_Emeria, the Sky Ruin
+439_Magosi, the Waterveil
+443_Paliano, the High City
+446_Valakut, the Molten Pinnacle
+431_Ancient Arcs
+445_Safe Shallows
+440_Mech Hangar
+e
+e
+e
+er
+er
+er
+er
+er
+441_Mountain
+448_Plains
+450_Island
+452_Swamp
+454_Forest
+447_Plains
+449_Island
+451_Swamp
+453_Mountain
+455_Forest
+er
+er
+er
+er
+er
+1t_Pepsi
+e
+e
+e
+e
