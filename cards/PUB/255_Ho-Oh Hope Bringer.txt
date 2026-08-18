@@ -1,0 +1,1 @@
+﻿Ho-Oh, Hope Bringer	WR	mythic	Legendary Creature – Bird 	255	WUBRG	3RW	Flying, trampleNEWLINEAt the beginning of your end step, you may pay WUBRG. If you do, create Rainbow Feather, a legendary artifact with “T, Sacrifice this artifact: The next spell you cast this turn costs 0.”	5/4		normal	PUB		POKEMON

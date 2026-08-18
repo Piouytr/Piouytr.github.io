@@ -1,0 +1,1 @@
+﻿Watchful Overseer		rare	Creature – Eldrazi 	23	C	4C	Vigilance, ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)NEWLINEWhenever a nonland permanent card is put into exile, put a +1/+1 counter on target colorless creature.	4/4		normal	PUB		NEWLINEUnique

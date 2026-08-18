@@ -1,0 +1,1 @@
+﻿Corrosive Dragalge	BG	rare	Creature – Dragon Fish 	207	BG	BG	Wither (This deals damage to creatures in the form of -1/-1 counters.)NEWLINEWhenever a creature dies, if it had a -1/-1 counter on it, surveil 2. 	1/3		normal	PUB		Pokemon

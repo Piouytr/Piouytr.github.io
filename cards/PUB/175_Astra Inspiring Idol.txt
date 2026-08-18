@@ -1,0 +1,1 @@
+﻿Astra, Inspiring Idol	WR	mythic	Legendary Creature – Human Bard 	175	WR	4RW	Lifelink, haste NEWLINEWhen Astra enters, for each creature you control, create a 1/1 red Human creature token with haste.NEWLINECreatures you control get +1/+1 for each nontoken creature that entered under your control this turn.	3/3		normal	PUB		ZZZ

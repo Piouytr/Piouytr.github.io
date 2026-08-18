@@ -1,0 +1,1 @@
+﻿Lucy, the Baroness	R	rare	Legendary Creature – Human Warrior 	122	R	2RR	MenaceNEWLINEWhenever Lucy attacks, create a 1/1 red Boar creature token that’s tapped and attacking.NEWLINEBoars you control get +1/+1 for each other Boar you control.	3/3		normal	PUB		ZZZ

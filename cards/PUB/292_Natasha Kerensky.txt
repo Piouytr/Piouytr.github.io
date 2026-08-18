@@ -1,0 +1,1 @@
+﻿Natasha Kerensky	WBR	mythic	Legendary Creature – Human Pilot 	292	WBR	RWB	Whenever a Vehicle you control attacks, defending player may have Natasha deal 3 damage to them. If that player doesn’t, you draw a card.NEWLINENatasha crews Vehicles as though her power were 2 greater.	3/3		normal	PUB		Battletech

@@ -1,0 +1,1 @@
+﻿Scamamental		rare	Creature – Elemental 	20	C	1	ExtortNEWLINEThis creature’s power is equal to the code on the back of your credit card.NEWLINEThis creature’s toughness is equal to your credit card number.NEWLINEUnearth X. X is equal to the expiration date of your credit card.	*/*		normal	PUB		Joke

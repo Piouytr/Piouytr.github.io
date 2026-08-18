@@ -1,0 +1,1 @@
+﻿Zhu Yuan, Best in Class	W	mythic	Legendary Creature – Human Officer 	56	W	1WW	VigilanceNEWLINEWhenever Zhu Yuan attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of attacking creatures you control.	3/3		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Fraudulence		common	Plane – Hell 	7	C		At the beginning of your upkeep, you may put a card from your hand onto the battlefield face down. Its a 2/2 colorless Demon creature.			plane card	PUB		Planechase

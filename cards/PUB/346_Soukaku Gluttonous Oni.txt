@@ -1,0 +1,1 @@
+﻿Soukaku, Gluttonous Oni	RG	rare	Legendary Creature – Demon 	346	RG	2RG	TrampleNEWLINEWhen Soukaku enters, create X Food tokens, where X is the number of Foods you control.NEWLINEWhenever you sacrifice a Food, put a +1/+1 counter on Soukaku.	3/3		normal	PUB		ZZZ

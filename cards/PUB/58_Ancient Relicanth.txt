@@ -1,0 +1,1 @@
+﻿Ancient Relicanth	U	rare	Creature – Elder Fish 	58	U	2UU	Vigilance, ward 1NEWLINEWhenever you draw a card, put a ward 1 counter on target permanent.	4/4		normal	PUB		POKEMON

@@ -1,0 +1,1 @@
+﻿Doom Slayer	WBR	mythic	Legendary Creature – Demigod Warrior 	216	WBR	4RWB	HasteNEWLINEWhenever an opponent is dealt combat damage, put that many +1/+1 counters on Doom Slayer.NEWLINEWhenever a blocking creature you don’t control is dealt combat damage, Doom Slayer deals that much damage to target player.	6/6		normal	PUB		Doom

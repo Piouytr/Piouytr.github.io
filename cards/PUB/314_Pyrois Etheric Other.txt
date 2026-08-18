@@ -1,0 +1,1 @@
+﻿Pyrois, Etheric Other	WUBRG	mythic	Legendary Creature – Avatar Knight 	314	WUBRG	WUBRG	At the beginning of combat on your turn, you may exile the top three cards of your library.NEWLINEPyrois has the triggered abilities of cards exiled by it.NEWLINE0: Put a card exiled by Pyrois into your hand. Activate only as a sorcery and only once each turn.	6/6		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Gloomy Bog		rare	Land	437	UB		T: Add C.NEWLINET: Add U or B. Each opponent gains 1 life.			normal	PUB		UniqueNEWLINEElder Scrolls

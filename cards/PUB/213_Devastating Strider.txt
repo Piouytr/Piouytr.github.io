@@ -1,0 +1,1 @@
+﻿Devastating Strider	RG	rare	Artifact Creature – Alien Synth 	213	RG	2CRG	TrampleNEWLINEWhenever this creature attacks, you may pay CC. If you do, destroy target nonland permanent.	5/5		normal	PUB		Half-Life

@@ -1,0 +1,1 @@
+﻿Darksteel Hydra	RG	mythic	Artifact Creature – Phyrexian Hydra 	208	RG	XRG	IndestructibleNEWLINEWhen this creature enters, distribute X oil counters among permanents you control.NEWLINEThis creature gets +1/+1 for each oil counter among permanents you control.	1/1		normal	PUB		REMAKE

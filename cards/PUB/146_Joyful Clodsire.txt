@@ -1,0 +1,1 @@
+﻿Joyful Clodsire	G	rare	Creature – Salamander 	146	G	2GG	WitherNEWLINEWhen this creature enters, put two -1/-1 counters on target creature you control.NEWLINECreatures you control get +2/+2 for each -1/-1 counter on them.	2/2		normal	PUB		POKEMON

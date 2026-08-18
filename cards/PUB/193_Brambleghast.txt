@@ -1,0 +1,1 @@
+﻿Brambleghast	BG	rare	Creature – Plant Spirit 	193	BG	BG	HasteNEWLINEThis creature and other plants you control get +1/+0 for each noncreature spell you’ve cast this turn.NEWLINEWhenever this creature attacks, create a 0/1 green Plant creature token.	2/2		normal	PUB		Pokemon

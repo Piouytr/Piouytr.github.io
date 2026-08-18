@@ -1,0 +1,1 @@
+﻿Chi-Yu, Treasure of Ruin	BR	mythic	Legendary Creature – Incarnation 	201	BR	2BR	Beads of Ruin – Instant and sorcery spells you cast with one or more targets cost 1 less to cast.NEWLINEWhenever Chi-Yu attacks, it gets +1/+1 for each instant and sorcery card in your graveyard until end of turn.	2/2		normal	PUB		Pokemon

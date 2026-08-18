@@ -1,0 +1,1 @@
+﻿Yveltal, Deathbringer	WB	mythic	Legendary Creature – Bird Avatar 	385	WB	3WB	Flying, deathtouchNEWLINEWhenever an opponent loses life, put a -1/-1 counter on each creature they control.NEWLINEWhen Yveltal dies, exile it with three time counters on it. It gains suspend.	4/4		normal	PUB		POKEMON

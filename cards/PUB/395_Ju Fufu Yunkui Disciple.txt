@@ -1,0 +1,1 @@
+﻿Ju Fufu, Yunkui Disciple	WRG	mythic	Legendary Creature – Cat Monk 	395	WRG	1RG/W	HasteNEWLINEWhenever a Food you control enters, Ju Fufu deals 1 damage to target opponent.NEWLINEAt the beginning of each end step, if a player was dealt 3 or more damage by Ju FuFu this turn, create a Food token.	2/2		normal	PUB		ZZZ

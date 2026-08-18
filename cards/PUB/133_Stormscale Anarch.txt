@@ -1,0 +1,1 @@
+﻿Stormscale Anarch	R	rare	Creature – Lizard Shaman 	133	R	1RR	Whenever this creature attacks, discard a card at random. When you do, this creature deals 2 damage to any target. If the discarded card was a multicolored card, this creature deals 3 damage to that target instead.	3/2		normal	PUB		Remake

@@ -1,0 +1,1 @@
+﻿Khorne, the Blood God	BR	mythic	Legendary Enchantment Creature – God 	271	BR	3BR	Trample, indestructibleNEWLINEKhorne isn’t a creature unless four or more creatures died since the beginning of your last turn.NEWLINEWhenever a creature you control enters, it deals damage equal to its power to any nonplayer target.	7/3		normal	PUB		Warhammer

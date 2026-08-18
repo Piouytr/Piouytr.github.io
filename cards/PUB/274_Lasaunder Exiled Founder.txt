@@ -1,0 +1,1 @@
+﻿Lasaunder, Exiled Founder	URG	mythic	Legendary Artifact Creature – Artificer 	274	URG	1GUR	Whenever Lasaunder or another artifact creature you control enters, it explores.NEWLINEWhenever a creature you control explores an artifact card, you may put that card into your hand.	4/4		normal	PUB		Unique

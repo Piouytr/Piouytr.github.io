@@ -1,0 +1,1 @@
+﻿The Royal Conductor		rare	Legendary Artifact Creature – Advisor 	425	C	4	At the beginning of combat on your turn, choose one. X is equal to the number of spells you’ve cast with different names this turn.NEWLINE• You gain X life.NEWLINE• Distribute X +1/+1 counters among creatures you control.NEWLINE• Surveil X, then draw a card.	3/3		normal	PUB		Unique

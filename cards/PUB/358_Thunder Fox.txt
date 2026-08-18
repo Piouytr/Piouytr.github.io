@@ -1,0 +1,1 @@
+﻿Thunder Fox	UR	rare	Artifact – Vehicle 	358	UR	1UR	T: Add X mana in any combination of colors, where X is the number of Vehicles you control. Spend this mana only to cast Vehicle spells.NEWLINEWhenever you cast a Vehicle spell, put a +1/+1 counter on up to two target Vehicles.NEWLINECrew 2	3/3		normal	PUB		BATTLETECH

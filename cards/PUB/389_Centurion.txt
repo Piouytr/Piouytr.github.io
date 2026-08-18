@@ -1,0 +1,1 @@
+﻿Centurion	WR	rare	Artifact – Vehicle 	389	WR	1R/WR/W	First strikeNEWLINEWhenever a creature crews this Vehicle, put a +1/+1 counter on that creature.NEWLINEWhenever this Vehicle attacks or blocks, it gets +X/+0 until end of turn, where X is the greatest power among creatures that crewed it this turn.NEWLINECrew 2	2/2		normal	PUB		Battletech

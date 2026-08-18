@@ -1,0 +1,1 @@
+﻿Corpse of King Minos	B	mythic	Legendary Creature – Zombie Giant 	81	B	3BBB	MenaceNEWLINEWhenever another nontoken creature you control dies, exile it. Then create a token copy of it except its a black Zombie in addition to its other types.NEWLINECorpse of King Minos gets +1/+1 for each other Zombie you control.	5/5		normal	PUB		Ultrakill

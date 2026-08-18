@@ -1,0 +1,1 @@
+﻿Civil Protection	B	common	Creature – Human 	80	B	1BB	MenaceNEWLINEWhenever a creature you don’t control dies, put a +1/+1 counter on this creature. This ability only triggers once each turn.	2/2		normal	PUB		Half-Life

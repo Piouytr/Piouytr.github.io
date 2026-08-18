@@ -1,0 +1,1 @@
+﻿Majestic Milotic	U	rare	Creature – Serpent 	69	U	1UU	VigilanceNEWLINECreatures you control have protection from mana value 4 or greater (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 4 or greater.)	3/3		normal	PUB		Pokemon

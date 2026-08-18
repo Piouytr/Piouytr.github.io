@@ -1,0 +1,1 @@
+﻿Blade of Many Battles		rare	Artifact – Equipment 	409	C	2	Equipped creature has menace and gets +1/+1 for each charge counter on this artifact.NEWLINEWhenever equipped creature attacks, put a charge counter on this artifact.NEWLINEEquip 2			normal	PUB		Unique

@@ -1,0 +1,1 @@
+﻿Marauder	R	rare	Artifact – Vehicle 	124	R	2RR	MenaceNEWLINEWhenever this Vehicle attacks, creatures you control with menace can’t be blocked by creatures with greater power until end of turn.NEWLINECrew 2	4/4		normal	PUB		BATTLETECH

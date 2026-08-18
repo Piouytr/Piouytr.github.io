@@ -1,0 +1,1 @@
+﻿Broken Land		rare	Land	432	RG		T: Add C.NEWLINET: Add R or G. Each opponent gains 1 life.			normal	PUB		UniqueNEWLINEElder Scrolls

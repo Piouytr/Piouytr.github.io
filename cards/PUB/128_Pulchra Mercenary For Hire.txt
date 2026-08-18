@@ -1,0 +1,1 @@
+﻿Pulchra, Mercenary For Hire	R	rare	Legendary Creature – Cat Mercenary 	128	R	RR	HasteNEWLINEWhenever Pulchra or another creature you control deals combat damage to a player, add R. Until end of turn, you don’t lose this mana as steps and phases end.	2/1		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Lotus Guardian		rare	Artifact Creature – Dragon 	420	C	7	FlyingNEWLINEWhen this creature enters, create a Black Lotus token. 	5/5		normal	PUB		Remake

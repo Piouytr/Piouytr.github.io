@@ -1,0 +1,1 @@
+﻿Starlight Billy	WR	mythic	Legendary Artifact Creature – Robot Hero 	348	WR	2RWW	Double strikeNEWLINEWhenever an equipped creature you control attacks, it gets +X/+0 until end of turn, where X is the total mana value of equipment attached to it.	3/5		normal	PUB		ZZZ

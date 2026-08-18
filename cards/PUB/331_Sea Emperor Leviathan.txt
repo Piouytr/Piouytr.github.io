@@ -1,0 +1,1 @@
+﻿Sea Emperor Leviathan	WUG	mythic	Legendary Creature – Leviathan 	331	WUG	2GWU	Vigilance NEWLINEWhenever another nontoken Crab, Fish, Jellyfish, Kraken, Leviathan, Octopus, Serpent, or Shark you control enters, create a token copy of it. This ability only triggers once each turn.	4/4		normal	PUB		Subnautica

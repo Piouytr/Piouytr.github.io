@@ -1,0 +1,1 @@
+﻿Yidhari, Dark Dreamer	UBG	mythic	Legendary Creature – Octopus Warrior 	381	UBG	1BGU	MenaceNEWLINEWhenever you lose life for the first time each turn, you may choose one–NEWLINE• Put that many +1/+1 counters on Yidhari.NEWLINE• Target opponent loses that much life.NEWLINE• Target player mills that many cards.	3/3		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Cretan Hollow		common	Plane – Hollow 	5	C		Landfall – Whenever a land you control enters, create a 2/2 green Mutant creature token.			plane card	PUB		ZZZNEWLINEPlanechase

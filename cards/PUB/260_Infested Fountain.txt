@@ -1,0 +1,1 @@
+﻿Infested Fountain	BG	rare	Artifact	260	BG	BG	At the beginning of your upkeep, create a Food token.NEWLINEFoods you control are 1/1 Insect creatures in addition to their other types.			normal	PUB		SCP

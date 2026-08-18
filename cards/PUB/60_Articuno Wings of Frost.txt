@@ -1,0 +1,1 @@
+﻿Articuno, Wings of Frost	U	rare	Legendary Creature – Elemental Bird 	60	U	1UUU	FlyingNEWLINEWhenever a permanent you don’t control becomes a target of a spell, if that permanent was tapped, you may put a stun counter on it. Otherwise, you may tap it.NEWLINEWhenever a stun counter is put on a permanent, Articuno gets +1/+1 until end of turn.	3/3		normal	PUB		Pokemon

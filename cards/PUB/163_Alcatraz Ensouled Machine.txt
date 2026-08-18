@@ -1,0 +1,1 @@
+﻿Alcatraz, Ensouled Machine	WUB	mythic	Legendary Artifact Creature – Robot 	163	WUB	1WUB	VigilanceNEWLINEWhenever you cast a legendary spell, you may mill three cards.NEWLINEWhenever a legendary card leaves your graveyard, put a +1/+1 counter on Alcatraz.	3/3		normal	PUB		Unique

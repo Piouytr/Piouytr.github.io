@@ -1,0 +1,1 @@
+﻿Adamant Basculegion	UB	rare	Creature – Fish Spirit 	160	UB	3UB	MenaceNEWLINEWhen this creature enters, put a +1/+1 counter on it for each creature card in your graveyard.NEWLINEEscape 1UB, Exile six other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)	4/4		normal	PUB		Pokemon

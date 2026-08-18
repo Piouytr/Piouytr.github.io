@@ -1,0 +1,1 @@
+﻿Dreadful Mass	B	rare	Creature – Zombie 	84	B	XBBB	MenaceNEWLINEWhen this creature enters, exile up to X target creature cards from your graveyard. This creature’s power and toughness are equal to the total power of cards exiled this way.	*/*		normal	PUB		

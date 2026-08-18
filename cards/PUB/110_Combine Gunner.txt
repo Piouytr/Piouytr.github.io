@@ -1,0 +1,1 @@
+﻿Combine Gunner	R	rare	Artifact Creature – Human Synth Soldier 	110	R	CR	ProwessNEWLINEWhenever you cast a noncreature artifact spell with mana value greater than this creature’s power, this creature deals damage equal to its power to any target.	1/2		normal	PUB		Half-Life

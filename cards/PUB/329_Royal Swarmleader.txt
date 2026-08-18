@@ -1,0 +1,1 @@
+﻿Royal Swarmleader	BG	rare	Creature – Insect 	329	BG	1BG	Flying, lifelinkNEWLINEAt the beginning of your end step, if you gained life this turn, you lose 4 life and draw a card.	2/3		normal	PUB		Unique

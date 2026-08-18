@@ -1,0 +1,1 @@
+﻿Agile Kartana	WR	rare	Creature – Alien Samurai 	161	WR	1RW	Double strikeNEWLINEWhenever this creature deals combat damage, put a +1/+1 counter on it.	1/1		normal	PUB		Pokemon

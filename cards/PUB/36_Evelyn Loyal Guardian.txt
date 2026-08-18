@@ -1,0 +1,1 @@
+﻿Evelyn, Loyal Guardian	W	mythic	Legendary Creature – Human 	36	W	2WWW	VigilanceNEWLINEW, T: Change the target of target spell or ability with a single target to Evelyn.NEWLINEWhenever another creature you control would die, as long as Evelyn is untapped, you may tap her. If you do, regenerate that creature. Do this only once.	4/4		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Hatchetman	G	rare	Artifact  – Vehicle 	142	G	1GG	Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)NEWLINEOther Vehicles you control have melee.NEWLINECrew 2	4/4		normal	PUB		BATTLETECH

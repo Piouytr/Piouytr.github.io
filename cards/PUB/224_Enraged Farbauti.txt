@@ -1,0 +1,1 @@
+﻿Enraged Farbauti	RG	rare	Creature – Mutant Beast 	224	RG	2RG	TrampleNEWLINEWhenever a Mutant you control deals combat damage to a player, destroy up to one target artifact or enchantment.	4/4		normal	PUB		ZZZ

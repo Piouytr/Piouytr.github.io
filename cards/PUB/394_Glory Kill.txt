@@ -1,0 +1,1 @@
+﻿Glory Kill	WBR	uncommon	Instant	394	WBR	W/BBB/R	Destroy target creature. If that creature was dealt damage this turn, you gain 4 life and draw a card.			normal	PUB		Doom

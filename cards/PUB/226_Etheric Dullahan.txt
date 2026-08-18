@@ -1,0 +1,1 @@
+﻿Etheric Dullahan	WG	rare	Creature – Mutant Knight 	226	WG	3GW	VigilanceNEWLINEWhenever this creature deals combat damage to another creature, put that many +1/+1 counters on target creature you control.	4/4		normal	PUB		ZZZ

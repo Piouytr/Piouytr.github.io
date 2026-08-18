@@ -1,0 +1,1 @@
+﻿Basilica Skykeeper	WG	rare	Creature – Phyrexian Dragon 	178	WG	2GW	Flying, toxic 2  (Players dealt combat damage by this creature also get two poison counters.)NEWLINEWhenever a creature you don’t control enters, you may create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and “This token can’t block.”	3/3		normal	PUB		NEWLINEUnique

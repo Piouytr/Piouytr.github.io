@@ -1,0 +1,1 @@
+﻿Elfy, Musical Connoisseur	UR	rare	Legendary Artifact Creature – Robot 	392	UR	2U/R	ProwessNEWLINESpells you cast cost 1 less to cast for each spell you’ve cast with the same name this turn.NEWLINEU/RU/R, T: Exile target nonland card from your graveyard. You may cast if from exile until Elfy leaves the battlefield.	2/2		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Foreseeing Absol	B	uncommon	Creature – Beast 	90	B	2B	MenaceNEWLINEWhenever this creature attacks, look at the top card of defending player’s library. If that card is a noncreature nonland card, you may reveal it. If you do, put a +1/+1 counter on this creature.	3/2		normal	PUB		Pokemon

@@ -1,0 +1,1 @@
+﻿Withering Skeleton	B	uncommon	Creature – Skeleton 	101	B	BB	Wither (This deals damage to creatures in the form of -1/-1 counters.)NEWLINEBB: Return this creature from your graveyard to the battlefield tapped. Activate only if there are three or more -1/-1 counters among creatures your opponents control.	2/1		normal	PUB		Minecraft

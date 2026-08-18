@@ -1,0 +1,1 @@
+﻿Nineveh, Flower of Corruption	WBG	mythic	Legendary Creature – Mutant Plant 	297	WBG	4WBG	Flying, vigilanceNEWLINEWhen Nineveh enters, create a 2/1 white Mutant Drone creature token with flying for each land card in your graveyard.NEWLINEWhenever a Mutant you control dies, you may return a land card from your graveyard to the battlefield tapped.	5/5		normal	PUB		ZZZ

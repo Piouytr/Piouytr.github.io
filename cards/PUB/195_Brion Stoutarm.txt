@@ -1,0 +1,1 @@
+﻿Brion Stoutarm	WR	rare	Legendary Creature – Giant Warrior 	195	WR	2RW	LifelinkNEWLINE1R, Sacrifice a creature: Brion Stoutarm deals damage equal to the sacrificed creature’s power to any target.	4/4		normal	PUB		Remake

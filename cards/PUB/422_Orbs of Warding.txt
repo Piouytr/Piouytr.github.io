@@ -1,0 +1,1 @@
+﻿Orbs of Warding		rare	Artifact	422	C	5	You have hexproof. NEWLINESpells you cast can’t be countered.NEWLINEIf a source an opponent controls would deal damage to you, prevent 1 of that damage.			normal	PUB		Remake

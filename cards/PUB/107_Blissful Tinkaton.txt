@@ -1,0 +1,1 @@
+﻿Blissful Tinkaton	R	rare	Creature – Ouphe Warrior 	107	R	1RR	TrampleNEWLINEWhenever a creature you control attacks, you may destroy target artifact with lesser mana value. If you do, put a +1/+1 counter on that creature.	4/2		normal	PUB		Pokemon

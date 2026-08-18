@@ -1,0 +1,1 @@
+﻿Rockin' Toxtricity	R	rare	Creature – Lizard Bard 	131	R	R	HasteNEWLINEWhenever a noncreature permanent you control deals damage, put a +1/+1 counter on this creature. This ability only triggers once each turn.	1/1		normal	PUB		POKEMON

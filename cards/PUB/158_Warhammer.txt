@@ -1,0 +1,1 @@
+﻿Warhammer	G	rare	Artifact – Vehicle 	158	G	3GG	TrampleNEWLINEWhenever a Vehicle you control attacks, destroy up to one target artifact or enchantment.NEWLINECrew 3	6/6		normal	PUB		BATTLETECH

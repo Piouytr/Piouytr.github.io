@@ -1,0 +1,1 @@
+﻿Walking Wake	UG	rare	Creature – Dinosaur Dragon 	375	UG	3GU	VigilanceNEWLINEWhen this creature enters, it deals X damage to up to one target creature, where X is the number of red permanents you control.	5/5		normal	PUB		POKEMON

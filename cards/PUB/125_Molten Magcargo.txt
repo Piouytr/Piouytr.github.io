@@ -1,0 +1,1 @@
+﻿Molten Magcargo	R	rare	Creature – Elemental Snail 	125	R	RRR	Firebending 2 (Whenever this creature attacks, add RR. This mana lasts until end of combat.)NEWLINEAttacking creatures you control have “R: This creature gets +1/+0 until end of turn.”	2/3		normal	PUB		Pokemon

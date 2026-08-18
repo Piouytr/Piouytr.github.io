@@ -1,0 +1,1 @@
+﻿Graceful Pheromosa	RG	rare	Creature – Alien Insect 	244	RG	1RG	HasteNEWLINECreatures you control can’t be blocked by creatures with lesser power.	3/1		normal	PUB		POKEMON

@@ -1,0 +1,1 @@
+﻿Arceus, Alpha Pokémon		mythic	Legendary Creature – God 	1	C	7	FlyingNEWLINEAs Arceus enters, choose a color.NEWLINEArceus is the chosen color.NEWLINEArceus has the activated and triggered abilities of each permanent it shares a color with.	6/6		normal	PUB		Pokemon

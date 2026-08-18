@@ -1,0 +1,1 @@
+﻿Glowing Squid		common	Creature – Squid 	9	C					normal	PUB		MinecraftNEWLINEUnfinished

@@ -1,0 +1,1 @@
+﻿Mera, Youthful Explorer	WR	rare	Legendary Creature – Kor Scout 	286	WR	RW	Mera has flying as long as she’s attacking.NEWLINEWhenever another legendary permanent you control enters, put a +1/+1 counter on Mera.	2/2		normal	PUB		NEWLINEUnique

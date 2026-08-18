@@ -1,0 +1,1 @@
+﻿Xerneas, Lifebringer	WG	mythic	Legendary Creature – Elk Avatar 	378	WG	3GW	Lifelink, reachNEWLINEWhenever you gain life, put a +1/+1 counter on each creature you control.NEWLINEWhen Xerneas dies, exile it with three time counters on it. It gains suspend.	4/4		normal	PUB		POKEMON

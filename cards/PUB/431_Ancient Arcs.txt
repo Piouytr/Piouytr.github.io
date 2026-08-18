@@ -1,0 +1,1 @@
+﻿Ancient Arcs		rare	Land	431	C		This land enters tapped.NEWLINET: Add one mana of any color. Spend this mana only to cast a artifact spell or to activate an ability of a artifact source.NEWLINEWhenever this land becomes tapped, you may put a charge counter on target artifact.			normal	PUB		Unfinished

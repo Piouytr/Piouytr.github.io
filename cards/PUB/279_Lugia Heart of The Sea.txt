@@ -1,0 +1,1 @@
+﻿Lugia, Heart of The Sea	WU	mythic	Legendary Creature – Bird 	279	WU	3WU	Flying, vigilanceNEWLINEWhenever a creature you control with vigilance becomes the target of a spell or ability, you may copy that spell or ability. You may choose new targets for the copy. This ability triggers only once each turn.	4/5		normal	PUB		Pokemon

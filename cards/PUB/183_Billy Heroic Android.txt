@@ -1,0 +1,1 @@
+﻿Billy, Heroic Android	WR	rare	Legendary Artifact Creature – Robot Rogue 	183	WR	RRW	HasteNEWLINEEquip costs you pay cost 1 less.NEWLINEEquipment you control have “Equipped creature gets +1/+0 and ward 1.”	2/2		normal	PUB		ZZZ

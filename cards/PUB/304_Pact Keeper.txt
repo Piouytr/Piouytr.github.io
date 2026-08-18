@@ -1,0 +1,1 @@
+﻿Pact Keeper	WB	rare	Creature – Spirit Samurai 	304	WB	2WB	Vigilance, ward 2NEWLINEAs this creature enters, choose a card type. NEWLINEWhenever an opponent casts a spell of the chosen type, they lose 1 life and you gain 1 life.	4/4		normal	PUB		Unique

@@ -1,0 +1,1 @@
+﻿Gnostro, Voice of the Crags	WUR	rare	Legendary Creature – Chimera 	242	WUR	1URW	T: Choose one. X is the number of spells you’ve cast this turn.NEWLINE• Surveil X.NEWLINE• Gnostro deals X damage to up to two nonplayer targets.NEWLINE• Return target creature card with mana value X or less from your graveyard to the battlefield tapped.	4/4		normal	PUB		Remake

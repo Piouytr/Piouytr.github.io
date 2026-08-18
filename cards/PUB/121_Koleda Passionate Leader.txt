@@ -1,0 +1,1 @@
+﻿Koleda, Passionate Leader	R	mythic	Legendary Creature – Human 	121	WRG	1RRR	TrampleNEWLINEWhenever Koleda or an Artifact creature you control attacks, you may pay R/WR/G. If you do, they deal damage equal to their power to any nonplayer target.	4/4		normal	PUB		ZZZ

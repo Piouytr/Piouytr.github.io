@@ -1,0 +1,1 @@
+﻿Kudeshi, One of Wonder	U	rare	Legendary Creature – Elemental Crab 	67	U	1UU	VigilanceNEWLINEWhenever a creature you control with toughness greater than its power becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller taps two untapped permanent they control.	3/4		normal	PUB		Unique

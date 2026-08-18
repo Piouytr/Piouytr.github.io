@@ -1,0 +1,1 @@
+﻿Axman Hodag	R	rare	Artifact – Vehicle 	106	R	RR	MenaceNEWLINEWhenever this Vehicle deals combat damage, exile the top card of your library. You may play it the end of your next turn.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	PUB		Battletech

@@ -1,0 +1,1 @@
+﻿One of Multitudes		rare	Creature – Eldrazi 	18	C	3CC	Squad–Exile a creature you control. (As an additional cost to cast this spell, you may pay its squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)NEWLINETrample	4/4		normal	PUB		NEWLINEUnique

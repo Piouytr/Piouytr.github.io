@@ -1,0 +1,1 @@
+﻿Adam Smasher, Merciless	BR	mythic	Legendary Artifact Creature – Human 	159	BR	3BBR	Menace, hasteNEWLINEWhenever a creature dies, for each creature you control that dealt damage to it this turn, put a +1/+1 counter on that creature and exile the top two cards of your library. You may play them until the end of your next turn.	6/6		normal	PUB		Cyberpunk

@@ -1,0 +1,1 @@
+﻿Erupting Typhlosion	R	rare	Creature – Beast 	114	R	3RR	HasteNEWLINEWhen this creature enters, it deals 3 damage to each other creature. If a creature dealt damage this way would die this turn, exile it instead.	3/3		normal	PUB		Pokemon

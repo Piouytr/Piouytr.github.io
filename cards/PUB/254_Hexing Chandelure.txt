@@ -1,0 +1,1 @@
+﻿Hexing Chandelure	UB	rare	Creature – Spirit 	254	UB	1UUB	Flying, prowessNEWLINEIf a noncreature nonland card would be put into a graveyard from anywhere, exile it instead.NEWLINEWhenever this creature deals combat damage to a player, you may pay 3 life. If you do, you may cast a card exiled with this creature until the end of your next turn.	3/3		normal	PUB		Pokemon

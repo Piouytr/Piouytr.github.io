@@ -1,0 +1,1 @@
+﻿Thoughtseeker	WU	rare	Creature – Fractal Horror 	357	WU	WU	FlyingNEWLINEWhen this creature enters, each opponent may reveal their hand. For each opponent that revealed their hand this way, you and that player each draw a card.	2/2		normal	PUB		Unique

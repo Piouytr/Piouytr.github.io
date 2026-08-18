@@ -1,0 +1,1 @@
+﻿Deer Lord	BG	mythic	Legendary Creature – Demon Horror 	211	BG	3BG	When Deer Lord enters or whenever another nontoken creature you control dies, create a 2/2 green Deer creature token.NEWLINEDeer and Elk you control get +2/-1 and are black Horrors in addition to their other types.	4/4		normal	PUB		Spooky

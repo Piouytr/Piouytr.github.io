@@ -1,0 +1,1 @@
+﻿Sentinel	UG	rare	Artifact – Vehicle 	333	UG	GU	VigilanceNEWLINEWhenever this creature attacks or blocks, untap each creature that crewed it this turn.NEWLINECrew 2	3/3		normal	PUB		Battletech

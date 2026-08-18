@@ -1,0 +1,1 @@
+﻿Lucia, Ethereal Conjurer	WUG	mythic	Legendary Creature – Goat Wizard 	278	WUG	2GWU	Whenever a nontoken Mutant you control enters, create a blue 2/2 Mutant enchantment creature token. Put your choice of a lifelink, vigilance, or trample counter on it.NEWLINEMutants you control get +1/+1.	3/5		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Davion Thunderbolt	R	rare	Artifact – Vehicle 	111	R	2RR	HasteNEWLINEWhenever a Vehicle you control attacks, add RR. Until end of turn, you don’t lose this mana as steps and phases end.NEWLINECrew 3	4/4		normal	PUB		Battletech

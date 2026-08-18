@@ -1,0 +1,1 @@
+﻿Ellen, the Shark Bite	UR	mythic	Legendary Creature – Shark Warrior 	222	UR	2UR	Haste, ward 1NEWLINEOther creatures you control with haste have ward 1NEWLINEWhenever a creature you control with haste attacks, it gets +X/+0 until end of turn. Where X is the number of attacking creatures you control with haste.	4/4		normal	PUB		ZZZ

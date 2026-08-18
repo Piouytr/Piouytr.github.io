@@ -1,0 +1,1 @@
+﻿Burnice, Blazing Mixologist	R	mythic	Legendary Creature – Human Warrior 	108	R	1RR	ProwessNEWLINEWhenever another source you control deals noncombat damage to a permanent or player, Burnice deals damage equal to her power to that permanent or player.	2/2		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Farseeing Moth	U	rare	Creature – Insect 	64	U	2U	FlyingNEWLINEYou draw cards from the bottom of your library rather than the top.NEWLINEWhen this creature enters, draw a card.	2/2		normal	PUB		Unique

@@ -1,0 +1,1 @@
+﻿Fathom Feeder		rare	Creature – Eldrazi Drone 	229	UB	UB	Devoid (This card has no color.)NEWLINEDeathtouch, ingestNEWLINEWhenever an opponent exiles one or more cards from their library, put a +1/+1 counter on this creature.	1/1		normal	PUB		REMAKE

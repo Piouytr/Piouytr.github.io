@@ -1,0 +1,1 @@
+﻿Atlas		mythic	Artifact – Vehicle 	407	C	7	HasteNEWLINEWhen this Vehicle enters, until end of turn, Vehicles you control have trample and get +X/+X, where X is the number of artifacts you control.NEWLINECrew 3	8/8		normal	PUB		Battletech

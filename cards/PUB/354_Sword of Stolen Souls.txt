@@ -1,0 +1,1 @@
+﻿Sword of Stolen Souls	UB	rare	Artifact – Equipment 	354	UB	2UB	If a creature would die, exile it instead.NEWLINEEquipped creature gets +1/+1 for each creature card in exile.NEWLINE1UB: Equipped creature becomes a copy of a creature card in exile until end of turn.NEWLINEEquip 2			normal	PUB		Unique

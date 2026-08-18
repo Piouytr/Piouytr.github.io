@@ -1,0 +1,1 @@
+﻿Kyogre, Primal Sea	U	mythic	Legendary Creature – Elemental Whale 	68	U	4UUU	IslandwalkNEWLINEPrimordial Sea – When Kyogre enters, put a flood counter on each land. Those lands are basic islands for as long as they have a flood counter on them.NEWLINESpells and abilities you control can’t be countered.	6/6		normal	PUB		POKEMON

@@ -1,0 +1,1 @@
+﻿Moltres, Wings of Malice	B	rare	Legendary Creature – Elemental Bird 	93	B	1BBB	Flying, wither (This deals damage to creatures in the form of -1/-1 counters.)NEWLINEIf one or more -1/-1 counters would be put on a creature you don’t control, twice that many -1/-1 counters are put on it instead.	3/3		normal	PUB		POKEMON

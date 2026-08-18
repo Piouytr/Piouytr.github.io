@@ -1,0 +1,1 @@
+﻿Titanic Clash	G	rare	Sorcery	157	G	3GG	Double the power and toughness of each creature you control until end of turn. Then target creature you control fights target creature you don’t control.			normal	PUB		Unique

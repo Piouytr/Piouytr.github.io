@@ -1,0 +1,1 @@
+﻿Geppetto, Puppeted Puppeteer	UBG	mythic	Legendary Creature – Mutant 	237	UBG	5BGU	FlyingNEWLINEWhenever Geppetto attacks, gain control of up to X target permanents, where X is the number of permanents you control but don’t own.	7/7		normal	PUB		ZZZ

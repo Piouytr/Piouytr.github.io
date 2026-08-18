@@ -1,0 +1,1 @@
+﻿Norma, Bangboo Technician	WUR	mythic	Legendary Creature – Human Artificer 	298	WUR	1URW	TrampleNEWLINEWhenever you cast an artifact spell you may create a 1/1 Bangboo artifact creature token.NEWLINENorma gets +1/+0 for each Bangboo you control.	3/3		normal	PUB		ZZZ

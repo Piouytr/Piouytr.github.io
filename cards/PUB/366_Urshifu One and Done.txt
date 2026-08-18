@@ -1,0 +1,1 @@
+﻿Urshifu, One and Done	RG	mythic	Legendary Creature – Bear Warrior 	366	RG	3RG	TrampleNEWLINEYou may exert Urshifu as it attacks. If you do, tap any number of untapped nonland permanents you control. Urshifu gets +1/+1 for each permanent tapped this way until end of turn. (An exerted creature won’t untap during your next untap step.)	5/4		normal	PUB		Pokemon

@@ -1,0 +1,1 @@
+﻿Frieren the Mage	WUR	mythic	Legendary Creature – Elf Wizard 	234	WUR	1URW	Magecraft – Whenever you cast or copy an instant or sorcery spell, choose up to one–NEWLINE• Scry 2.NEWLINE• Frieren deals 1 damage to any nonplayer target.NEWLINE• Put a +1/+1 counter on target creature.	4/4		normal	PUB		FRIEREN

@@ -1,0 +1,1 @@
+﻿The Dead End Butcher	BG	mythic	Legendary Creature – Mutant 	209	BG	3BG	Trample, hasteNEWLINEWhenever a creature you control with one or more +1/+1 counters on it attacks, defending player loses life equal to the number of +1/+1 counters on that creature.	5/5		normal	PUB		ZZZ

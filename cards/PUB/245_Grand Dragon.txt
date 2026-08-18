@@ -1,0 +1,1 @@
+﻿Grand Dragon	WR	rare	Artifact – Vehicle 	245	WR	2RW	Double strikeNEWLINEWhenever a Vehicle you control attacks alone, it gets +X/+X until end of turn, where X is the greatest mana value  among Vehicles you control other than that Vehicle.NEWLINECrew 3	4/4		normal	PUB		Battletech

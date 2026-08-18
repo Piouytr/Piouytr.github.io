@@ -1,0 +1,1 @@
+﻿Lively Bulbasaur	G	common	Creature – Plant Dinosaur 	150	G	GG	TrampleNEWLINEWhen this creature enters, target creature you control gets +1/+1 until end of turn.	2/2		normal	PUB		POKEMON

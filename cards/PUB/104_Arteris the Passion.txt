@@ -1,0 +1,1 @@
+﻿Arteris, the Passion	R	mythic	Legendary Creature – Dragon 	104	R	2RR	FlyingNEWLINEWhenever Arteris or another creature you control enters, you may gain control of target creature with lesser mana value until end of turn. Untap that creature. It gains haste and is goaded until end of turn.	3/3		normal	PUB		Dragon Shield

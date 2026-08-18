@@ -1,0 +1,1 @@
+﻿Hellspawn	R	rare	Artifact – Vehicle 	119	R	2R	HasteNEWLINEAs long as you have one or fewer cards in your hand, this Vehicle is a creature in addition to its other types.NEWLINECrew 3	5/5		normal	PUB		BATTLETECH

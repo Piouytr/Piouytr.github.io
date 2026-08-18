@@ -1,0 +1,1 @@
+﻿Ben, the Greathearted	WG	rare	Legendary Creature – Bear 	182	WG	4GW	TrampleNEWLINEIf a creature you control without a +1/+1 counter on it would die, put a +1/+1 counter on it instead.	6/6		normal	PUB		ZZZ

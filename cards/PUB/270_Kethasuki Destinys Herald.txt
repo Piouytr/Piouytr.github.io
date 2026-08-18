@@ -1,0 +1,1 @@
+﻿Kethasuki, Destiny's Herald	WUG	mythic	Legendary Creature – Elder Serpent 	270	WUG	1GWU	VigilanceNEWLINEAs you reveal a card from your hand, you may exile it. If you do, you may cast it for as long as it remains exiled.NEWLINEWhenever Kethasuki attacks, you may cast a card exiled with it without paying its mana cost.	2/6		normal	PUB		Unique

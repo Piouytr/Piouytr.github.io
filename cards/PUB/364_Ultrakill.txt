@@ -1,0 +1,1 @@
+﻿Ultrakill	BR	rare	Instant	364	BR	BBR	Destroy target creature. Create X blood tokens, where X is that creature’s mana value.			normal	PUB		Ultrakill

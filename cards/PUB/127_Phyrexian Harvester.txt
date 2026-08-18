@@ -1,0 +1,1 @@
+﻿Phyrexian Harvester	R	mythic	Creature – Phyrexian Horror 	127	R	RRRR	MenaceNEWLINEWhenever this creature is dealt damage, exile that many cards from the top of your library. You may play them until the end of your next turn.	5/5		normal	PUB		Remake

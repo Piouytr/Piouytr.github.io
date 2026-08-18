@@ -1,0 +1,1 @@
+﻿The Walking Scarecrow	BR	rare	Legendary Artifact Creature – Scarecrow Rogue 	374	BR	BBR	Whenever you commit a crime, each opponent loses 1 life and you gain 1 life. This ability only triggers once each turn.NEWLINEAt the beginning of each end step, for each opponent that lost 3 or more this turn, The Walking Scarecrow deals 1 damage to any target.	3/3		normal	PUB		Unique

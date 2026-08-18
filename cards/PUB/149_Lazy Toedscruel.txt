@@ -1,0 +1,1 @@
+﻿Lazy Toedscruel	G	rare	Creature – Fungus 	149	G	1GG	Ward 2NEWLINEWhenever this creature or another Fungus or Saproling you control enters, put a spore counter on this creature. NEWLINERemove three spore counters from this creature: Distribute three +1/+1 counters among other creatures you control.	3/3		normal	PUB		Pokemon

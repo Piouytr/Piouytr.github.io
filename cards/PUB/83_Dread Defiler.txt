@@ -1,0 +1,1 @@
+﻿Dread Defiler		rare	Creature – Eldrazi 	83	B	5B	Devoid (This card has no color.)NEWLINEMenaceNEWLINE2C, Exile a creature card from your graveyard: Each opponent loses X life, where X is the exiled card’s power.	6/8		normal	PUB		Remake

@@ -1,0 +1,1 @@
+﻿Koraidon, Winged King	RG	mythic	Legendary Creature – Dragon 	272	RG	3RG	Trample, protection from blueNEWLINEWhenever a nontoken creature you control attacks, it gets +1/+1 for each attacking creature you control.NEWLINEOther creatures you control have trample. 	4/3		normal	PUB		POKEMON

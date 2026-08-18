@@ -1,0 +1,1 @@
+﻿V2, Vengeful Machine	BR	mythic	Legendary Artifact Creature – Robot 	369	BR	2BR	TrampleNEWLINEWhenever a nontoken creature you control is put into a graveyard, target opponent puts it onto the battlefield under their control.NEWLINEV2 gets +2/+2 for each permanent you own but don’t control.	3/3		normal	PUB		Ultrakill

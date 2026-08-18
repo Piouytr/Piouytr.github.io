@@ -1,0 +1,1 @@
+﻿Restava, Honor Bound	WR	rare	Legendary Creature – Dragon Knight 	326	WR	2RW	FlyingNEWLINEWhenever a creature you control with flying attacks, creatures you control without flying get +1/+1 until end of turn.	4/4		normal	PUB		Unique

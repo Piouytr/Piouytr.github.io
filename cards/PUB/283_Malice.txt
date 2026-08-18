@@ -1,0 +1,1 @@
+﻿Malice	BR	mythic	Artifact – Vehicle 	283	BR	3BR	Wither (This deals damage to creatures in the form of -1/-1 counters.)NEWLINEWhenever this Vehicle attacks or blocks, it deals 1 damage to each creature you don’t control.NEWLINECrew 3	6/6		normal	PUB		BATTLETECH

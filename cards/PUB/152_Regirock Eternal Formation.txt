@@ -1,0 +1,1 @@
+﻿Regirock, Eternal Formation	G	rare	Legendary Creature – Elemental Golem 	152	G	2GG	Whenever a Golem you control attacks, you may pay 1G. If you do, target creature defending player controls blocks it this turn if able.NEWLINEWhenever a Golem you control dies, You gain life equal to its power.	5/4		normal	PUB		Pokemon

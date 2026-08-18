@@ -1,0 +1,1 @@
+﻿The Black Lady	BR	mythic	Legendary Artifact – Vehicle 	185	BR	3BR	Deathtouch, trampleNEWLINEDamage from sources you control is dealt as though it had deathtouch.NEWLINEWhenever a source you control deals exactly 1 damage to a permanent or player, put a +1/+1 counter on this Vehicle.NEWLINECrew 3	6/6		normal	PUB		Battletech

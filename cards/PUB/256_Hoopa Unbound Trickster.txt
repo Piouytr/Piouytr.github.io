@@ -1,0 +1,1 @@
+﻿Hoopa, Unbound Trickster	BR	mythic	Legendary Creature – Djinn 	256	BR	2BBR	FlyingNEWLINEWhenever Hoopa deals combat damage, you may reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and you lose life equal to its mana value, then shuffle the rest into your library.	4/4		normal	PUB		Pokemon

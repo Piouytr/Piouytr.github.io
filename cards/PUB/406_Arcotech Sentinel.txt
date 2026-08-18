@@ -1,0 +1,1 @@
+﻿Arcotech Sentinel		uncommon	Artifact Creature – Construct 	406	C	4	VigilanceNEWLINEWhenever you cast a spell, if it targets an artifact you control, you may put a +1/+1 counter on this creature.	4/4		normal	PUB		Unique

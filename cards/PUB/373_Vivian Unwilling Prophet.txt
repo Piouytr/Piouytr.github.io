@@ -1,0 +1,1 @@
+﻿Vivian, Unwilling Prophet	WU	mythic	Legendary Creature – Elf Rogue 	373	WU	2WU	Flying, ward 2NEWLINEAs you scry, you may reveal a card from among the scryed cards and put it into your hand.NEWLINEWhenever another nontoken creature you control enters, you may scry 2. This ability only triggers once each turn.	2/2		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Dusk Stalker		rare	Creature – Eldrazi  	218	BR	2BR	Devoid (This card has no color.)NEWLINEHasteNEWLINEAt the beginning of your end step, if you control no other colorless creatures, return this creature to its owner’s hand and it deals 3 damage to any nonplayer target. 	5/3		normal	PUB		REMAKE

@@ -1,0 +1,1 @@
+﻿Yuzuha, Masterful Trickster	UBR	mythic	Legendary Creature – Human Rogue 	384	UBR	1UBR	Menace NEWLINEWhenever an opponent discards a card for the first time each turn, create a 1/1 red Raccoon creature token.NEWLINEYuzuha and Raccoons you control get +1/+0 for each card your opponents discarded this turn.	2/4		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Trigger, Electric Deadshot	WU	mythic	Legendary Creature – Human Soldier 	361	WU	1WU	First strikeNEWLINEWhenever Trigger attacks, tap target creature, then put a stun counter on it.NEWLINEWhenever a source you control causes a permanent you don’t control to become tapped, scry 1.	2/2		normal	PUB		ZZZ

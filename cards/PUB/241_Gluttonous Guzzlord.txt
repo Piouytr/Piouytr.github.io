@@ -1,0 +1,1 @@
+﻿Gluttonous Guzzlord	BG	rare	Creature – Alien Beast 	241	BG	5BG	Trample, menaceNEWLINEWard–Sacrifice a permannent.NEWLINEWhenever this creature attacks, you may sacrifice any number of permanents. If you do, put +1/+1 counters on this creature equal to the total mana value of permanents sacrificed this way.	8/8		normal	PUB		POKEMON

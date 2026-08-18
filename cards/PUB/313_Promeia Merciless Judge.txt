@@ -1,0 +1,1 @@
+﻿Promeia, Merciless Judge	UB	mythic	Legendary Creature – Human Assassin 	313	UB	2UB	Sneak 1UBNEWLINEWhenever a creature you control deals combat damage to a player, if it entered this turn, you may mill three cards. If you do, put a card from among the milled cards into your hand.	4/4		normal	PUB		ZZZ

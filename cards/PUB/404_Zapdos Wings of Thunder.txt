@@ -1,0 +1,1 @@
+﻿Zapdos, Wings of Thunder	UR	rare	Legendary Creature – Elemental Bird 	404	UR	1UU/RR	Flying, prowessNEWLINEWhenever you cast your second noncreature spell each turn, scry 2 and Zapdos deals 2 damage to any target.	3/3		normal	PUB		POKEMON

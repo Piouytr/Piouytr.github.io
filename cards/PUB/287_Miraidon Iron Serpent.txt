@@ -1,0 +1,1 @@
+﻿Miraidon, Iron Serpent	UR	mythic	Legendary Artifact Creature – Dragon 	287	UR	3UR	Flying, protection from greenNEWLINEWhenever another nontoken artifact you control enters, Miradon gets +1/+1 until end of turn.NEWLINEOther artifact creatures you control have flying and get +X/+0, where X is Miradon’s power.	3/3		normal	PUB		POKEMON

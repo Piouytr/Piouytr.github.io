@@ -1,0 +1,1 @@
+﻿Divine Virtue	W	uncommon	Creature – Angel Eye 	33	W	3WW	Flying, ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)NEWLINEOther Angels you control have ward 1.	4/4		normal	PUB		Ultrakill

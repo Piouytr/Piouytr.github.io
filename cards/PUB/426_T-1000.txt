@@ -1,0 +1,1 @@
+﻿T-1000		mythic	Artifact Creature – Construct 	426	C	6	IndestructibleNEWLINEWhenever another creature enters, you may have this creature become a copy of that creature, except it has indestructible and this ability.	5/5		normal	PUB		TERMINATOR

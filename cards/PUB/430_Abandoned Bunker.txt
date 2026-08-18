@@ -1,0 +1,1 @@
+﻿Abandoned Bunker		rare	Land	430	WB		This land enters tapped.NEWLINET: Add W or B.NEWLINE2: Put this land from your graveyard onto the battlefield.			normal	PUB		UniqueNEWLINECall of Duty

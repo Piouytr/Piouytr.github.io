@@ -1,0 +1,1 @@
+﻿Ether Corruption	UG	rare	Instant	225	UG	2GUU	Gain control of target creature. It becomes a Mutant in addition to its other types.			normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Zacian and Zamazenta	WUR	mythic	Legendary Creature – Dog Warrior 	386	WUR	3URW	First strike, vigilance, ward 2NEWLINEOther creatures you control have hexproof.NEWLINEWhenever another creature you control attacks, it gets +1/+1 and gains first strike until end of turn.	5/5		normal	PUB		POKEMON

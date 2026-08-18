@@ -1,0 +1,1 @@
+﻿Nekomata, Cunning Feline	W	mythic	Legendary Creature – Cat 	47	W	1WW	LifelinkNEWLINEWhenever one or more nontoken creatures you control attack, create a 1/1 white Cat creature token with lifelink.NEWLINEWhenever a Cat you control attacks, put a +1/+1 counter on it.	1/3		normal	PUB		ZZZ

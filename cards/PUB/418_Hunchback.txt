@@ -1,0 +1,1 @@
+﻿Hunchback		uncommon	Artifact – Vehicle 	418	C	5	TrampleNEWLINECrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	7/5		normal	PUB		BATTLETECH

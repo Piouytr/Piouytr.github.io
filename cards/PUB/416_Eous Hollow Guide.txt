@@ -1,0 +1,1 @@
+﻿Eous, Hollow Guide		rare	Legendary Artifact Creature – Bangboo 	416	R	3	HasteNEWLINEWhen Eous enters, it gets +X/+X until end of turn, where X is the number of card types among cards in all graveyards.	1/1		adventure	PUB		Hollow Deep Dive	R	Sorcery – Adventure 	R	3R	Each player discards their hand, then draws three cards.				ZZZ

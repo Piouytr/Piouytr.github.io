@@ -1,0 +1,1 @@
+﻿Mischievous Polteageist	WB	rare	Creature – Spirit 	288	WB	WB	FlyingNEWLINEWhen this creature enters, each player create a Food token.NEWLINEWhenever a Food is put into a graveyard from the battlefield, each opponent loses 1 life and you gain 1 life.	2/2		normal	PUB		Pokemon

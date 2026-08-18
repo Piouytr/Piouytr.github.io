@@ -1,0 +1,1 @@
+﻿Blazing Ceruledge	BR	rare	Creature – Elemental Warrior 	189	BR	4BR	Double strikeNEWLINEWhenever an opponent loses life, you may gain that much life. Do this only once each turn.NEWLINEWhenever you gain life, put that many +1/+1 counters on this creature.	2/4		normal	PUB		Pokemon

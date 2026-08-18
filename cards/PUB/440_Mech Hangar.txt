@@ -1,0 +1,1 @@
+﻿Mech Hangar		uncommon	Land	440	C		T: Add C.NEWLINET: Add one mana of any color. Spend this mana only to cast a Pilot or Vehicle spell.NEWLINE3, T: Target Vehicle becomes an artifact creature until end of turn.			normal	PUB		BATTLETECHNEWLINEReprint

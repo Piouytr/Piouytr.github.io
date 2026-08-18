@@ -1,0 +1,1 @@
+﻿Empowered Celesteela	RG	rare	Creature – Alien Plant 	223	RG	3RG	FlyingNEWLINEWhenever this creature attacks, you get X E, where X is this creature’s power.NEWLINEPay EEEE: If a source you control would deal damage this turn, it deals double that damage instead.	3/4		normal	PUB		POKEMON

@@ -1,0 +1,1 @@
+﻿Deadly Scyther		uncommon	Artifact Creature – Construct 	414	C	4	MenaceNEWLINEWhenever a creature dies, if it was dealt damage by this creature this turn, put a +1/+1 counter on this creature.	3/3		normal	PUB		Rimworld

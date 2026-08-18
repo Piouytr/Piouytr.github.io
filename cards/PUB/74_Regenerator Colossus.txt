@@ -1,0 +1,1 @@
+﻿Regenerator Colossus	U	rare	Artifact Creature – Leviathan 	74	U	5UU	TrampleNEWLINEWhen this creature enters, exile your graveyard.NEWLINEWhenever you draw a card, you may exile it. If you do, put a card exiled by this creature into your hand.NEWLINEWhenever this creature deals combat damage to a player, draw two cards.	6/8		normal	PUB		Unique

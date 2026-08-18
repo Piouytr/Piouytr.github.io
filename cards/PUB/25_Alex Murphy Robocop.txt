@@ -1,0 +1,1 @@
+﻿Alex Murphy, Robocop	W	mythic	Legendary Artifact Creature – Human 	25	W	1WWW	VigilanceNEWLINEWhenever Murphy attacks, detain target creature with equal or lesser power.NEWLINEWhenever you detain a permanent, put a +1/+1 counter on target creature you control.	4/4		normal	PUB		Robocop

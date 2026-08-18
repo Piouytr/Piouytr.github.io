@@ -1,0 +1,1 @@
+﻿Treachery		common	Plane – Hell 	21	C		Whenever a nonland permanent becomes tapped, but a stun counter on it.			plane card	PUB		Planechase

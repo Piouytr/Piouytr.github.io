@@ -1,0 +1,1 @@
+﻿Patriotic Helldivers	W	rare	Creature – Human Soldier 	48	W	2W	First strikeNEWLINEWhenever another nontoken Soldier you control dies, exile it and create a tapped token that’s a copy of it.	3/2		normal	PUB		Helldivers

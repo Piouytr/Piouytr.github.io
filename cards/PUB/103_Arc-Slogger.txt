@@ -1,0 +1,1 @@
+﻿Arc-Slogger	R	rare	Creature – Beast 	103	R	3RR	R, Exile the top five cards of your library: You get EE.NEWLINEEEEEEE: This creature deals 6 damage to any target.	4/5		normal	PUB		Remake

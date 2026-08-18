@@ -1,0 +1,1 @@
+﻿Caesar, Outer Ring Overlord	WRG	mythic	Legendary Creature – Human Warrior 	199	WRG	2RGW	First strikeNEWLINEWhenever Caesar or another creature you control enters, you may have it fight target creature you don’t control.NEWLINEWhenever one or more creatures you control fight, put a +1/+1 counter on each of them.	4/4		normal	PUB		ZZZ

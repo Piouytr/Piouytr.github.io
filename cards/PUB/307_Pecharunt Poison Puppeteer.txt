@@ -1,0 +1,1 @@
+﻿Pecharunt, Poison Puppeteer	UBG	mythic	Legendary Creature – Spirit Beast 	307	UBG	1BGU	Flying, wither (This deals damage to creatures in the form of -1/-1 counters.)NEWLINEWhenever you or a source you control puts a -1/-1 counter onto a creature, you may gain control of that creature until Pecharunt leaves the battlefield. Do this only once each turn.	1/4		normal	PUB		POKEMON

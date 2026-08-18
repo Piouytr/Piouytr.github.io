@@ -1,0 +1,1 @@
+﻿Cheziak, Last Arcotech	WUBRG	mythic	Legendary Artifact Creature – Avatar 	200	WUBRG	WUBRG	VigilanceNEWLINEArtifact spells you cast have sunburst.NEWLINET, Remove X counters from among permanents you control: Create X 1/1 Servo artifact creature tokens. When you do, Cheziak deals X damage to any target.	5/5		normal	PUB		Unique

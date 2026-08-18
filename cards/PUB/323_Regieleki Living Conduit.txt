@@ -1,0 +1,1 @@
+﻿Regieleki, Living Conduit	UR	rare	Legendary Creature – Elemental Golem 	323	UR	1UR	Flying, prowess, hasteNEWLINEWhenever Regieleki attacks, you get EE.NEWLINEU/R, Pay E: Put a +1/+1 counter on target Golem you control. Activate only as a sorcery.	1/1		normal	PUB		Pokemon

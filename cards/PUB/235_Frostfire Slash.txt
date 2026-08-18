@@ -1,0 +1,1 @@
+﻿Frostfire Slash	UR	rare	Instant	235	UR	1UR	Frostfire Slash deals X damage to any nonplayer target, where X is the number of cards in your hand. Excess damage dealt to that permanent is dealt to its controller instead.NEWLINEFlashback–UR, Discard two cards.			normal	PUB		ZZZ

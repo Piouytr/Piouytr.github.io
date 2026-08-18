@@ -1,0 +1,1 @@
+﻿Pompey, Corrupted Overlord	RG	mythic	Legendary Creature – Mutant Warrior 	311	RG	3RG	TrampleNEWLINEWhenever a permanent an opponent controls is dealt excess damage, you may exile the top X cards of your library, where X is equal to the excess damage. You may play them until the end of your next turn.	5/5		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Eldrazi Obligator		rare	Creature – Eldrazi 	113	R	R	Devoid (This card has no color.)NEWLINEWhen you cast this spell, you may pay 2C. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn.	2/1		normal	PUB		Remake

@@ -1,0 +1,1 @@
+﻿Greed		common	Plane – Hell 	11	C		When you planeswalk to Greed and at the beginning of your upkeep, each player creates a Treasure token.NEWLINETreasures lose all abilities.			plane card	PUB		Planechase

@@ -1,0 +1,1 @@
+﻿Tool Gun		mythic	Artifact – Equipment 	427	C	3	Whenever equipped creature attacks, conjure a random card with mana value equal to attacking creature’s power.NEWLINEEquip 1			normal	PUB		Unique

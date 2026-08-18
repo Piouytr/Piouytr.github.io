@@ -1,0 +1,1 @@
+﻿Blood Asp	RG	mythic	Artifact – Vehicle 	190	RG	4RG	TrampleNEWLINEWhenever this Vehicle attacks, it deals X damage to any target, where X is the number of tapped creatures you control.NEWLINECrew 4	8/8		normal	PUB		Battletech

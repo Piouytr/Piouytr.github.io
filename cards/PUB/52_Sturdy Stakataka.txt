@@ -1,0 +1,1 @@
+﻿Sturdy Stakataka	W	rare	Creature – Alien Wall 	52	W	3WW	VigilanceNEWLINEOther tapped creatures you control have indestructible.NEWLINEOther untapped creatures you control have hexproof.	2/6		normal	PUB		POKEMON

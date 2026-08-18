@@ -1,0 +1,1 @@
+﻿Firestarter	R	uncommon	Artifact – Vehicle 	115	R	R	HasteNEWLINEWhenever this Vehicle attacks, you may discard a card. If you do, draw a card.NEWLINECrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	2/2		normal	PUB		Battletech

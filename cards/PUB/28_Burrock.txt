@@ -1,0 +1,1 @@
+﻿Burrock	W	rare	Artifact – Vehicle 	28	W	3WW	Double strikeNEWLINEWhenever a Vehicle you control deals combat damage, create a 1/1 colorless Pilot creature token with “This token crews Vehicles as though its power were 2 greater.”NEWLINECrew 3	3/3		normal	PUB		Battletech

@@ -1,0 +1,1 @@
+﻿Tireless Lookout	W	uncommon	Artifact Creature – Human Synth Soldier 	54	W	1CW	VigilanceNEWLINENonartifact spells cost 1 more to cast.	2/2		normal	PUB		Half-Life

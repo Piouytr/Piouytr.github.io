@@ -1,0 +1,1 @@
+﻿Archer	WR	rare	Artifact – Vehicle 	170	WR	1RW	First strikeNEWLINEWhenever this Vehicle attacks, it deals 1 damage to each creature defending player controls.NEWLINEDamage dealt by Vehicles you control can’t be prevented.NEWLINECrew 2	4/4		normal	PUB		Battletech

@@ -1,0 +1,1 @@
+﻿Slither Wing	RG	rare	Creature – Insect Beast 	344	RG	2RG	Trample, hasteNEWLINEWhenever a creature you control with haste deals combat damage to a player, you may discard a card. If you do, draw a card.	4/4		normal	PUB		POKEMON

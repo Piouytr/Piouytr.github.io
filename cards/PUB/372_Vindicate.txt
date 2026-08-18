@@ -1,0 +1,1 @@
+﻿Vindicate	WB	rare	Sorcery	372	WB	1WB	Destroy target permanent.			normal	PUB		BATTLETECHNEWLINEReprint

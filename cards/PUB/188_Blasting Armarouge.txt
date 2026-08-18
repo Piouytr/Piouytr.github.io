@@ -1,0 +1,1 @@
+﻿Blasting Armarouge	RG	rare	Creature – Elemental Warrior 	188	RG	4RG	TrampleNEWLINEWhenever a creature you control attacks, if its power is greater than its toughness, put two +1/+1 counters on it.	4/3		normal	PUB		Pokemon

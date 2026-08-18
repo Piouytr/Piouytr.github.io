@@ -1,0 +1,1 @@
+﻿Miyabi, Void Hunter	WUR	mythic	Legendary Creature – Fox Warrior 	289	WUR	URW	ProwessNEWLINEWhenever Miyabi attacks, exile the top X cards of your library, where X is equal to the number of permanents attached to her. You may play cards exiled this way until the end of your next turn.	2/3		normal	PUB		ZZZ

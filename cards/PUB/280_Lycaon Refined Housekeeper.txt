@@ -1,0 +1,1 @@
+﻿Lycaon, Refined Housekeeper	WUR	mythic	Legendary Creature – Wolf 	280	WUR	2URW	VigilanceNEWLINEWhenever a creature you control is tapped, if it wasn’t attacking, add R. You don’t lose this mana as steps and phases end.NEWLINEWhenever Lycaon attacks, you may pay X. If you do, he gets +X/+0 and gains trample until end of turn.	4/4		normal	PUB		ZZZ

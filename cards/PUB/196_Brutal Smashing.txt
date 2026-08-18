@@ -1,0 +1,1 @@
+﻿Brutal Smashing	RG	uncommon	Instant	196	RG	RG	Target artifact or creature you control deals damage equal to its mana value to target creature. Excess damage is dealt to that creature’s controller instead.			normal	PUB		ZZZ

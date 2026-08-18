@@ -1,0 +1,1 @@
+﻿Catapult		rare	Artifact – Vehicle 	410	C	4	VigilanceNEWLINEAs long as this Vehicle is a creature, If a artifact source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.NEWLINECrew 2	4/4		normal	PUB		Battletech

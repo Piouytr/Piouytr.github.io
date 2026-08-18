@@ -1,0 +1,1 @@
+﻿Flygon of the Sandstorm	R	rare	Creature – Insect Dragon 	116	R	2RRR	FlyingNEWLINEWhen this creature enters, create a legendary enchantment token named Sandstorm with “At the beginning of each upkeep, this enchantment deals 1 damage to each creature, player, and planeswalker.”	4/4		normal	PUB		Pokemon

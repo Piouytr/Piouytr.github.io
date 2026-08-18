@@ -1,0 +1,1 @@
+﻿Spirit of the Hunt	G	rare	Creature – Wolf Spirit 	154	G	1GG	FlashNEWLINEWhen this creature enters, it becomes night. Then transform any number of Human Werewolves you control.	3/3		normal	PUB		Remake

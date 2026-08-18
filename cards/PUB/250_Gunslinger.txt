@@ -1,0 +1,1 @@
+﻿Gunslinger	WUR	mythic	Artifact – Vehicle 	250	WUR	2URW	VigilanceNEWLINEWhenever you cast a noncreature spell, put a +1/+1 counter on each Vehicle you control.NEWLINECrew 3	5/5		normal	PUB		Battletech

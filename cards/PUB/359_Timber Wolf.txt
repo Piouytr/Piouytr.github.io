@@ -1,0 +1,1 @@
+﻿Timber Wolf	UBR	mythic	Artifact – Vehicle 	359	UBR	3UBR	Menace, prowessNEWLINEOther Vehicles you control have prowess.NEWLINEWhenever this Vehicle attacks, return target instant or sorcery card from your graveyard to your hand.NEWLINECrew 3	6/6		normal	PUB		BATTLETECH

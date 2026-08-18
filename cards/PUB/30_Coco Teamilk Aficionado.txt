@@ -1,0 +1,1 @@
+﻿Coco, Teamilk Aficionado	W	uncommon	Legendary Creature – Human 	30	W	2W	At the beginning of your upkeep, create a Food token.NEWLINEAt the beginning of each end step, create a 1/1 white Human creature token for each Food you sacrificed this turn.	1/1		normal	PUB		ZZZ

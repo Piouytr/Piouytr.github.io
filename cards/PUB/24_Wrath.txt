@@ -1,0 +1,1 @@
+﻿Wrath		common	Plane – Hell 	24	C		Spells that target creatures or planeswalkers cost 2 less to cast.			plane card	PUB		Planechase

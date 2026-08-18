@@ -1,0 +1,1 @@
+﻿Ares Command 'Mech	WU	mythic	Artifact – Vehicle 	171	WU	3WU	Ward 3NEWLINEOther Vehicles you control have crew 1.NEWLINEAs long as this Vehicle is attacking, Vehicles you control can’t be blocked by non-Vehicle creatures.NEWLINECrew 5	8/8		normal	PUB		Battletech

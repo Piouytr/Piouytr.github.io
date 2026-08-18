@@ -1,0 +1,1 @@
+﻿The Black Marauder	B	mythic	Legendary Artifact – Vehicle  	78	B	3BBB	Menace, hasteNEWLINEB, Sacrifice a creature: Put two +1/+1 counters on The Black Marauder and it becomes an artifact creature until end of turn. Activate only once each turn.NEWLINEWhenever a creature you control dies, each opponent loses 1 life.	5/5		normal	PUB		Battletech

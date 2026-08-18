@@ -1,0 +1,1 @@
+﻿Cyclops	WU	mythic	Artifact – Vehicle 	390	WU	3WW/UU	VigilanceNEWLINEWhenever another artifact you control enters, put X +1/+1 counters on up to one target creature or Vehicle, where X is that artifact’s mana value.NEWLINECrew 3	6/6		normal	PUB		Battletech

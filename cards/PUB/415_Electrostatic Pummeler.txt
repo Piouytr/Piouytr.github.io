@@ -1,0 +1,1 @@
+﻿Electrostatic Pummeler		rare	Artifact Creature – Construct 	415	C	3	Whenever this creature deals  damage for the first time each turn, you get that much E. NEWLINEPay EEE: This creature gets +X/+0 until end of turn, where X is its power.	2/2		normal	PUB		Remake

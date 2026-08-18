@@ -1,0 +1,1 @@
+﻿Palkia, Master of Space	UG	mythic	Legendary Creature – Dragon Avatar 	305	UG	2GGUU	FlyingNEWLINEWhenever one or more creatures you control attack or block, they get +X/+Y until end of turn, where X is the greatest power among creatures you control and Y is equal to the greatest toughness among creatures you control.	3/3		normal	PUB		POKEMON

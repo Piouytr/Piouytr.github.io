@@ -1,0 +1,1 @@
+﻿Iron Valiant	WU	rare	Artifact Creature – Construct Warrior 	263	WU	3WU	First strikeNEWLINEWhenever you cast an instant or sorcery that doesn’t target, you may copy it. If you do, put a +1/+1 counter on this creature. This ability triggers only once each turn.	4/4		normal	PUB		POKEMON

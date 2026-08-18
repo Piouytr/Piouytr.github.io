@@ -1,0 +1,1 @@
+﻿Articuno, Paralyzing Gaze	U	rare	Legendary Creature – Elemental Bird 	59	U	1UUU	FlyingNEWLINEWhenever one or more stun counters are removed from a permanent you don’t control, draw a card.NEWLINE1U: Tap or untap target nonland permanent.	3/3		normal	PUB		Pokemon

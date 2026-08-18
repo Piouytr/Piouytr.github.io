@@ -1,0 +1,1 @@
+﻿Shrike	WU	rare	Artifact – Vehicle 	339	WU	2WU	Flying, vigilance, protection from mana value 1 or lessNEWLINEWhenever a creature you control with flying attacks or blocks, it gets +1/+1 for each tapped creature you control until end of turn.NEWLINECrew 3	4/5		normal	PUB		Battletech

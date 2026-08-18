@@ -1,0 +1,1 @@
+﻿Raiden, God of Thunder	WUR	mythic	Legendary Creature – Demigod 	318	WUR	3URW	Vigilance, prowessNEWLINEWhenever you cast a spell with mana value 4 or greater, create a 4/1 red Elemental creature token with haste. Sacrifice it at the beginning of the next end step.	5/5		normal	PUB		Mortal Kombat

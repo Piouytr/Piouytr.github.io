@@ -1,0 +1,1 @@
+﻿Oran-Rief, the Vastwood		mythic	Legendary Land – Forest 	442	G		(T: Add G.)NEWLINEOran-Rief enters tapped.NEWLINE5G, T: Target creature you control gets +4/+4. This ability costs 1 less for each other Forest you control. Activate only as a sorcery.			normal	PUB		REMAKE

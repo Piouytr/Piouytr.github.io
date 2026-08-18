@@ -1,0 +1,1 @@
+﻿Imposing Tyranitar	RG	rare	Creature – Lizard Beast 	259	RG	3RG	TrampleNEWLINEAt the beginning of your upkeep, put a +1/+1 counter on this creature and it deals 1 damage to each other creature.	5/5		normal	PUB		Pokemon

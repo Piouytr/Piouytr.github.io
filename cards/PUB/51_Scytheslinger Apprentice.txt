@@ -1,0 +1,1 @@
+﻿Scytheslinger Apprentice	W	rare	Creature – Kor Warrior 	51	W	WW		2/2		normal	PUB		Unique

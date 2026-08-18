@@ -1,0 +1,1 @@
+﻿Dutiful Streetcleaner	WR	uncommon	Artifact Creature – Robot 	219	WR	1RW	HasteNEWLINEThis creature can’t be blocked by creatures with power 2 or less.NEWLINEWhenever a card is put into a graveyard, exile it.	3/2		normal	PUB		Ultrakill

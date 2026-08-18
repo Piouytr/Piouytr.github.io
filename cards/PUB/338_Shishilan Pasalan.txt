@@ -1,0 +1,1 @@
+﻿Shishilan Pasalan	WG	mythic	Legendary Creature – Giant Cat 	338	WG	4GGW	TrampleNEWLINEWhenever Shishilan Pasalan attacks, Cats you control get +X/+X until end of turn, where X is the number of Cats you control.	6/6		normal	PUB		Battle Cats

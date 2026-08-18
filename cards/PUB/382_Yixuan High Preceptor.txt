@@ -1,0 +1,1 @@
+﻿Yixuan, High Preceptor	WUG	mythic	Legendary Creature – Human Monk 	382	WUG	2GWU	VigilanceNEWLINEWhenever Yixuan enters or attacks, create a token that’s a copy of another target permanent, except its a 1/1 black and white Inkling creature in addition to its other types.	4/4		normal	PUB		ZZZ

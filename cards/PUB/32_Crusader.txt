@@ -1,0 +1,1 @@
+﻿Crusader	W	rare	Artifact – Vehicle 	32	W	3WW	Vigilance, lifelinkNEWLINEWhenever a Vehicle you control becomes crewed for the first time each turn, each Vehicle you control gets +1/+1 until end of turn.NEWLINECrew 3	5/5		normal	PUB		Battletech

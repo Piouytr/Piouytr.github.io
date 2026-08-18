@@ -1,0 +1,1 @@
+﻿Fern the Hidden	WU	mythic	Legendary Creature – Human Wizard 	230	WU	2WU	ProwessNEWLINEShroud (This creature can’t be the target of spells or abilities.)NEWLINEWhenever you cast an instant or sorcery spell with mana value 1, draw a card.	3/3		normal	PUB		FRIEREN

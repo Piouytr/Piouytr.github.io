@@ -1,0 +1,1 @@
+﻿Heresy		common	Plane – Hell 	13	C		Creatures have “At the beginning of your upkeep, pay X or sacrifice this creature, where X is this creature’s mana value.”			plane card	PUB		Planechase

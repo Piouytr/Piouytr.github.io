@@ -1,0 +1,1 @@
+﻿Manato, the Stalwart	WBR	rare	Legendary Creature – Dog Warrior 	284	WBR	2RWB	MenaceNEWLINEWhenever you lose life, Manato gets +X/+X until end of turn, where X is the amount of life you lost.NEWLINEWhenever Manato attacks, you lose 2 life.	3/3		normal	PUB		ZZZ

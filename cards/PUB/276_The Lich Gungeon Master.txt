@@ -1,0 +1,1 @@
+﻿The Lich, Gungeon Master	UBR	mythic	Legendary Creature – Skeleton Slinger 	276	UBR	4UBR	First strikeNEWLINEWhen The Lich enters and whenever you cast a spell, The Lich deals 1 damage to any target.NEWLINELich’s Eye Bullets – You may pay 0 rather than the additional costs of spells you cast.	5/5		normal	PUB		Unique

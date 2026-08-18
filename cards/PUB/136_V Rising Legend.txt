@@ -1,0 +1,1 @@
+﻿V, Rising Legend	R	mythic	Legendary Creature – Human Mercenary 	136	R	1RR	Partner with Johnny Silverhand, EngramNEWLINEHasteNEWLINEWhenever a creature you control deals combat damage to a player, create a tapped Treasure token.	2/2		normal	PUB		Cyberpunk

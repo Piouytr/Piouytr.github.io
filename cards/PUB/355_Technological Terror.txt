@@ -1,0 +1,1 @@
+﻿Technological Terror	RG	rare	Artifact Creature – Robot Dinosaur 	355	RG	3RG	TrampleNEWLINEWhenever an artifact creature you control attacks, it gets +1/+0 for each artifact card in your graveyard until end of turn.	5/5		normal	PUB		Unqiue

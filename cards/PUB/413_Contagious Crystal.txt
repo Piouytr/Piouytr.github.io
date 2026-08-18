@@ -1,0 +1,1 @@
+﻿Contagious Crystal		rare	Artifact	413	C	3	T: Add one mana of any color.NEWLINEAt the beginning of your end step, target nonland permanent you control becomes a copy of this artifact.			normal	PUB		SCP

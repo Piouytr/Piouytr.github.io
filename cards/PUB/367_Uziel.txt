@@ -1,0 +1,1 @@
+﻿Uziel	UG	rare	Artifact – Vehicle 	367	UG	1GGU	FlashNEWLINEYou may cast Vehicle spells as though they had flash.NEWLINEWhenever this Vehicle or another Vehicle you control enters, it becomes a creature in addition to its other types until end of turn.NEWLINECrew 3	7/5		normal	PUB		Battletech

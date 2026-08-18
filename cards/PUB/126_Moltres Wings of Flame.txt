@@ -1,0 +1,1 @@
+﻿Moltres, Wings of Flame	R	rare	Legendary Creature – Elemental Bird 	126	R	1RRR	FlyingNEWLINE1R: Creatures you control get +1/+0 until end of turn.NEWLINEIf Moltres would deal damage, it deals double that damage instead.	3/3		normal	PUB		POKEMON

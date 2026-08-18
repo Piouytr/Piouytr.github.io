@@ -1,0 +1,1 @@
+﻿Seth, Naive Protector	WU	rare	Legendary Creature – Cat Officer  	335	WU	2WU	Vigilance, ward 2NEWLINEIf another creature you control would be dealt damage by a source you don’t control, you may pay W/U. If you do, that damage is dealt to Seth instead, then draw a card.	2/6		normal	PUB		ZZZ

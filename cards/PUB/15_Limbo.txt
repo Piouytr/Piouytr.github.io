@@ -1,0 +1,1 @@
+﻿Limbo		common	Plane – Hell 	15	C		Spells can’t be cast from hands.NEWLINESpells in each player’s hand have suspend X–0, where X is that spell’s mana value.			plane card	PUB		Planechase

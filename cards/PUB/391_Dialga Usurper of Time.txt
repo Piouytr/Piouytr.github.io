@@ -1,0 +1,1 @@
+﻿Dialga, Usurper of Time	WU	mythic	Legendary Creature – Dragon Demigod 	391	WU	3W/UW/UW/U	VigilanceNEWLINEWhenever Dialga enters or attacks, search your library for a nonland card and exile it. Put two time counters on it. If it doesn’t have suspend, it gains suspend. Then shuffle.	6/6		normal	PUB		POKEMON

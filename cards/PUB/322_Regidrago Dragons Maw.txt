@@ -1,0 +1,1 @@
+﻿Regidrago, Dragon's Maw	RG	rare	Legendary Creature – Dragon Golem 	322	RG	3RG	FlyingNEWLINEOther Golems you control get +1/+1, have flying, and are Dragons in addition to their other types.NEWLINE1R: Dragons you control get +1/+0 until end of turn.	5/5		normal	PUB		Pokemon

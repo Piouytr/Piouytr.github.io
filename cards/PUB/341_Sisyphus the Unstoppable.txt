@@ -1,0 +1,1 @@
+﻿Sisyphus, the Unstoppable	WBR	mythic	Legendary Creature – Spirit 	341	WBR	3RWB	TrampleNEWLINEWhenever a creature enters under an opponent’s control, Sisyphus gets +1/+1 until the end of your next turn.NEWLINEWhenever Sisyphus deals combat damage, he deals that much damage to any target.	5/5		normal	PUB		Ultrakill

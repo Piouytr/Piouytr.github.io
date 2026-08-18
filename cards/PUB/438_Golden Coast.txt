@@ -1,0 +1,1 @@
+﻿Golden Coast		rare	Land	438	WU		T: Add C.NEWLINET: Add W or U. Each opponent gains 1 life.			normal	PUB		UniqueNEWLINEElder Scrolls

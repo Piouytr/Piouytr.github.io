@@ -1,0 +1,1 @@
+﻿Charming Eevee	W	rare	Creature – Beast 	29	W	W	At the beginning of your end step, put an evolution counter on this creature if you gained life this turn. Then you may exile it. If you do, you may put a creature with mana value less than or equal to the number of evolution counters that were on it onto the battlefield.	2/1		normal	PUB		Pokemon

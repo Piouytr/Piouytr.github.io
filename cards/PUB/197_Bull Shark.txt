@@ -1,0 +1,1 @@
+﻿Bull Shark	WR	mythic	Artifact – Vehicle 	197	WR	4RW	Whenever this Vehicle attacks, it deals 3 damage to any target.NEWLINEOther attacking creatures you control get +2/+1.NEWLINECrew 3	6/6		normal	PUB		Battletech

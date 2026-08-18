@@ -1,0 +1,1 @@
+﻿Tyrfing Aggressor	WG	common	Creature – Mutant Warrior 	402	WG	1G/W	VigilanceNEWLINEWhen this creature enters, put a +1/+1 counter on target Mutant you control.	1/2		normal	PUB		ZZZ

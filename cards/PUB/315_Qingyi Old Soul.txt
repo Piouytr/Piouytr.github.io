@@ -1,0 +1,1 @@
+﻿Qingyi, Old Soul	UG	mythic	Legendary Artifact Creature – Robot Officer 	315	UG	1GU	When Qinqyi enters, put a +1/+1 counter on target creature you control.NEWLINEWhenever Qinqyi attacks, for each kind of counter on target permanent you control, you may put one of that kind of counter on her.	2/2		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Dimensional Infiltrator		rare	Creature – Eldrazi Drone 	62	U	1U	Devoid (This card has no color.)NEWLINEFlashNEWLINEFlying, ingestNEWLINEWhenever a player exiles a land card, you may return this creature to its owner’s hand. If you do, surveil 1.	2/1		normal	PUB		Remake

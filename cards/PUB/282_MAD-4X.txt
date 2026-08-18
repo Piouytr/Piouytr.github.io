@@ -1,0 +1,1 @@
+﻿MAD-4X	BR	rare	Legendary Artifact – Vehicle 	282	BR	2BR	MenaceNEWLINEWhenever you cast a noncreature spell, put a +1/+1 counter on each permanent you control with menace.NEWLINECrew 2	4/4		normal	PUB		BATTLETECH

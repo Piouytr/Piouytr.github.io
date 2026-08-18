@@ -1,0 +1,1 @@
+﻿Qenari, Flameborn	R	rare	Legendary Creature – Human Wizard 	129	R	2R	ProwessNEWLINEWhenever you cast an instant or sorcery spell, if you didn’t cast it from your hand, put a +1/+1 counter on Qenari.	2/2		normal	PUB		Unique

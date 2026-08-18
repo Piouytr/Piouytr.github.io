@@ -1,0 +1,1 @@
+﻿Kasatrix Watchman	W	uncommon	Creature – Spirit Soldier 	40	W	WW	VigilanceNEWLINEWhenever you cast a spell from anywhere other than your hand, create a 1/1 white Soldier creature token.	2/2		normal	PUB		Unique

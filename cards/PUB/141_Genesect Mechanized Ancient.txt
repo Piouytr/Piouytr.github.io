@@ -1,0 +1,1 @@
+﻿Genesect, Mechanized Ancient	G	rare	Legendary Artifact Creature – Insect 	141	G	4G	TrampleNEWLINESunburst (This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.)NEWLINEGenesect gets +1/+1 for each color among spells you’ve cast this turn.	2/1		normal	PUB		POKEMON

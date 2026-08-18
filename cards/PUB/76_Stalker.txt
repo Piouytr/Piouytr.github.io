@@ -1,0 +1,1 @@
+﻿Stalker	U	mythic	Artifact – Vehicle 	76	U	1UUU	Whenever a Vehicle you control attacks, look at the top three cards of your library. You may reveal any number of artifact cards from among them and put them into your hand. Put the rest on the bottom of your library in any order.NEWLINECrew 4	7/6		normal	PUB		Battletech

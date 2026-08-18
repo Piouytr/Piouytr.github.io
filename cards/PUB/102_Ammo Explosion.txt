@@ -1,0 +1,1 @@
+﻿Ammo Explosion	R	uncommon	Instant	102	R	R	This spell deals 5 damage to target permanent that was dealt damage this turn. When a permanent dealt damage this way is put into a graveyard this turn, create a Treasure token.			normal	PUB		Battletech

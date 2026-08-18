@@ -1,0 +1,1 @@
+﻿Elder Kingambit	WB	mythic	Creature – Elder Noble 	220	WB	3WB	Menace, ward 2NEWLINESupreme Overlord – Whenever this creature or another creature you control enters, put +1/+1 counters on it equal to the number of creatures you control that died this turn.	3/3		normal	PUB		POKEMON

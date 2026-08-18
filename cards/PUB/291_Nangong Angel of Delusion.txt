@@ -1,0 +1,1 @@
+﻿Nangong, Angel of Delusion	WUG	mythic	Legendary Creature – Angel Bard 	291	WUG	1GWU	FlyingNEWLINEAt the beginning of your upkeep, populate. (Create a token that’s a copy of a creature token you control.)NEWLINEToken creatures you control get +1/+1 and have lifelink.	3/3		normal	PUB		ZZZ

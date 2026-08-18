@@ -1,0 +1,1 @@
+﻿Alice, Champion of Symmetry	WG	mythic	Legendary Creature – Rabbit Warrior 	164	WG	2GW	Vigilance NEWLINEWhenever another nonland permanent you control with an even mana value enters, you gain 2 life.NEWLINEAs long as your life total is an even number, creatures you control get +2/+2.	2/2		normal	PUB		ZZZ

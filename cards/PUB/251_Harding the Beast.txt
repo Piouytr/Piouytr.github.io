@@ -1,0 +1,1 @@
+﻿Harding, the Beast	WBR	mythic	Legendary Creature – Human Rogue 	251	WBR	2RWB	Trample, hasteNEWLINEWhenever Harding attacks, he gets +1/+1 until end of turn for each creature your opponents control.NEWLINEWhenever Harding deals combat damage to a player, exile that many cards from the top of your library, you may play them until end of turn.	2/2		normal	PUB		Unique

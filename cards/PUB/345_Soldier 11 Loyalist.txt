@@ -1,0 +1,1 @@
+﻿Soldier 11, Loyalist	WB	mythic	Legendary Creature – Human Soldier 	345	WB	1WB	First strikeNEWLINEWhenever this creature attacks, put a +1/+1 counter on each other Soldier you control.NEWLINEWhenever a nontoken Soldier you control dies, create two 1/1 white Soldier creature tokens.	2/2		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Hermaeus Mora, Fate Keeper	UB	mythic	Legendary Creature – Daedra 	253	UB	4UB	If a player would draw a card, they draw two cards instead.NEWLINEAt the beginning of each player’s end step, they lose life equal to twice the number of cards in their hand.NEWLINEHermaeus Mora’s power and toughness are equal to twice the number of cards in your hand.	*/*		normal	PUB		Elder Scrolls

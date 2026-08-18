@@ -1,0 +1,1 @@
+﻿Piper, Retirement Bound	WG	rare	Legendary Creature – Human Warrior 	310	WG	1GW	Outlast 2W (2W, T: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)NEWLINEOther creatures you control have outlast 2W.NEWLINEWhenever a creature you control becomes tapped, if it isn’t attacking, Double the number of +1/+1 counters on it.	2/2		normal	PUB		ZZZ

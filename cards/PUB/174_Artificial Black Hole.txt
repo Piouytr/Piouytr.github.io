@@ -1,0 +1,1 @@
+﻿Artificial Black Hole	WUB	rare	Artifact	174	WUB	WUB	When this artifact enters, exile all graveyards.NEWLINE2, Sacrifice this artifact: You may cast a card exiled with this artifact without paying its mana cost. Activate only as a sorcery.			normal	PUB		Unique

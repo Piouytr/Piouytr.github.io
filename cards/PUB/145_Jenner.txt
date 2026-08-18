@@ -1,0 +1,1 @@
+﻿Jenner	G	uncommon	Artifact – Vehicle 	145	G	2G	TrampleNEWLINEWhenever this Vehicle becomes blocked, it gets +1/+1 for each creature blocking it until end of turn.NEWLINECrew 2	3/2		normal	PUB		Battletech

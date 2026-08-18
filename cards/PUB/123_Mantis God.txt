@@ -1,0 +1,1 @@
+﻿Mantis God	R	mythic	Legendary Creature – Insect God 	123	R	R	As an additional cost to cast this spell, sacrifice a creature.NEWLINEIf this creature would deal damage, it deals that much damage plus 2 instead.	1/1		normal	PUB		INSCRYPTION

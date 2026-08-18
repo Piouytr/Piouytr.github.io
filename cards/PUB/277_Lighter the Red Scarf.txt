@@ -1,0 +1,1 @@
+﻿Lighter, the Red Scarf	WR	mythic	Legendary Creature – Human Warrior 	277	WR	2RW	First strikeNEWLINEWhenever Lighter attacks, attacking creatures you control get +1/+1 for each equipment attached to Lighter until end of turn.NEWLINEWhenever you attach an Equipment to a creature you control, draw a card. This ability only triggers once each turn.	3/3		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Nurgle, Lord of Decay	BG	mythic	Legendary Enchantment Creature – God 	299	BG	1BG	Wither, indestructibleNEWLINENurgle isn’t a creature unless there are six or more -1/-1 counters among all permanents.NEWLINEWhenever a nontoken creature you control enters, put a -1/-1 counter on target creature.	3/7		normal	PUB		Warhammer

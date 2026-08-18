@@ -1,0 +1,1 @@
+﻿Machinery of Oppression	WB	rare	Artifact	281	WB	1WB	Whenever a creature you don’t control enters, create a 1/1 black Automaton artifact creature token unless that creature’s controller pays 2 life.NEWLINEArtifact creatures you control have afflict 1. (Whenever that creature becomes blocked, defending player loses 1 life.)			normal	PUB		Helldivers

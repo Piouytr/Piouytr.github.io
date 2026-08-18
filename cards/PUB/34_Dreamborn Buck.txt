@@ -1,0 +1,1 @@
+﻿Dreamborn Buck	W	uncommon	Enchantment Creature – Elk 	34	W	1WW	VigilanceNEWLINEWhen this creature enters, if it wasn’t cast from your hand, you gain 3 life.NEWLINEWhenever you gain life for the first time each turn, put a +1/+1 counter on this creature.	3/3		normal	PUB		Unique

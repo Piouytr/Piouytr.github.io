@@ -1,0 +1,1 @@
+﻿Corin, Ever-Shy	U	rare	Legendary Creature – Human 	61	U	2U	VigilanceNEWLINEWhenever Corin attacks or blocks, she gets +1/+1 for each card you’ve drawn this turn until end of turn.	2/2		normal	PUB		ZZZ

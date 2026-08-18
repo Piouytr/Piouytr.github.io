@@ -1,0 +1,1 @@
+﻿Harumasa, Master Marksman	WG	mythic	Legendary Creature – Human Archer 	252	WG	2GW	ReachNEWLINEInstant and sorcery spells you cast can’t be countered.NEWLINEWhenever you cast an instant or sorcery spell, put a +1/+1 counter on target creature.	3/4		normal	PUB		ZZZ

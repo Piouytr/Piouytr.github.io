@@ -1,0 +1,1 @@
+﻿Orion		rare	Artifact – Vehicle 	423	C	3	First strikeNEWLINEAs long as you control four or more other creatures, this Vehicle is a creature in addition to its other types.NEWLINECrew 3	5/5		normal	PUB		BATTLETECH

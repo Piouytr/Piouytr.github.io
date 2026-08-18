@@ -1,0 +1,1 @@
+﻿Gluttonous Cacodemon	BR	rare	Creature – Demon 	240	BR	2BR	FlyingNEWLINEDevour 1 (As this creature enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)NEWLINEWhenever a creature you control enters, if it devoured another creature, it deals damage equal to its power to up to one target creature.	3/3		normal	PUB		Doom

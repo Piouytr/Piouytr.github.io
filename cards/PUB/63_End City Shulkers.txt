@@ -1,0 +1,1 @@
+﻿End City Shulkers	U	rare	Creature – Beast 	63	U	2U	Vigilance, reachNEWLINECreatures with flying can’t block.NEWLINEAt the beginning of combat on your turn, another target creature gains flying until end of turn.	3/3		normal	PUB		Minecraft

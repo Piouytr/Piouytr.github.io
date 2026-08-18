@@ -1,0 +1,1 @@
+﻿Containment Team	WB	rare	Artifact Creature – Human Synth Soldier 	206	WB	CWB	VigilanceNEWLINEWhenever a nonland permanent enters under an opponent’s control, they may pay 1. If they don’t, they sacrifice that permanent.	3/3		normal	PUB		Half-Life

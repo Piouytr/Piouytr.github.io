@@ -1,0 +1,1 @@
+﻿V1, Merciless Machine	BR	mythic	Legendary Artifact Creature – Robot 	368	BR	BR	MenaceNEWLINEWhenever V1 deals combat damage to another permanent, create that many Blood tokens.NEWLINEWhenever you sacrifice a Blood, put a +1/+1 counter on V1.	2/1		normal	PUB		Ultrakill

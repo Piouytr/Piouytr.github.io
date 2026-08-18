@@ -1,0 +1,1 @@
+﻿Nightmare, Dark Host	B	mythic	Legendary Creature – Nightmare Knight 	94	B	3BB	TrampleNEWLINEWhenever a creature dies, exile it.NEWLINEWhenever a creature card is put into exile, choose one–NEWLINE• Put a +1/+1 counter on Nightmare.NEWLINE• Each opponent loses 1 life and you gain 1 life.	5/5		normal	PUB		Soulcalibur

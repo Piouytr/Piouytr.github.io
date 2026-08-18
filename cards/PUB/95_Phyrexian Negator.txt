@@ -1,0 +1,1 @@
+﻿Phyrexian Negator	B	rare	Creature – Phyrexian Horror 	95	B	2B	TrampleNEWLINEWhenever this creature is dealt damage, sacrifice that many permanents.	5/5		normal	PUB		Reprint

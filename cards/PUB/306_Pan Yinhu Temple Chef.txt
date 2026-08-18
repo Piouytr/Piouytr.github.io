@@ -1,0 +1,1 @@
+﻿Pan Yinhu, Temple Chef	WG	rare	Legendary Creature – Bear Monk 	306	WG	1GW	VigilanceNEWLINEWhen Pan Yinhu enters, create a Food token.NEWLINEWhenever you sacrifice a Food, put a +1/+1 counter on target creature.	3/3		normal	PUB		ZZZ

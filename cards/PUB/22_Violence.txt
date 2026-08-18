@@ -1,0 +1,1 @@
+﻿Violence		common	Plane – Hell 	22	C		When you planeswalk to Violence, it deals 5 damage to each creature and planeswalker.NEWLINEWhenever a player casts a spell, Violence deals 1 damage to each player.			plane card	PUB		Planechase

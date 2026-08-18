@@ -1,0 +1,1 @@
+﻿Skullbriar, Undying Menace	BG	rare	Legendary Creature – Zombie Elemental 	342	BG	BBG	HasteNEWLINEWhenever another creature you control dies, for each kind of counter on it, you may put one counter of that kind on Skullbriar.NEWLINECounters remain on Skullbriar as it moves to any zone other than a player’s hand or library.	2/2		normal	PUB		Unique

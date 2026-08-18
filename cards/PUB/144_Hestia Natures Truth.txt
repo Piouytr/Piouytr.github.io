@@ -1,0 +1,1 @@
+﻿Hestia, Nature's Truth	G	rare	Legendary Creature – Elemental Angel 	144	G	3GG	FlyingNEWLINELandfall – Whenever a land you control enters, you may put two +1/+1 counters on it. If you do, it becomes a 0/0 creature in addition to its other types.NEWLINELand creatures you control have reach.	5/5		normal	PUB		Unique

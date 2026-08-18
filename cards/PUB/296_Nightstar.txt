@@ -1,0 +1,1 @@
+﻿Nightstar	WU	mythic	Artifact – Vehicle 	296	WU	4WU	LifelinkNEWLINEAt the beginning of your end step, look at the top X cards of your library, where X is the amount of life you gained this turn. Put one of those cards into your hand and the rest on the bottom of your library in a random order.NEWLINECrew 3	6/6		normal	PUB		Battletech

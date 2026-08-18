@@ -1,0 +1,1 @@
+﻿Anby, Hollow Specialist	W	rare	Legendary Creature – Human Warrior 	26	W	2W	First strikeNEWLINEWhenever Anby deals combat damage, you may have her deal 2 damage to each attacking or blocking creature.	2/2		normal	PUB		ZZZ

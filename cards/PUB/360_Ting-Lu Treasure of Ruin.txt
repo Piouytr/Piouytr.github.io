@@ -1,0 +1,1 @@
+﻿Ting-Lu, Treasure of Ruin	UB	mythic	Legendary Creature – Incarnation 	360	UB	2UB	Vessel of Ruin – Whenever a nontoken enchantment or artifact you control enters, surveil 1.NEWLINEWhenever Ting-Lu attacks, it gets +1/+1 for each artifact and enchantment card in your graveyard until end of turn.	2/4		normal	PUB		POKEMON

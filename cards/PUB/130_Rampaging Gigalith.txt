@@ -1,0 +1,1 @@
+﻿Rampaging Gigalith	R	rare	Creature – Elemental Beast 	130	R	3RR	MenaceNEWLINELandfall – Whenever a land you control enters for the first time each turn, this creature deals damage equal to its power to any nonplayer target.	4/4		normal	PUB		POKEMON

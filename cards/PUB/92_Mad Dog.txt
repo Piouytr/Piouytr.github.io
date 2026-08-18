@@ -1,0 +1,1 @@
+﻿Mad Dog	B	rare	Artifact – Vehicle 	92	B	1BB	MenaceNEWLINEWhenever a creature or artifact card is put into your graveyard, put a +1/+1 counter on this Vehicle.NEWLINECrew 2	3/3		normal	PUB		Battletech

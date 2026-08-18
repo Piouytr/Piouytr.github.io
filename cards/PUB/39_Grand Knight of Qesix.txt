@@ -1,0 +1,1 @@
+﻿Grand Knight of Qesix	W	rare	Creature – Centaur Knight 	39	W	1WW	VigilanceNEWLINEIf one or more creature tokens would be created under your control, you may create that many 2/2 white Centaur Knight creature tokens with vigilance instead.	3/3		normal	PUB		Unique

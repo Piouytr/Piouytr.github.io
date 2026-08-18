@@ -1,0 +1,1 @@
+﻿Awesome	R	mythic	Artifact – Vehicle 	105	R	2RRRR	HasteNEWLINEAs long as this Vehicle is a creature, if a Vehicle or Pilot you control would deal damage, they deal triple that damage instead.NEWLINECrew 4	3/4		normal	PUB		Battletech

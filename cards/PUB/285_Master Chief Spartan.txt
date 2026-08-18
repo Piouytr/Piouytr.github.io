@@ -1,0 +1,1 @@
+﻿Master Chief, Spartan	WU	mythic	Legendary Creature – Human Soldier 	285	WU	4WU	VigilanceNEWLINEWhen Master Chief enters, create a 1/1 white Soldier creature token for each Soldier you control.NEWLINEOther Soldiers you control get +1/+1 and have vigilance.	4/4		normal	PUB		Halo

@@ -1,0 +1,1 @@
+﻿Yanagi, Blood Bound	WU	mythic	Legendary Creature – Human Warrior 	379	WURG	2WU	Ward 2NEWLINEWhenever a creature you control attacks, you may pay R or G. If you paid R, put a menace counter on that creature. If you paid G, put a trample counter on that creature.NEWLINEAt the beginning of your end step, put a +1/+1 counter on each tapped creature you control.	4/4		normal	PUB		ZZZ

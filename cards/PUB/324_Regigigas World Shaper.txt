@@ -1,0 +1,1 @@
+﻿Regigigas, World Shaper	WURG	mythic	Legendary Creature – Elder Golem 	324	WURG	RGWU	Regigigas enters tapped with three stun counters on it.NEWLINEWhenever another Golem you control enters, untap Regigigas.NEWLINETrample, protection from mana value 3 or less.	8/8		normal	PUB		Pokemon

@@ -1,0 +1,1 @@
+﻿Witch-Maw Nephilim	WUBG	mythic	Legendary Creature – Nephilim  	376	WUBG	GWUB	TrampleNEWLINEWhenever you cast a spell, you may put two +1/+1 counter on Witch-Maw Nephilim.NEWLINEAs long as Witch-Maw Nephilim’s power is 10 or greater, it has ward–discard two cards.	1/1		normal	PUB		REMAKE

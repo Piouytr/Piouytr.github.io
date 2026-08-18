@@ -1,0 +1,1 @@
+﻿Providence	W	rare	Creature – Angel Eye 	49	W	WWW	Flying, protection from instantsNEWLINEYou may cast sorcery spells as though they had flash.NEWLINESpells you cast during an opponent’s turn cost 1 less to cast.	4/2		normal	PUB		Ultrakill

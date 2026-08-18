@@ -1,0 +1,1 @@
+﻿Grotesque Mass		rare	Creature – Eldrazi Processor 	249	WB	3WB	Devoid (This card has no color.)NEWLINEMenaceNEWLINEWhen this creature enters, you may put three cards your opponents own from exile into their owners’ graveyards. If you do, exile target nonland permanent.	5/4		normal	PUB		NEWLINEUnique

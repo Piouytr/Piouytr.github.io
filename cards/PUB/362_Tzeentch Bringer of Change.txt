@@ -1,0 +1,1 @@
+﻿Tzeentch, Bringer of Change	UB	mythic	Legendary Enchantment Creature – God 	362	UB	2UB	Menace, indestructibleNEWLINETzeentch isn’t a creature unless players have drawn five or more cards since the beginning of your last turn.NEWLINEIf a player would draw one or more cards, instead each player draws that many cards.	4/4		normal	PUB		Warhammer

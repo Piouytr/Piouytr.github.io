@@ -1,0 +1,1 @@
+﻿Urbanmech		common	Artifact – Vehicle 	429	C	1	TrampleNEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	PUB		BATTLETECH

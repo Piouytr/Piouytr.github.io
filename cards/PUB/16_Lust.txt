@@ -1,0 +1,1 @@
+﻿Lust		common	Plane – Hell 	16	C		Creatures can’t attack or block alone.NEWLINEAt the beginning of your upkeep, create a 0/1 colorless Spirit creature token.			plane card	PUB		Planechase

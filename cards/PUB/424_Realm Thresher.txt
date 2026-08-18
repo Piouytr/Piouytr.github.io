@@ -1,0 +1,1 @@
+﻿Realm Thresher		rare	Artifact Creature – Construct 	424	C	5	HasteNEWLINEWhenever a land you control leaves the battlefield, put your choice of a counter from among first strike, vigilance, trample, lifelink, and +1/+1 on this creature.	4/4		normal	PUB		Unique

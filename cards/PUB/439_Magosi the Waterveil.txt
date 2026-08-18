@@ -1,0 +1,1 @@
+﻿Magosi, the Waterveil		mythic	Legendary Land – Island 	439	C		(T: Add U.)NEWLINEMagosi enters tapped.NEWLINET: Put an eon counter on Magosi for each Island you control.NEWLINET, Remove twenty eon counters from Magosi and return it to your hand: Draw seven cards.			normal	PUB		REMAKE

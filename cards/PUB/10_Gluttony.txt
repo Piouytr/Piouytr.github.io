@@ -1,0 +1,1 @@
+﻿Gluttony		common	Plane – Hell 	10	C		Permanents are Foods in addition to their other types and have “2, T, Sacrifice this permanent: You gain 3 life.”			plane card	PUB		Planechase

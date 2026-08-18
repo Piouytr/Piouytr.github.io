@@ -1,0 +1,1 @@
+﻿Mox Lazotep		mythic	Artifact	421	C		T: Add one mana of any color. Use this mana only to cast spells from graveyards or to activate abilities of cards in graveyards.NEWLINEUnearth 0 (0: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)			normal	PUB		Unique

@@ -1,0 +1,1 @@
+﻿Foreboding Aegislash	WB	rare	Artifact Creature – Spirit 	233	WB	1WB	Absorb 3 (If a source would deal damage to this creature, prevent 3 of that damage.)NEWLINEStance Change – Whenever this creature attacks, until end of turn, it gets +4/-3, gains menace, and loses absorb. 	1/4		normal	PUB		POKEMON

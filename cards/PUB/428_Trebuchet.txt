@@ -1,0 +1,1 @@
+﻿Trebuchet		uncommon	Artifact – Vehicle 	428	C	4	VigilanceNEWLINEWhenever a Vehicle you control attacks, put a +1/+1 counter on it.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	4/4		normal	PUB		Battletech

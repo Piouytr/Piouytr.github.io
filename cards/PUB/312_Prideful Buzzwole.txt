@@ -1,0 +1,1 @@
+﻿Prideful Buzzwole	BG	rare	Creature – Alien Insect 	312	BG	2BG	MenaceNEWLINEWhenever this creature becomes the only target of a spell or ability you control for the first time each turn, double its power and toughness until end of turn.	4/4		normal	PUB		POKEMON

@@ -1,0 +1,1 @@
+﻿Banshee	WU	mythic	Artifact – Vehicle 	176	WU	2WWU	First strike, vigilanceNEWLINEAt the beginning of your end step, put X +1/+1 counters on this Vehicle, where X is the number of tapped creatures you control.NEWLINECrew 3	4/4		normal	PUB		Battletech

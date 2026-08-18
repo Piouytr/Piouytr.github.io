@@ -1,0 +1,1 @@
+﻿Executioner	B	mythic	Artifact – Vehicle 	88	B	3BB	Menace, trampleNEWLINEAs long as this Vehicle is a creature, if a creature you don’t control would be dealt damage, exile it instead.NEWLINECrew 3	7/6		normal	PUB		Battletech

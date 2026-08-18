@@ -1,0 +1,1 @@
+﻿Valakut, the Molten Pinnacle		mythic	Legendary Land – Mountain 	446	C		(T: Add R.)NEWLINEValakut enters tapped.NEWLINEWhenever a Mountain you control enters, if you control at least six Mountains, you may have Valakut deal 2 damage to target player.			normal	PUB		REMAKE

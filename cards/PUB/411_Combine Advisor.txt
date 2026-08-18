@@ -1,0 +1,1 @@
+﻿Combine Advisor		mythic	Artifact Creature – Alien Synth Advisor 	411	C	3CC	FlyingNEWLINEWhenever this creature attacks, you may tap up to two untapped artifacts you control, if you do, each of those artifacts deals damage equal to its mana value to the defending player.	4/4		normal	PUB		Half-Life

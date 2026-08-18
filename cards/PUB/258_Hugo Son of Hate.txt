@@ -1,0 +1,1 @@
+﻿Hugo, Son of Hate	WB	mythic	Legendary Creature – Vampire Rogue 	258	WB	3WB	Menace, lifelinkNEWLINEExploit (When this creature enters, you may sacrifice a creature.)NEWLINEWhenever you sacrifice a creature, Hugo deals damage equal to the sacrificed creature’s mana value to any nonplayer target.	4/4		normal	PUB		ZZZ

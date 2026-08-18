@@ -1,0 +1,1 @@
+﻿Mesmerizing Bedari	U	rare	Creature – Bird 	70	U	2UU	FlyingNEWLINEWhen this creature enters, create a 2/1 blue Bird Illusion creature token with flying.NEWLINE1U: Return this creature to its owner’s hand. Scry 1.	2/1		normal	PUB		Unique

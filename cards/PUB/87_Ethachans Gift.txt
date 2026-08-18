@@ -1,0 +1,1 @@
+﻿Ethachan's Gift	B	rare	Instant	87	B	1B	As an additional cost to cast this spell, sacrifice a creature.NEWLINEDraw two cards. The next creature spell you cast this turn costs BB less to cast.			normal	PUB		Unique

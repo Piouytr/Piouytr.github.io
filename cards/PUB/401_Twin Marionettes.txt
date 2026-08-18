@@ -1,0 +1,1 @@
+﻿Twin Marionettes	WB	mythic	Legendary Creature – Mutant Performer 	401	WB	3WW/BB	VigilanceNEWLINEWhenever a nontoken permanent is attached to Twin Marionettes, you may create a token copy of that permanent and attach it to Twin Marionettes. Do this only once each turn.	3/3		normal	PUB		ZZZ

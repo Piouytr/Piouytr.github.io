@@ -1,0 +1,1 @@
+﻿Alluring Nihilego	U	rare	Creature – Alien Jellyfish 	57	U	2UUU	Flying, toxic 1NEWLINEWhen this creature enters, gain control of target creature until this creature leaves the battlefield.NEWLINECreatures you control but don’t own have toxic 2.	3/3		normal	PUB		Pokemon

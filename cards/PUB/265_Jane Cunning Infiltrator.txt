@@ -1,0 +1,1 @@
+﻿Jane, Cunning Infiltrator	UB	mythic	Legendary Creature – Rat Rogue 	265	UB	1UB	SkulkNEWLINEWhenever Jane deals combat damage to a player, they exile the top card of their library. You may play the exiled card as long as it remains exiled and use mana of any type to cast it.	2/3		normal	PUB		ZZZ

@@ -1,0 +1,1 @@
+﻿Eternatus, the Darkest Day	B	mythic	Legendary Creature – Dragon Skeleton 	86	B	2BBB	Flying, menaceNEWLINEWhenever you lose life for the first time each turn, you get that much E.NEWLINEEEE: Eternatus gets +X/+X until end of turn, where X is the amount of E you have.	4/4		normal	PUB		POKEMON

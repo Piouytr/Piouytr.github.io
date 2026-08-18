@@ -1,0 +1,1 @@
+﻿Kintaro	B	rare	Artifact – Vehicle 	91	B	2BB	Sneak 1BBNEWLINEMenaceNEWLINEThis Vehicle is a creature in addition to its other types as long as it entered this turn.NEWLINEWhenever this Vehicle deals combat damage to a player, that player discards a card.NEWLINECrew 2	4/4		normal	PUB		Battletech

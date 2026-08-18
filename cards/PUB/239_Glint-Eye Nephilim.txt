@@ -1,0 +1,1 @@
+﻿Glint-Eye Nephilim	UBRG	mythic	Legendary Creature – Nephilim  	239	UBRG	UBRG	Whenever a creature you control deals combat damage to a player, you may draw that many cards. Do this only once each turn.NEWLINE2, Discard a card: Creatures you control get +1/+1 until end of turn.	2/2		normal	PUB		REMAKE

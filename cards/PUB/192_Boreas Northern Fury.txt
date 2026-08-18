@@ -1,0 +1,1 @@
+﻿Boreas, Northern Fury	WU	mythic	Legendary Snow Creature – Dragon 	192	WU	3WU	FlyingNEWLINEWhenever you cast a snow spell, if mana from a snow source was spent to cast it, copy that spell. You may choose new targets for the copy.NEWLINEOther snow creatures you control get +1/+1.	4/5		normal	PUB		Dragon Shield

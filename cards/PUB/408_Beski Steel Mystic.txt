@@ -1,0 +1,1 @@
+﻿Beski, Steel Mystic		mythic	Legendary Artifact Creature – Construct Shaman 	408	C	5	Whenever you cast an instant or sorcery spell, if no colored mana was spent to cast it, put up to one charge counter on each artifact you control.NEWLINECreatures you control get +1/+1 for each charge counter on them.	5/5		normal	PUB		Unique

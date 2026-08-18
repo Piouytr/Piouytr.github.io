@@ -1,0 +1,1 @@
+﻿Great Canaranix	WRG	rare	Creature – Elder Bird 	248	WRG	1RGW	FlyingNEWLINEWhenever a nontoken Bird you control is dealt damage, create that many 1/1 white Bird creature tokens.NEWLINE1RG, T: This creature fights target creature an opponent controls.	3/3		normal	PUB		Unique

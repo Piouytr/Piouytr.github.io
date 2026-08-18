@@ -1,0 +1,1 @@
+﻿Raven	U	rare	Artifact – Vehicle 	73	U	2U	Skulk (This creature can’t be blocked by creatures with greater power.)NEWLINEWard 1NEWLINEOther Vehicles you control have ward 2.NEWLINEWhenever this Vehicle deals combat damage to a player, draw a card.NEWLINECrew 1	2/3		normal	PUB		BATTLETECH

@@ -1,0 +1,1 @@
+﻿Aria, Star of The Show	WU	mythic	Legendary Artifact Creature – Robot Bard 	173	WU	2WU	Ward 2NEWLINEWhen Aria enters, if she isn’t a token, create a token copy of her except its an Illusion and isn’t legendary.NEWLINESpells you cast that target creatures you control named Aria, Star of The Show, cost 1 less to cast.	2/2		normal	PUB		ZZZ

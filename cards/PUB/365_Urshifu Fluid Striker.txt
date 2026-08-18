@@ -1,0 +1,1 @@
+﻿Urshifu, Fluid Striker	UR	mythic	Legendary Creature – Bear Warrior 	365	UR	1UR	HasteNEWLINECreatures you control with haste or flash can’t be blocked by creatures with greater power.NEWLINEWhenever Urshifu deals combat damage to a player, you may discard a card. If you do, draw a card.	2/2		normal	PUB		Pokemon

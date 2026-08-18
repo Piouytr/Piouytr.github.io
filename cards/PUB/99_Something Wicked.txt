@@ -1,0 +1,1 @@
+﻿Something Wicked	B	mythic	Legendary Creature – Horror 	99	B	BBB	First strike, hasteNEWLINEWhenever Something Wicked deals damage to another permanent, exile that permanent.NEWLINEWhenever Something Wicked becomes a target of a spell or ability, shuffle it into its owner’s library.	1/1		normal	PUB		Ultrakill

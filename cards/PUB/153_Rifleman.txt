@@ -1,0 +1,1 @@
+﻿Rifleman	G	rare	Artifact – Vehicle 	153	G	2G	Trample, reachNEWLINEWhenever this Vehicle attacks, you may destroy target creature with flying.NEWLINECrew 2	4/4		normal	PUB		Battletech

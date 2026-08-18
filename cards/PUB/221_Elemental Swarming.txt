@@ -1,0 +1,1 @@
+﻿Elemental Swarming	RG	rare	Instant	221	RG	XXRG	This spell costs 1 less to cast for each artifact your opponents control.NEWLINECreate X red 2/1 Mutant Soldier creature tokens. If X is 5 or greater, destroy up to one target artifact.			normal	PUB		Battletech

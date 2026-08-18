@@ -1,0 +1,1 @@
+﻿Bringer of Creation		mythic	Creature – Eldrazi Bringer 	2	WUBRG	7CC	You may pay WUBRG rather than pay this spell’s mana cost.NEWLINETrampleNEWLINEAt the beginning of your upkeep, choose a nonland card an opponent owns in exile. You may cast it without paying its mana cost this turn.	5/5		normal	PUB		NEWLINEUnique

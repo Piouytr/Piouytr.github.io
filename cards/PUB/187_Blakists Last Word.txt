@@ -1,0 +1,1 @@
+﻿Blakist's Last Word	WB	mythic	Enchantment – Saga 	187	WB	4WB			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)NEWLINEI – Exile all creatures and artifacts.NEWLINEII – Exile all graveyards.NEWLINEIII – Each player loses life equal to the number of cards they own in exile.	saga	PUB		Battletech

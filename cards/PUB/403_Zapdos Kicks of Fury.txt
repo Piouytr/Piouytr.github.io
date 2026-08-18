@@ -1,0 +1,1 @@
+﻿Zapdos, Kicks of Fury	RG	rare	Legendary Creature – Elemental Bird 	403	RG	1RR/GG	TrampleNEWLINEWhen Zapdos enters, you may have it fight up to one target creature.NEWLINEWhenever a creature you don’t control is dealt excess damage, put a +1/+1 counter on Zapdos.	4/3		normal	PUB		POKEMON

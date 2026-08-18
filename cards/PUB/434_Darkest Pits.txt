@@ -1,0 +1,1 @@
+﻿Darkest Pits		rare	Land	434	BR		T: Add C.NEWLINET: Add B or R. Each opponent gains 1 life.			normal	PUB		UniqueNEWLINEElder Scrolls

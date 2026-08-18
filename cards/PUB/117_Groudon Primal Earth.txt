@@ -1,0 +1,1 @@
+﻿Groudon, Primal Earth	R	mythic	Legendary Creature – Elemental Beast 	117	R	4RRR	MountainwalkNEWLINEDesolate Land – When Groudon enters, put a magma counter on each land. Those lands are basic Mountains for as long as they have a magma counter on them.NEWLINEWhenever another source you control would deal damage, it deals double that damage instead.	6/6		normal	PUB		POKEMON

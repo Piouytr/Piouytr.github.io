@@ -1,0 +1,1 @@
+﻿Emeria, the Sky Ruin		mythic	Legendary Land – Plains 	436	C		(T: Add W.)NEWLINEEmeria enters tapped.NEWLINEAt the beginning of your upkeep, if you control seven or more other Plains, you may put an artifact or enchantment card with mana value 3 or less from your hand onto the battlefield.			normal	PUB		REMAKE

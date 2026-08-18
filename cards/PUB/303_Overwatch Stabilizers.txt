@@ -1,0 +1,1 @@
+﻿Overwatch Stabilizers	WR	rare	Artifact Creature – Human Synth Soldier 	303	WR	1CRW	Double strikeNEWLINEWhenever an artifact creature you control deals combat damage to another creature, exile the top card of your library. You may play it until end of turn.	2/3		normal	PUB		Half-Life

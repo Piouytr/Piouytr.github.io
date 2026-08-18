@@ -1,0 +1,1 @@
+﻿Beholder Engine	BG	uncommon	Artifact Creature – Mutant 	180	BG	2BG	Wither (This deals damage to creatures in the form of -1/-1 counters.)NEWLINEOther Mutants you control get +1/+1 and have wither.	2/4		normal	PUB		ZZZ

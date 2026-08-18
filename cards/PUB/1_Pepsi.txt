@@ -1,0 +1,1 @@
+﻿Pepsi		common	Token Artifact	1	C		T, Sacrifice this token: Add one mana of any color. You gain 3 life.			token	PUB		PEPSI

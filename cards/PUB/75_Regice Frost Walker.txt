@@ -1,0 +1,1 @@
+﻿Regice, Frost Walker	U	rare	Legendary Creature – Elemental Golem 	75	U	2UU	VigilanceNEWLINEOther Golems you control get +1/+1 and have ward 2.NEWLINETap three untapped Golems you control: Draw a card.	4/4		normal	PUB		Pokemon

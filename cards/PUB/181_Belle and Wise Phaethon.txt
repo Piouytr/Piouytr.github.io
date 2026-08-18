@@ -1,0 +1,1 @@
+﻿Belle and Wise, Phaethon	WUR	mythic	Legendary Creature – Human 	181	WUBRG	3URW	When Belle and Wise enters, add WUBRG. You don’t lose this mana as steps and phases end. NEWLINELegendary creatures you control get +1/+1 for each color among unspent mana you have.	2/2		normal	PUB		ZZZ

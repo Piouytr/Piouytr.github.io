@@ -1,0 +1,1 @@
+﻿Dungeon Dwellers	B	uncommon	Creature – Skeleton 	85	B	B	This creature can’t block.	2/1		normal	PUB		MinecraftNEWLINEUnfinished

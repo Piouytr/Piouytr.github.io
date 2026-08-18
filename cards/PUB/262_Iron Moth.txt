@@ -1,0 +1,1 @@
+﻿Iron Moth	UR	rare	Artifact Creature – Insect Construct 	262	UR	2UR	Flying, hasteNEWLINEWhenever a creature you control with haste deals combat damage to a player, create a 1/1 Insect artifact creature token.	4/4		normal	PUB		POKEMON

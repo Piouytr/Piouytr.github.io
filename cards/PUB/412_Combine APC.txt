@@ -1,0 +1,1 @@
+﻿Combine APC		rare	Artifact – Vehicle 	412	C	5	MenaceNEWLINEWhenever this vehicle attacks, it deals X damage to any nonplayer target, where X is the number of untapped artifacts you control.NEWLINECrew 3	5/5		normal	PUB		Half-Life

@@ -1,0 +1,1 @@
+﻿Noble Blazehorn	G	rare	Creature – Elemental Rhino 	151	RG	1GG	TrampleNEWLINEWhenever this creature deals combat damage to a player or planeswalker, destroy up to one target artifact or enchantment.NEWLINEDash 1RG	4/3		normal	PUB		Unique

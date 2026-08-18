@@ -1,0 +1,1 @@
+﻿False Hydra	UB	mythic	Creature – Hydra Horror 	228	UB	UB	Skulk; ingest 2 (Whenever this creature deals combat damage to a player, that player exiles the top two cards of their library.)NEWLINEThis creature gets +1/+1 for each card your opponents own in exile.	1/1		normal	PUB		Unique

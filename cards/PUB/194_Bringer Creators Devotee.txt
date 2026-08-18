@@ -1,0 +1,1 @@
+﻿Bringer, Creator's Devotee	WUB	mythic	Legendary Creature – Mutant 	194	WUB	3WUB	Flying, menaceNEWLINEWhenever you cast a spell, you may sacrifice a nontoken creature with power equal to or greater than its mana value. If you do, copy that spell. You may choose new targets for the copy.	5/5		normal	PUB		ZZZ

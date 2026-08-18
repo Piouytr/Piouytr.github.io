@@ -1,0 +1,1 @@
+﻿Kassiak, the Tattered Dream	UR	rare	Legendary Artifact Creature – Scarecrow Drake 	396	UR	3U/RU/R	Flying, prowessNEWLINEWhenever you cast a noncreature spell, create a 2/2 blue and red Scarecrow artifact creature token with prowess. This ability only triggers once each turn.	4/4		normal	PUB		Unique

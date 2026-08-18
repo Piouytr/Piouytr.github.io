@@ -1,0 +1,1 @@
+﻿Gabriel, Judge of Hell	WR	mythic	Legendary Creature – Angel Warrior 	393	WR	3RR/WW	Flying, double strikeNEWLINEWhenever Gabriel attacks, he gets +1/+1 for each creature defending player controls. NEWLINEWhenever Gabriel deals excess damage to a creature, exile that many cards from the top of your library. You may play them this turn.	4/4		normal	PUB		Ultrakill
